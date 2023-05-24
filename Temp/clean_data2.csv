@@ -1,4 +1,4 @@
-,Street,Ward,District,Prices,Area,toFace,type,certificate,width,length,floors,Location,Latitude,Longitude,DistanceToCenter,DistanceToBeach
+Street,Ward,District,Prices,Area,toFace,type,certificate,width,length,floors,Location,Latitude,Longitude,DistanceToCenter,DistanceToBeach
 0, Hà Mục,Hòa Thọ Đông,cẩm lệ,5.15,100.0,Tây Nam,Nhà mặt tiền,Không có,5.0,20.0,4.0,"16.01918,108.19537",16.01918,108.19537,5.75091612853228,7.862719981479799
 1, Thi Sách,Hòa Thuận Tây,hải châu,4.1,85.0,Không,Nhà mặt tiền,Không có,,,1.0,"16.0546,108.20547",16.0546,108.20547,2.3891821181548996,4.683769927290528
 2, Ông Ích Khiêm,Tam Thuận,thanh khê,11.0,67.0,Tây,Nhà mặt tiền,Giấy tờ hợp lệ,3.8,,3.0,"16.06653,108.2142",16.06653,108.2142,1.4651444628347334,3.4352861094851597

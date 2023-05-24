@@ -1,0 +1,1449 @@
+Address,Prices,Area,toFace,type,certificate,width,length,floors,road_front,Terrace,Parking
+" Đường Hải Phòng, Phường Tân Chính, Quận Thanh Khê, Đà Nẵng"," 2,85 tỷ ", 50 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,"5,5m",---,2,3m,---,---
+" Đường Bạch Đằng, Phường Hải Châu I, Quận Hải Châu, Đà Nẵng", 79 tỷ , 170 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"6,5m",24m,2,15m,,
+" Đường Nguyễn Huy Tưởng, Phường Hòa Minh, Quận Liên Chiểu, Đà Nẵng"," 4,5 tỷ ", 170 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,7m,"27,5m",---,5m,,---
+" Đường Huỳnh Ngọc Huệ, Phường Hòa Khê, Quận Thanh Khê, Đà Nẵng"," 2,25 tỷ ", 76 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,"6,3m",12m,2,3m,,
+" Đường Hoàng Thị Loan, Phường Hòa Minh, Quận Liên Chiểu, Đà Nẵng"," 3,87 tỷ ", 65 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,---,---,3,5m,,
+" Đường Hà Mục, Phường Hòa Thọ Đông, Quận Cẩm Lệ, Đà Nẵng"," 5,15 tỷ ", 100 m2,Tây Nam,Nhà mặt tiền,---,5m,20m,4,7m,---,---
+" Đường Mân Quang 15, Phường Thọ Quang, Quận Sơn Trà, Đà Nẵng"," 5,1 tỷ ", 75 m2,Đông Nam,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,15m,3,"5,5m",,---
+" Đường Hà Huy Tập, Phường Hòa Khê, Quận Thanh Khê, Đà Nẵng"," 4,5 tỷ ", 70 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,5m,14m,3,5m,,---
+" Đường Phạm Nhữ Tăng, Phường Hòa Khê, Quận Thanh Khê, Đà Nẵng"," 3,5 tỷ ", 60 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,4m,15m,3,2m,,---
+" Đường Đỗ Bá, Phường Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng"," 16,8 tỷ ", 90 m2,_,Nhà mặt tiền,Giấy tờ hợp lệ,"5,2m",17m,2,10m,,
+" Đường Hồ Nghinh, Phường Phước Mỹ, Quận Sơn Trà, Đà Nẵng"," 15,5 tỷ ", 125 m2,Tây Bắc,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,25m,3,15m,,
+" Đường Lê Cảnh Tuân, Phường Nại Hiên Đông, Quận Sơn Trà, Đà Nẵng"," 4,4 tỷ ", 87 m2,Đông Nam,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,18m,3,"5,5m",,
+" Đường Ngô Chi Lan, Phường Thuận Phước, Quận Hải Châu, Đà Nẵng"," 3,2 tỷ ", 61 m2,Bắc,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"3,5m",20m,---,"5,5m",---,
+" Đường Lê Cơ, Phường Hòa Cường Bắc, Quận Hải Châu, Đà Nẵng"," 3,9 tỷ ", 68 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,13m,1,4m,,
+" Đường Nại Hiên Đông 12, Phường Nại Hiên Đông, Quận Sơn Trà, Đà Nẵng"," 3,6 tỷ ", 70 m2,Tây Bắc,Nhà mặt tiền,---,"4,5m","15,3m",3,"5,5m",---,---
+" Đường Nại Hiên Đông, Phường Nại Hiên Đông, Quận Sơn Trà, Đà Nẵng"," 3,6 tỷ ", 65 m2,Tây Bắc,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"4,5m","15,3m",3,"5,5m",,
+" Đường Ngô Quyền, Phường An Hải Bắc, Quận Sơn Trà, Đà Nẵng", 52 tỷ , 250 m2,Đông Nam,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,10m,25m,9,40m,---,---
+" Đường Hoàng Sĩ Khải, Phường An Hải Bắc, Quận Sơn Trà, Đà Nẵng"," 3,4 tỷ ", 75 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,"3,5m","21,4m",2,4m,---,---
+" Đường Hồ Xuân Hương, Phường Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng"," 11,9 tỷ ", 102 m2,Nam,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,6m,19m,7,"7,5m",---,---
+" Đường Âu Cơ, Phường Hòa Hiệp Nam, Quận Liên Chiểu, Đà Nẵng"," 9,2 tỷ ", 100 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,20m,3,10m,,
+" Đường Nại Hiên Đông, Phường Nại Hiên Đông, Quận Sơn Trà, Đà Nẵng"," 3,6 tỷ ", 68 m2,Tây Bắc,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"4,5m",15m,2,"5,5m",,---
+" Đường Điện Biên Phủ, Phường Chính Gián, Quận Thanh Khê, Đà Nẵng"," 2,499 tỷ ", 100 m2,_,Nhà mặt tiền,Giấy tờ hợp lệ,10m,20m,1,33m,,
+" Đường Chi Lăng, Phường Hải Châu II, Quận Hải Châu, Đà Nẵng"," 24,5 tỷ ", 108 m2,_,Nhà mặt tiền,Giấy tờ hợp lệ,5m,22m,7,10m,,
+" Đường Đỗ Bá, Phường Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng", 46 tỷ , 180 m2,_,Nhà mặt tiền,Giấy tờ hợp lệ,9m,20m,1,11m,,
+" Đường Nguyễn Hiền, Phường Nại Hiên Đông, Quận Sơn Trà, Đà Nẵng"," 3,2 tỷ ", 72 m2,Tây Nam,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,4m,18m,2,5m,,
+" Đường Dương Văn An, Phường Mân Thái, Quận Sơn Trà, Đà Nẵng"," 3,5 tỷ ", 75 m2,Đông Nam,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,15m,2,5m5m,,
+" Đường Ngô Quyền, Phường An Hải Bắc, Quận Sơn Trà, Đà Nẵng"," 8,9 tỷ ", 120 m2,Đông Nam,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,25m,3,30m,---,---
+" Đường Ông Ích Khiêm, Phường Vĩnh Trung, Quận Thanh Khê, Đà Nẵng"," 2,55 tỷ ", 54 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,4m,13m,2,2m,---,---
+" Đường Hải Phòng, Phường Tân Chính, Quận Thanh Khê, Đà Nẵng"," 3,2 tỷ ", 46 m2,Đông,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,"3,5m",14m,3,3m,,
+" Đường Lê Độ, Phường Chính Gián, Quận Thanh Khê, Đà Nẵng"," 3,2 tỷ ", 73 m2,Nam,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,7m,11m,2,3m,,---
+" Đường Hà Huy Tập, Phường Hòa Khê, Quận Thanh Khê, Đà Nẵng"," 3,05 tỷ ", 63 m2,Đông Nam,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,"3,5m",18m,3,3m,---,---
+" Đường Ông Ích Khiêm, Phường Thanh Bình, Quận Hải Châu, Đà Nẵng"," 3,69 tỷ ", 150 m2,Tây Nam,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,"4,3m","17,5m",2,4m,---,
+" Đường Đống Đa, Phường Thuận Phước, Quận Hải Châu, Đà Nẵng"," 4,2 tỷ ", 186 m2,Nam,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,7m,9m,3,3m,,
+" Đường Lê Cao Lãng, Phường Hòa Xuân, Quận Cẩm Lệ, Đà Nẵng"," 4,65 tỷ ", 100 m2,Tây Nam,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,20m,3,6m,,
+" Đường Phạm Huy Thông, Phường Nại Hiên Đông, Quận Sơn Trà, Đà Nẵng", 27 tỷ , 257 m2,Tây Bắc,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"12,5m",21m,9,"7,5m",---,---
+" Đường Đinh Liệt, Phường Hòa An, Quận Cẩm Lệ, Đà Nẵng"," 16,95 tỷ ", 350 m2,_,Nhà mặt tiền,---,14m,---,1,27m,---,---
+" 305 Đường Yên Khê, Phường Thanh Khê Đông, Quận Thanh Khê, Đà Nẵng"," 3,9 tỷ ", 42 m2,_,Nhà mặt tiền,Giấy tờ hợp lệ,5m,"8,5m",3,5m,---,---
+" 536.25.10 Đường Điện Biên Phủ, Phường Thanh Khê Đông, Quận Thanh Khê, Đà Nẵng"," 2,4 tỷ ", 61 m2,_,Nhà trong hẻm,Giấy tờ hợp lệ,"4,3m",15m,2,3m,---,---
+" Đường Ông Ích Đường, Phường Hòa Thọ Đông, Quận Cẩm Lệ, Đà Nẵng"," 2,45 tỷ ", 78 m2,_,Nhà mặt tiền,---,6m,13m,2,6m,,
+" Đường Quách Thị Trang, Phường Hòa Xuân, Quận Cẩm Lệ, Đà Nẵng"," 4,8 tỷ ", 100 m2,Tây Nam,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,20m,3,"7,5m",,
+" Đường An Thượng 29, Phường Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng"," 9,5 tỷ ", 71 m2,Tây Bắc,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,14m,4,"7,5m",,
+" Đường Tô Hiến Thành, Phường Phước Mỹ, Quận Sơn Trà, Đà Nẵng"," 6,4 tỷ ", 85 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,17m,1,5m,---,---
+" Đường 2/9, Phường Hòa Cường Nam, Quận Hải Châu, Đà Nẵng"," 9,7 tỷ ", 67 m2,_,Nhà mặt tiền,---,---,---,5,22m,---,---
+" Đường Thanh Lương 9, Phường Hòa Xuân, Quận Cẩm Lệ, Đà Nẵng"," 4,35 tỷ ", 270 m2,Đông Nam,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,20m,3,7m5m,,
+" Đường Trần Văn Dư, Phường Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng"," 22,2 tỷ ", 251 m2,_,Nhà mặt tiền,---,"12,7m",---,4,"7,5m",---,---
+" Đường Tiểu La, Phường Hòa Cường Bắc, Quận Hải Châu, Đà Nẵng"," 2,95 tỷ ", 66 m2,Đông,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,"3,5m",19m,2,4m,,---
+" Đường Đô Đốc Tuyết, Phường Hòa Xuân, Quận Cẩm Lệ, Đà Nẵng"," 3,7 tỷ ", 100 m2,Tây Nam,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,20m,2,"5,5m",,
+" Đường Tố Hữu, Phường Hòa Cường Nam, Quận Hải Châu, Đà Nẵng"," 8,7 tỷ ", 100 m2,_,Nhà mặt tiền,---,5m,20m,2,7m,---,---
+" Đường An Thượng 20, Phường Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng", 7 tỷ , 81 m2,_,Nhà mặt tiền,---,"4,5m",18m,2,5m,---,---
+" Đường Bàu Tràm 1, Phường Khuê Trung, Quận Cẩm Lệ, Đà Nẵng"," 5,8 tỷ ", 74 m2,_,Nhà mặt tiền,---,"6,2m","16,5m",3,"7,5m",---,---
+" Đường Mỹ Đa Tây 5, Phường Khuê Mỹ, Quận Ngũ Hành Sơn, Đà Nẵng"," 4,85 tỷ ", 100 m2,_,Nhà mặt tiền,---,5m,20m,---,7m,---,---
+" Đường Lê Đại Hành, Phường Hòa Phát, Quận Cẩm Lệ, Đà Nẵng"," 8,5 tỷ ", 100 m2,_,Nhà mặt tiền,---,5m,20m,3,10m,---,---
+" Đường Trần Văn Giáp, Phường Hòa Cường Bắc, Quận Hải Châu, Đà Nẵng"," 5,45 tỷ ", 83 m2,_,Nhà mặt tiền,---,5m,"16,5m",1,5m,---,---
+" Đường Lý Thái Tông, Phường Thanh Khê Tây, Quận Thanh Khê, Đà Nẵng", 9 tỷ , 100 m2,_,Nhà mặt tiền,---,---,---,3,10m,---,---
+" Đường Nguyễn Đức Cảnh, Phường Thuận Phước, Quận Hải Châu, Đà Nẵng"," 5,4 tỷ ", 59 m2,_,Nhà mặt tiền,---,"4,5m",13m,3,5m,---,---
+" Đường Mỹ An 17, Phường Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng"," 7,5 tỷ ", 110 m2,_,Nhà mặt tiền,---,5m,22m,4,5m,---,---
+" Đuờng Vũ Hữu, Phường Hòa Cường Bắc, Quận Hải Châu, Đà Nẵng"," 9,8 tỷ ", 105 m2,_,Nhà mặt tiền,---,5m,21m,3,7m,---,---
+" Đường Nguyễn Tất Thành, Phường Thanh Bình, Quận Hải Châu, Đà Nẵng", 10 tỷ , 125 m2,_,Nhà mặt tiền,---,---,---,---,30m,---,---
+" Đường Nguyễn Chí Thanh, Phường Hải Châu I, Quận Hải Châu, Đà Nẵng", 16 tỷ , 89 m2,_,Nhà mặt tiền,---,"4,5m","19,6m",3,10m,---,---
+" Đường Nguyễn Tri Phương, Phường Thạc Gián, Quận Thanh Khê, Đà Nẵng"," 4,5 tỷ ", 80 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,4m,"22,5m",---,6m,,
+" Đường Nguyễn Đức Trung, Phường Thanh Khê Đông, Quận Thanh Khê, Đà Nẵng"," 11,5 tỷ ", 70 m2,Đông,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"4,6m",15m,4,11m,,
+" 137 Đường Nguyễn Du, Phường Thạch Thang, Quận Hải Châu, Đà Nẵng"," 4,35 tỷ ", 56 m2,Tây,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,"6,1m","9,2m",3,3m,,
+" Đường Hoàng Thị Loan, Phường Hòa Minh, Quận Liên Chiểu, Đà Nẵng"," 17,2 tỷ ", 147 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,7m,21m,5,45m,,
+" Đường Hồ Xuân Hương, Phường Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng"," 5,7 tỷ ", 100 m2,Tây Nam,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,20m,3,5m,,
+" Đường Điện Biên Phủ, Phường Thanh Khê Tây, Quận Thanh Khê, Đà Nẵng"," 16,8 tỷ ", 82 m2,Bắc,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,"16,5m",3,60m,,
+" Đường Nguyễn Như Hạnh, Phường Hòa Minh, Quận Liên Chiểu, Đà Nẵng"," 4,3 tỷ ", 60 m2,Đông,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,4m,15m,3,"7,5m",,
+" 83 Đường Huỳnh Ngọc Huệ, Phường Hòa Khê, Quận Thanh Khê, Đà Nẵng"," 1,79 tỷ ", 31 m2,Đông Nam,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,"3,9m",8m,1,"2,5m",,
+" Đường Hà Huy Tập, Phường Hòa Khê, Quận Thanh Khê, Đà Nẵng"," 2,85 tỷ ", 55 m2,Đông,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,"4,1m","13,5m",3,"2,5m",,
+" Đường Phạm Hùng, Phường Hòa Xuân, Quận Cẩm Lệ, Đà Nẵng"," 6,95 tỷ ", 107 m2,Tây,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,---,2,15m,---,
+" Đường Thanh Lương 18, Phường Hòa Xuân, Quận Cẩm Lệ, Đà Nẵng"," 4,8 tỷ ", 100 m2,Đông Nam,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,20m,3,",5m",,
+" Đường Hùng Vương, Phường Hải Châu I, Quận Hải Châu, Đà Nẵng"," 2,78 tỷ ", 40 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,"4,6m",9m,2,"2,5m",,---
+" Đường Lý Tự Trọng, Phường Thanh Bình, Quận Hải Châu, Đà Nẵng"," 7,6 tỷ ", 60 m2,Đông Bắc,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"4,01m",---,3,10m,---,---
+" Đường Yên Khê 2, Phường Thanh Khê Tây, Quận Thanh Khê, Đà Nẵng"," 3,65 tỷ ", 43 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,"8,5m",3,"5,5m",,
+" Đường Yên Khê, Phường Thanh Khê Tây, Quận Thanh Khê, Đà Nẵng"," 3,6 tỷ ", 43 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,"8,5m",3,8m,,
+" Đường Hồ Tùng Mậu, Phường Hòa Minh, Quận Liên Chiểu, Đà Nẵng"," 12,99 tỷ ", 136 m2,Tây Nam,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"6,5m",21m,7,10m,,
+" Đường Trương Chí Cương, Phường Hòa Cường Nam, Quận Hải Châu, Đà Nẵng"," 2,55 tỷ ", 66 m2,Tây Nam,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,3m,22m,1,4m,---,---
+" Đường Nguyễn Duy Hiệu, Phường An Hải Đông, Quận Sơn Trà, Đà Nẵng"," 3,29 tỷ ", 79 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,"4,5m","17,5m",2,4m,,
+" Đường Phần Lăng 3, Phường An Khê, Quận Thanh Khê, Đà Nẵng"," 3,4 tỷ ", 76 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,---,1,5m,---,
+" Đường Nguyễn Tất Thành, Phường Xuân Hà, Quận Thanh Khê, Đà Nẵng"," 14,123 tỷ ", 125 m2,_,Nhà mặt tiền,---,5m,---,5,20m,---,---
+" Đường Nại Nam, Phường Hòa Cường Bắc, Quận Hải Châu, Đà Nẵng", 12 tỷ , 412 m2,Đông Nam,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,6m,25m,5,"7,5m",---,---
+" Đường Đống Đa, Phường Thuận Phước, Quận Hải Châu, Đà Nẵng"," 11,5 tỷ ", 54 m2,Đông Nam,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"9,3m","5,8m",4,15m,,
+" Đường Nguyễn Trung Ngạn, Phường Khuê Trung, Quận Cẩm Lệ, Đà Nẵng"," 3,98 tỷ / m2  ", 90 m2,Tây Bắc,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"4,06m",18m,2,"5,5m",,
+" Đường Hải Phòng, Phường Tân Chính, Quận Thanh Khê, Đà Nẵng"," 3,2 tỷ ", 46 m2,Đông,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,4m,12m,3,3m,,
+" Đường Dũng Sĩ Thanh Khê, Phường Thanh Khê Tây, Quận Thanh Khê, Đà Nẵng"," 2,5 tỷ ", 48 m2,Đông Bắc,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,4m,12m,2,3m,---,
+" Đường Hùng Vương, Phường Vĩnh Trung, Quận Thanh Khê, Đà Nẵng"," 4,1 tỷ ", 43 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,4m,11m,5,3m,,
+" Đường Dương Thị Xuân Quý, Phường Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng"," 6,3 tỷ ", 98 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,4m,25m,1,"10,m",---,---
+" Đường Ngô Chi Lan, Phường Thuận Phước, Quận Hải Châu, Đà Nẵng"," 3,2 tỷ ", 61 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"3,5m",20m,---,"5,5m",---,
+" Đường Hoàng Diệu, Phường Bình Thuận, Quận Hải Châu, Đà Nẵng"," 3,79 tỷ ", 49 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,4m,13m,3,3m,,---
+" Đường Nguyễn Tất Thành, Phường Tam Thuận, Quận Thanh Khê, Đà Nẵng"," 3,85 tỷ ", 50 m2,Tây Nam,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,4m,13m,3,3m,,
+" 424 Đường Lê Duẩn, Phường Chính Gián, Quận Thanh Khê, Đà Nẵng"," 4,05 tỷ ", 85 m2,Tây Nam,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,4m,13m,3,3m,,---
+" Đường Tố Hữu, Phường Hòa Cường Bắc, Quận Hải Châu, Đà Nẵng"," 17,5 tỷ ", 155 m2,_,Nhà mặt tiền,---,8m,19m,3,"7,5m",---,---
+" Đường Ngô Quyền, Phường An Hải Bắc, Quận Sơn Trà, Đà Nẵng"," 11,5 tỷ ", 125 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,22m,3,30m,---,---
+" Đường Mân Quang 7, Phường Nại Hiên Đông, Quận Sơn Trà, Đà Nẵng"," 5,2 tỷ ", 75 m2,_,Nhà mặt tiền,---,5m,15m,3,"5,5m",---,---
+" Đường Mộc Bài 9, Phường Hòa Minh, Quận Liên Chiểu, Đà Nẵng"," 3,3 tỷ ", 90 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,18m,2,"5,5m",,
+" Đường Lâm Hoành, Phường An Hải Đông, Quận Sơn Trà, Đà Nẵng"," 3,8 tỷ ", 67 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,4m,17m,3,3m,---,---
+" Đường An Thượng 12, Phường Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng"," 3,4 tỷ ", 50 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,10m,2,4m,---,---
+" Đường Nguyễn Tri Phương, Phường Chính Gián, Quận Thanh Khê, Đà Nẵng", 33 tỷ , 364 m2,_,Nhà mặt tiền,---,---,---,1,33m,---,---
+" Đường Nguyễn Giản Thanh, Phường An Khê, Quận Thanh Khê, Đà Nẵng"," 3,45 tỷ ", 70 m2,Tây Nam,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,14m,2,"5,5m",---,---
+" Đường Hoàng Đình Ái, Phường Hòa Xuân, Quận Cẩm Lệ, Đà Nẵng"," 4,35 tỷ ", 125 m2,Đông,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,25m,2,8m,,
+" Đường An Thượng 18, Phường Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng"," 4,2 tỷ ", 56 m2,Tây Nam,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"4,37m",13m,1,4m,---,---
+" Đường Nguyễn Văn Thoại, Phường An Hải Đông, Quận Sơn Trà, Đà Nẵng"," 3,29 tỷ ", 79 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,"4,5m","17,5m",2,4m,,
+" Đường Đào Trí, Phường Hòa Cường Nam, Quận Hải Châu, Đà Nẵng"," 4,35 tỷ ", 75 m2,Tây Bắc,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,15m,2,"5,5m",---,---
+" Đường Dương Bá Trạc, Phường Hòa Cường Nam, Quận Hải Châu, Đà Nẵng"," 5,7 tỷ ", 76 m2,Tây Nam,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,15m,2,"5,5m",---,---
+" Đường Trần Văn Dư, Phường Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng"," 22,2 tỷ ", 251 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"12,6m",---,4,"7,5m",,
+" Đường Cồn Dầu 3, Phường Hòa Xuân, Quận Cẩm Lệ, Đà Nẵng"," 3,05 tỷ ", 100 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,20m,2,"11,m",---,
+" Đường Dương Vân Nga, Phường Nại Hiên Đông, Quận Sơn Trà, Đà Nẵng", 15 tỷ , 150 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,21m,---,6,20m,,
+" 52 Đường Hùng Vương, Phường Hải Châu II, Quận Hải Châu, Đà Nẵng", 10 tỷ , 80 m2,Tây Bắc,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,80m,18m,5,20m,,
+" 152 Đường Hàm Nghi, Phường Vĩnh Trung, Quận Thanh Khê, Đà Nẵng", 32 tỷ , 116 m2,Tây,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"8,4m",14m,4,15m,,
+" Đường Hàm Nghi, Phường Thạc Gián, Quận Thanh Khê, Đà Nẵng"," 3,36 tỷ ", 56 m2,Đông Nam,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,"7,49m",8m,4,3m,---,---
+" Đường Đức Lợi 2, Phường Thuận Phước, Quận Hải Châu, Đà Nẵng", 12 tỷ , 100 m2,Đông Nam,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"4,5m",---,4,"7,5m",,
+" Đường Mỹ An 17, Phường Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng"," 7,5 tỷ ", 110 m2,Tây Bắc,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,22m,4,"7,5m",,
+" Đường Lê Hữu Trác, Phường An Hải Đông, Quận Sơn Trà, Đà Nẵng"," 3,28 tỷ ", 79 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,"4,5m","17,5m",2,4m,,
+" Đường Trần Khánh Dư, Phường Khuê Mỹ, Quận Ngũ Hành Sơn, Đà Nẵng", 9 tỷ , 100 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"6,5m","15,5m",2,7m,,
+" Đường Nguyễn Văn Thoại, Phường Khuê Mỹ, Quận Ngũ Hành Sơn, Đà Nẵng"," 5,2 tỷ ", 57 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,"4,2m","13,5m",3,5m,,
+" Đường Hoàng Diệu, Phường Hòa Thuận Đông, Quận Hải Châu, Đà Nẵng"," 7,1 tỷ ", 150 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,"6,5m",25m,3,6m,,
+" Đường Hoàng Diệu, Phường Bình Thuận, Quận Hải Châu, Đà Nẵng"," 5,15 tỷ ", 65 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"4,5m",15m,3,6m,,
+" Đường Đô Đốc Tuyết, Phường Hòa Xuân, Quận Cẩm Lệ, Đà Nẵng"," 3,7 tỷ ", 100 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,20m,3,11m,,
+" Đường Nguyễn Văn Thoại, Phường Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng", 25 tỷ , 114 m2,Nam,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"6,38m","19,8m",3,"15,m",,
+" Đường Nguyễn Khuyến, Phường Hòa Minh, Quận Liên Chiểu, Đà Nẵng"," 4,2 tỷ ", 116 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,---,---,1,8m,---,---
+" Đường Trần Thánh Tông, Quận Sơn Trà, Đà Nẵng"," 11,4 tỷ ", 180 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,---,---,3,20m,---,---
+" Đường Đỗ Bá, Phường Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng"," 12,5 tỷ ", 100 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,8m,---,5,20m,---,---
+" Đường Trương Định, Phường Mân Thái, Quận Sơn Trà, Đà Nẵng"," 5,65 tỷ ", 80 m2,_,Nhà mặt tiền,---,---,---,3,12m,,
+" Đuờng Vũ Hữu, Phường Hòa Cường Bắc, Quận Hải Châu, Đà Nẵng"," 9,8 tỷ ", 105 m2,_,Nhà mặt tiền,---,5m,25m,3,"7,5m",,
+" Đường Thạch Lam, Phường Phước Mỹ, Quận Sơn Trà, Đà Nẵng", 11 tỷ , 170 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,---,---,1,5m,---,---
+" Đường Nguyễn Hữu Thọ, Phường Hòa Thuận Tây, Quận Hải Châu, Đà Nẵng", 9 tỷ , 50 m2,_,Nhà mặt tiền,---,"4,5m",11m,5,30m,,
+" Đường Nguyễn Văn Linh, Phường Hòa Thuận Tây, Quận Hải Châu, Đà Nẵng"," 6,2 tỷ ", 90 m2,_,Nhà mặt tiền,---,5m,18m,3,"5,5m",,
+" Đường Nguyễn Sơn Hà, Phường Hòa Cường Bắc, Quận Hải Châu, Đà Nẵng"," 6,6 tỷ ", 85 m2,_,Nhà mặt tiền,---,5m,17m,2,"5,5m",,
+" Đường Trần Cao Vân, Phường Tam Thuận, Quận Thanh Khê, Đà Nẵng"," 6,2 tỷ ", 140 m2,_,Nhà trong hẻm,---,"8,4m",16m,1,6m,,
+" Đường Minh Mạng, Phường Hòa Quý, Quận Ngũ Hành Sơn, Đà Nẵng"," 8,8 tỷ ", 127 m2,_,Nhà mặt tiền,---,---,---,3,"7,5m",---,---
+" Đường Tạ Mỹ Duật, Phường An Hải Bắc, Quận Sơn Trà, Đà Nẵng"," 8,5 tỷ ", 88 m2,_,Nhà mặt tiền,---,---,---,3,"5,5m",---,---
+" Đường Trường Chinh, Phường Hòa An, Quận Cẩm Lệ, Đà Nẵng"," 2,25 tỷ ", 50 m2,_,Nhà mặt tiền,---,---,---,1,6m,---,---
+" Đường Trần Đình Tri, Phường Hòa Minh, Quận Liên Chiểu, Đà Nẵng"," 1,85 tỷ ", 68 m2,_,Nhà trong hẻm,---,---,---,1,3m,---,---
+" Đường Trần Cao Vân, Phường Thanh Khê Đông, Quận Thanh Khê, Đà Nẵng"," 2,35 tỷ ", 73 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,6m,12m,1,"2,5m",,
+" Đường Nguyễn Phan Chánh, Phường Hòa Hải, Quận Ngũ Hành Sơn, Đà Nẵng", 10 tỷ , 100 m2,_,Nhà mặt tiền,---,---,---,8,7m,---,---
+" Đường Cao Thắng, Phường Thanh Bình, Quận Hải Châu, Đà Nẵng", 14 tỷ , 86 m2,Tây Bắc,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"4,5m","18,6m",3,10m,---,---
+" 0-0 Đường Nguyễn Tri Phương, Phường Hòa Thuận Tây, Quận Hải Châu, Đà Nẵng"," 2,7 tỷ ", 40 m2,Đông Nam,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,4m,10m,2,3m,---,---
+" Đường Ngô Quyền, Phường An Hải Bắc, Quận Sơn Trà, Đà Nẵng"," 2,75 tỷ ", 67 m2,Đông Bắc,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,15m,1,5m,,
+" Đường Phạm Văn Đồng, Phường An Hải Bắc, Quận Sơn Trà, Đà Nẵng", 52 tỷ , 250 m2,Đông Nam,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,10m,25m,9,48m,---,---
+" Đường Lê Thanh Nghị, Phường Hòa Cường Bắc, Quận Hải Châu, Đà Nẵng", 2 tỷ , 70 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,4m,17m,2,"3,5m",---,---
+" Đường Nguyễn Dữ, Phường Khuê Trung, Quận Cẩm Lệ, Đà Nẵng"," 6,7 tỷ ", 100 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,---,---,4,"5,5m",,
+" Đường Trần Quý Khoách, Phường Hòa Minh, Quận Liên Chiểu, Đà Nẵng", 5 tỷ , 90 m2,Đông Bắc,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,18m,3,5m,---,---
+" Đường Phạm Như Xương, Phường Hòa Khánh Nam, Quận Liên Chiểu, Đà Nẵng"," 1,9 tỷ ", 105 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,"5,3m",20m,1,5m,---,
+" Đường Tô Hiệu, Phường Hòa Minh, Quận Liên Chiểu, Đà Nẵng"," 3,2 tỷ ", 60 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,6m,---,3,5m,,
+" Đường Trần Cao Vân, Phường Tam Thuận, Quận Thanh Khê, Đà Nẵng"," 5,25 tỷ ", 45 m2,_,Nhà mặt tiền,---,---,---,2,10m,,
+" 128 Đường Nguyễn Phạm Tuân, Phường Hòa Hải, Quận Ngũ Hành Sơn, Đà Nẵng"," 9,5 tỷ ", 140 m2,Đông,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,7m,20m,4,"5,5m",,
+" Đường 3/2, Phường Thuận Phước, Quận Hải Châu, Đà Nẵng"," 19,9 tỷ ", 125 m2,Tây Nam,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,25m,4,30m,,
+" Đường Nguyễn Đức An, Phường Phước Mỹ, Quận Sơn Trà, Đà Nẵng"," 18,8 tỷ ", 157 m2,Tây Bắc,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,10m,"16,5m",3,10m,,
+" Đường An Thượng 1, Phường Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng"," 3,5 tỷ ", 39 m2,_,Nhà mặt tiền,---,---,---,1,"5,5m",---,---
+" Đường Nguyễn Công Hoan, Phường Hòa An, Quận Cẩm Lệ, Đà Nẵng"," 4,4 tỷ ", 100 m2,Tây Nam,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,7m,"14,2m",2,"7,5m",---,---
+" Đường Phạm Văn Đồng, Phường Phước Mỹ, Quận Sơn Trà, Đà Nẵng"," 23,5 tỷ ", 125 m2,Tây Bắc,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,25m,3,38m,,
+" Đường Trần Thủ Độ, Phường Khuê Trung, Quận Cẩm Lệ, Đà Nẵng"," 9,7 tỷ ", 103 m2,Đông Nam,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,"20,3m",4,10m,,
+" Đường Nguyễn Văn Linh, Phường Vĩnh Trung, Quận Thanh Khê, Đà Nẵng"," 26,5 tỷ ", 110 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,---,---,5,30m,---,---
+" Đường Bùi Vịnh, Phường Hòa Thọ Đông, Quận Cẩm Lệ, Đà Nẵng"," 3,9 tỷ ", 120 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,24m,2,"5,5m",,
+" Đường Trần Huy Liệu, Phường Khuê Trung, Quận Cẩm Lệ, Đà Nẵng"," 4,1 tỷ ", 100 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,20m,2,"5,5m",,
+" Đường Cách Mạng Tháng 8, Phường Khuê Trung, Quận Cẩm Lệ, Đà Nẵng", 20 tỷ , 310 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"11,2m",26m,3,33m,,
+" Đường Trần Kim Bảng, Phường Khuê Trung, Quận Cẩm Lệ, Đà Nẵng"," 5,4 tỷ ", 90 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,18m,2,"5,5m",,
+" Đường Phạm Hùng, Phường Hòa Xuân, Quận Cẩm Lệ, Đà Nẵng"," 6,7 tỷ ", 110 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,22m,3,15m,,
+" Đường Phan Triêm, Phường Hòa Xuân, Quận Cẩm Lệ, Đà Nẵng"," 3,9 tỷ ", 100 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,20m,2,"7,5m",,
+" Đường Đô Đốc Tuyết, Phường Hòa Xuân, Quận Cẩm Lệ, Đà Nẵng"," 3,75 tỷ ", 100 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,20m,3,"5,5m",,
+" Đường 2/9, Phường Hòa Cường Nam, Quận Hải Châu, Đà Nẵng"," 17,9 tỷ ", 160 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"7,7m",21m,3,33m,,
+" Đường Bình Hòa 14, Phường Khuê Trung, Quận Cẩm Lệ, Đà Nẵng"," 4,15 tỷ ", 80 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,16m,3,5m,,
+" Đường Hoàng Đạo Thúy, Phường Hòa Thọ Đông, Quận Cẩm Lệ, Đà Nẵng"," 4,9 tỷ ", 120 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,24m,3,"5,5m",,
+" Đường Trường Chinh, Phường Hòa Thọ Đông, Quận Cẩm Lệ, Đà Nẵng"," 4,8 tỷ ", 67 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"11,07m","6,91m",4,33m,,
+" Đường Cách Mạng Tháng 8, Phường Khuê Trung, Quận Cẩm Lệ, Đà Nẵng"," 7,5 tỷ ", 75 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"5,7m",13m,2,33m,,
+" Đường Nguyễn Khoa Chiêm, Phường Hòa Thọ Đông, Quận Cẩm Lệ, Đà Nẵng"," 4,9 tỷ ", 100 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,20m,3,"5,5m",,
+" Đường Nguyễn Hữu Thọ, Phường Hòa Thuận Tây, Quận Hải Châu, Đà Nẵng"," 18,8 tỷ ", 170 m2,Đông,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,34m,4,33m,,
+" Đường Cách Mạng Tháng 8, Phường Hòa Thọ Đông, Quận Cẩm Lệ, Đà Nẵng", 14 tỷ , 90 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,7m,15m,2,33m,---,---
+" Đường Bình Thái 4, Phường Hòa Thọ Đông, Quận Cẩm Lệ, Đà Nẵng"," 3,85 tỷ ", 126 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,6m,21m,2,"5,5m",,
+" Đường Võ Chí Công, Phường Hòa Xuân, Quận Cẩm Lệ, Đà Nẵng", 24 tỷ , 250 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,15m,17m,2,33m,,
+" Đường Nguyễn Nho Túy, Phường Khuê Trung, Quận Cẩm Lệ, Đà Nẵng"," 3,55 tỷ ", 75 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,15m,2,"5,5m",---,
+" Đường Bùi Vịnh, Phường Hòa Thọ Đông, Quận Cẩm Lệ, Đà Nẵng"," 4,4 tỷ ", 95 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,19m,3,"5,5m",---,---
+" Đường Bùi Vịnh, Phường Hòa Thọ Đông, Quận Cẩm Lệ, Đà Nẵng"," 3,9 tỷ ", 90 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,18m,3,"5,5m",,
+" Đường Đô Đốc Tuyết, Phường Hòa Xuân, Quận Cẩm Lệ, Đà Nẵng"," 3,3 tỷ ", 100 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,20m,2,"5,5m",,
+" Đường Trương Quang Giao, Phường Khuê Trung, Quận Cẩm Lệ, Đà Nẵng"," 4,3 tỷ ", 90 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,18m,3,"5,5m",,
+" Đường Liêm Lạc 15, Phường Hòa Xuân, Quận Cẩm Lệ, Đà Nẵng"," 2,85 tỷ ", 100 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,20m,2,"5,5m",,
+" đường Quách Thị Trang Phường Hòa Xuân, Quận Cẩm Lệ, Đà Nẵng"," 4,9 tỷ ", 110 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,22m,2,"7,5m",,
+" Đường Trần Kim Xuyến, Phường Hòa Xuân, Quận Cẩm Lệ, Đà Nẵng"," 5,6 tỷ ", 100 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,20m,3,"7,5m",,
+" Đường Cách Mạng Tháng 8, Phường Khuê Trung, Quận Cẩm Lệ, Đà Nẵng", 11 tỷ , 140 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"5,9m",25m,1,33m,---,
+" Đường Bình Thái 3, Phường Hòa Thọ Đông, Quận Cẩm Lệ, Đà Nẵng"," 4,3 tỷ ", 135 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"5,4m",25m,2,"5,5m",,
+" Đường Nguyễn Nhàn, Phường Hòa Thọ Đông, Quận Cẩm Lệ, Đà Nẵng"," 4,2 tỷ ", 145 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,6m,24m,3,"7,5m",,
+" Đường Liêm Lạc 21, Phường Hòa Xuân, Quận Cẩm Lệ, Đà Nẵng"," 2,85 tỷ ", 100 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,20m,2,"5,5m",,
+" Đường Bình Hòa 2, Phường Khuê Trung, Quận Cẩm Lệ, Đà Nẵng"," 2,85 tỷ ", 60 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,4m,15m,1,"5,5m",---,
+" Đường Cẩm Bắc 9, Phường Hòa Thọ Đông, Quận Cẩm Lệ, Đà Nẵng"," 3,3 tỷ ", 80 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,16m,2,"5,5m",,
+" Đường Cách Mạng Tháng 8, Phường Hòa Thọ Đông, Quận Cẩm Lệ, Đà Nẵng"," 5,35 tỷ ", 125 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,25m,2,33m,,
+" Đường Phan Văn Trị, Phường Khuê Trung, Quận Cẩm Lệ, Đà Nẵng"," 6,35 tỷ ", 110 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"5,5m",20m,3,"7,5m",,
+" Đường Trần Văn Cẩn, Phường Hòa Xuân, Quận Cẩm Lệ, Đà Nẵng"," 3,96 tỷ ", 150 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,30m,3,"5,5m",,
+" Đường Đặng Văn Ngữ, Phường Khuê Trung, Quận Cẩm Lệ, Đà Nẵng"," 5,8 tỷ ", 100 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,20m,2,"7,5m",,
+" Đường Bình Hòa 4, Phường Khuê Trung, Quận Cẩm Lệ, Đà Nẵng"," 8,5 tỷ ", 100 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,20m,4,"18,5m",,
+" Đường Lê Văn An, Phường Khuê Trung, Quận Cẩm Lệ, Đà Nẵng"," 2,9 tỷ ", 55 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,11m,3,"5,5m",,
+" Đường Bình Hòa 4, Phường Khuê Trung, Quận Cẩm Lệ, Đà Nẵng"," 5,5 tỷ ", 100 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,20m,3,"10,5m",,
+" Đường Nguyễn Quý Đức, Phường Khuê Trung, Quận Cẩm Lệ, Đà Nẵng"," 4,2 tỷ ", 100 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,20m,2,"5,5m",,
+" Đường Lê Đại Hành, Phường Khuê Trung, Quận Cẩm Lệ, Đà Nẵng", 14 tỷ , 145 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,6m,24m,4,33m,,
+" Đường Trường Chinh, Phường Khuê Trung, Quận Cẩm Lệ, Đà Nẵng"," 2,5 tỷ ", 85 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,4m,21m,1,"3,5m",---,
+" Đường Cách Mạng Tháng 8, Phường Hòa Thọ Đông, Quận Cẩm Lệ, Đà Nẵng"," 3,15 tỷ ", 110 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,9m,12m,1,5m,---,
+" Đường Cách Mạng Tháng 8, Phường Khuê Trung, Quận Cẩm Lệ, Đà Nẵng"," 2,05 tỷ ", 56 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,7m,8m,2,6m,,
+" Đường Bình Thái 1, Phường Hòa Thọ Đông, Quận Cẩm Lệ, Đà Nẵng"," 1,5 tỷ ", 66 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,4m,"16,5m",1,"2,5m",---,---
+" Đường Ông Ích Đường, Phường Hòa Thọ Đông, Quận Cẩm Lệ, Đà Nẵng"," 1,8 tỷ ", 62 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,"5,2m",12m,2,3m,---,---
+" Đường Nguyễn Nhàn, Phường Hòa Thọ Đông, Quận Cẩm Lệ, Đà Nẵng"," 2,25 tỷ ", 72 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,"4,5m",16m,2,6m,,
+" Đường Ông Ích Đường, Phường Hòa Thọ Đông, Quận Cẩm Lệ, Đà Nẵng"," 2,2 tỷ ", 76 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,"4,6m",16m,2,5m,,
+" Đường Bùi Xương Trạch, Phường Khuê Trung, Quận Cẩm Lệ, Đà Nẵng"," 2,25 tỷ ", 100 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,5m,20m,1,"2,5m",---,---
+" Đường Triệu Quốc Đạt, Phường Hòa Thọ Đông, Quận Cẩm Lệ, Đà Nẵng"," 2,25 tỷ ", 80 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,6m,"13,5m",2,6m,,
+" Đường Cách Mạng Tháng 8, Phường Khuê Trung, Quận Cẩm Lệ, Đà Nẵng", 2 tỷ , 84 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,4m,21m,2,3m,---,
+" Đường Phạm Hùng, Phường Hòa Xuân, Quận Cẩm Lệ, Đà Nẵng", 6 tỷ , 110 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,22m,1,15m,---,
+" Đường Nguyễn Trung Ngạn, Phường Khuê Trung, Quận Cẩm Lệ, Đà Nẵng"," 4,9 tỷ ", 125 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,25m,2,"5,5m",,
+" Đường Phạm Viết Chánh, Phường Hòa Thọ Đông, Quận Cẩm Lệ, Đà Nẵng"," 2,25 tỷ ", 78 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,6m,13m,2,6m,,
+" Đường Bàu Vàng 4, Phường Hòa Khánh Bắc, Quận Liên Chiểu, Đà Nẵng"," 4,35 tỷ ", 100 m2,Đông Bắc,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,20m,4,"7,5m",---,---
+" Đường Nguyễn Văn Thoại, Phường Phước Mỹ, Quận Sơn Trà, Đà Nẵng"," 7,5 tỷ ", 83 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,"4,8m",18m,1,"4,5m",,
+" Đường Núi Thành, Phường Hòa Cường Nam, Quận Hải Châu, Đà Nẵng", 13 tỷ , 104 m2,_,Nhà mặt tiền,---,---,---,3,10m,---,---
+" Đường An Thượng 38, Phường Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng"," 8,5 tỷ ", 60 m2,_,Nhà mặt tiền,---,---,---,5,"5,5m",---,---
+" Đường Núi Thành, Phường Hòa Thuận Đông, Quận Hải Châu, Đà Nẵng", 24 tỷ , 123 m2,_,Nhà mặt tiền,---,---,---,2,10m,---,---
+" Đường Lê Văn Hưu, Phường Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng"," 8,3 tỷ ", 110 m2,_,Nhà mặt tiền,---,---,---,3,10m,---,---
+" Đường Trần Thanh Mại, Phường An Hải Bắc, Quận Sơn Trà, Đà Nẵng", 6 tỷ , 75 m2,_,Nhà mặt tiền,---,---,---,2,"5,5m",---,---
+" Đường Ông Ích Khiêm, Phường Thanh Bình, Quận Hải Châu, Đà Nẵng"," 8,5 tỷ ", 41 m2,_,Nhà mặt tiền,---,---,---,4,10m,---,---
+" Đường An Trung, Phường An Hải Tây, Quận Sơn Trà, Đà Nẵng"," 3,6 tỷ ", 55 m2,_,Nhà mặt tiền,---,---,---,1,4m,---,---
+" Đường Đỗ Thúc Tịnh, Phường Khuê Trung, Quận Cẩm Lệ, Đà Nẵng"," 3,9 tỷ ", 73 m2,_,Nhà mặt tiền,---,---,---,1,"7,5m",---,---
+" Đường Hoài Thanh, Phường Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng"," 5,6 tỷ ", 69 m2,_,Nhà mặt tiền,---,---,---,4,"7,5m",---,---
+" Đường Hoàng Xuân Nhị, Phường Hòa Cường Nam, Quận Hải Châu, Đà Nẵng", 6 tỷ , 73 m2,_,Nhà mặt tiền,---,---,---,3,"5,5m",---,---
+" Đường Chính Hữu, Phường An Hải Bắc, Quận Sơn Trà, Đà Nẵng", 11 tỷ , 73 m2,_,Nhà mặt tiền,---,---,---,4,10m,---,---
+" Đường Hoài Thanh, Phường Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng", 13 tỷ , 160 m2,_,Nhà mặt tiền,---,---,---,4,"7,5m",---,---
+" Đường Võ Chí Công, Phường Hòa Hải, Quận Ngũ Hành Sơn, Đà Nẵng"," 2,8 tỷ ", 88 m2,_,Nhà mặt tiền,---,---,---,2,"5,5m",---,---
+" Đường Võ Chí Công, Phường Hòa Hải, Quận Ngũ Hành Sơn, Đà Nẵng"," 2,8 tỷ ", 88 m2,_,Nhà mặt tiền,---,---,---,2,"5,5m",---,---
+" Đường Võ Chí Công, Phường Hòa Quý, Quận Ngũ Hành Sơn, Đà Nẵng"," 3,29 tỷ ", 100 m2,_,Nhà mặt tiền,---,---,---,2,"5,5m",---,---
+" Đường Nguyễn Đức Cảnh, Phường Thuận Phước, Quận Hải Châu, Đà Nẵng"," 3,95 tỷ ", 59 m2,_,Nhà mặt tiền,---,---,---,2,"5,5m",---,---
+" Đường Nam Thọ 4, Phường Thọ Quang, Quận Sơn Trà, Đà Nẵng"," 4,7 tỷ ", 115 m2,_,Nhà mặt tiền,---,---,---,2,"5,5m",---,---
+" Đường Thanh Lương 6, Phường Hòa Xuân, Quận Cẩm Lệ, Đà Nẵng"," 8,2 tỷ ", 200 m2,_,Nhà mặt tiền,---,---,---,2,"7,5m",---,---
+" Đường Bình Than, Phường Thọ Quang, Quận Sơn Trà, Đà Nẵng"," 2,5 tỷ ", 71 m2,_,Nhà trong hẻm,---,---,---,1,"3,5m",---,---
+" Đường Sơn Thủy 4, Phường Hòa Hải, Quận Ngũ Hành Sơn, Đà Nẵng"," 2,95 tỷ ", 90 m2,_,Nhà mặt tiền,---,---,---,1,"5,5m",---,---
+" Đường Hùng Vương, Phường Hải Châu II, Quận Hải Châu, Đà Nẵng", 40 tỷ , 142 m2,_,Nhà mặt tiền,---,---,---,4,10m,---,---
+" Đường 2/9, Phường Hòa Cường Nam, Quận Hải Châu, Đà Nẵng"," 9,7 tỷ ", 67 m2,_,Nhà mặt tiền,---,---,---,5,22m,---,---
+" Đường Phạm Đình Hổ, Phường Hòa Minh, Quận Liên Chiểu, Đà Nẵng"," 7,8 tỷ ", 140 m2,_,Nhà mặt tiền,---,---,---,3,"7,5m",---,---
+" Đường Hoàng Thúc Trâm, Phường Hòa Cường Bắc, Quận Hải Châu, Đà Nẵng"," 3,6 tỷ ", 70 m2,_,Nhà trong hẻm,---,---,---,2,"2,5m",---,---
+" Đường Trần Đại Nghĩa, Phường Hòa Hải, Quận Ngũ Hành Sơn, Đà Nẵng"," 2,45 tỷ ", 119 m2,_,Nhà trong hẻm,---,---,---,1,3m,---,---
+" Đường Nguyễn Duy Trinh, Phường Hòa Hải, Quận Ngũ Hành Sơn, Đà Nẵng"," 1,98 tỷ ", 53 m2,_,Nhà trong hẻm,---,---,---,1,3m,---,---
+" Đường Nguyễn Duy Trinh, Phường Hòa Hải, Quận Ngũ Hành Sơn, Đà Nẵng"," 2,15 tỷ ", 53 m2,_,Nhà trong hẻm,---,---,---,2,3m,---,---
+" Đường Ỷ Lan Nguyên Phi, Phường Hòa Cường Bắc, Quận Hải Châu, Đà Nẵng", 16 tỷ , 138 m2,_,Nhà trong hẻm,---,---,---,6,5m,---,---
+" Đường Bắc Đẩu, Phường Thanh Bình, Quận Hải Châu, Đà Nẵng"," 2,48 tỷ ", 48 m2,_,Nhà trong hẻm,---,---,---,2,4m,---,---
+" Đường Phan Tứ, Phường Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng", 10 tỷ , 210 m2,_,Nhà trong hẻm,---,---,---,3,3m,---,---
+" Đường Ngô Quyền, Phường An Hải Bắc, Quận Sơn Trà, Đà Nẵng"," 5,9 tỷ ", 110 m2,_,Nhà trong hẻm,---,---,---,4,5m,---,---
+" Đường Lê Văn Hưu, Phường Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng", 21 tỷ , 212 m2,Bắc,Nhà mặt tiền,---,10m,"21,25m",3,10m,---,---
+" Đường Nguyễn Phước Nguyên, Phường Hòa Khê, Quận Thanh Khê, Đà Nẵng"," 4,1 tỷ ", 40 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"5,9m",7m,3,"7,5m",,
+" Đường Nguyễn Chích, Phường Hòa Minh, Quận Liên Chiểu, Đà Nẵng"," 3,67 tỷ ", 75 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,15m,---,"7,5m",---,
+" Đường Nguyễn Đức Cảnh, Phường Thuận Phước, Quận Hải Châu, Đà Nẵng"," 5,4 tỷ ", 60 m2,_,Nhà mặt tiền,---,"4,5m",13m,4,"5,5m",,
+" Đường Nguyễn Thuật, Phường Hòa An, Quận Cẩm Lệ, Đà Nẵng"," 3,4 tỷ ", 125 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,25m,---,"7,5m",---,
+" Đường Đa Phước 1, Phường Khuê Mỹ, Quận Ngũ Hành Sơn, Đà Nẵng"," 5,6 tỷ ", 90 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,18m,3,"7,5m",,
+" Đường Bàu Cầu 15, Xã Hòa Châu, Huyện Hòa Vang, Đà Nẵng"," 2,8 tỷ ", 90 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,18m,2,"7,5m",---,
+" Đường Hoàng Văn Thái, Phường Hòa Khánh Nam, Quận Liên Chiểu, Đà Nẵng"," 3,62 tỷ ", 65 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,4m,16m,2,15m,---,
+" Đường Cẩm Bắc 10, Phường Hòa Phát, Quận Cẩm Lệ, Đà Nẵng"," 6,5 tỷ ", 171 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"9,4m","18,4m",2,"5,5m",,
+" Đường Nguyễn Phước Nguyên, Phường Hòa Khê, Quận Thanh Khê, Đà Nẵng"," 4,98 tỷ ", 80 m2,_,Nhà mặt tiền,---,5m,16m,3,"7,5m",,
+" Đường Cao Sơn Pháo, Phường Hòa An, Quận Cẩm Lệ, Đà Nẵng", 4 tỷ , 61 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,6m,10m,3,"7,5m",,
+" Phường Hòa Quý, Quận Ngũ Hành Sơn, Đà Nẵng"," 2,65 tỷ ", 100 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,20m,1,"7,5m",,
+" Đường An Thượng 38, Phường Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng"," 8,8 tỷ ", 60 m2,_,Nhà mặt tiền,---,5m,14m,4,"5,5m",,
+" Đường Nguyễn Phước Nguyên, Phường Hòa Khê, Quận Thanh Khê, Đà Nẵng"," 3,65 tỷ ", 35 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,7m,5m,4,"7,5m",,
+" Đường Đồng Xoài, Phường Hòa Minh, Quận Liên Chiểu, Đà Nẵng"," 5,1 tỷ ", 125 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,25m,3,10m,,
+" Đường Bùi Hữu Nghĩa, Phường Phước Mỹ, Quận Sơn Trà, Đà Nẵng"," 4,8 tỷ ", 66 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"4,5m",15m,1,4m,---,
+" Đường An Thượng 18, Phường Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng"," 5,7 tỷ ", 75 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"6,2m",12m,---,4m,---,
+" Đường Trung Lương 7, Phường Hòa Xuân, Quận Cẩm Lệ, Đà Nẵng"," 3,7 tỷ ", 110 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,22m,2,"7,5m",,
+" Đường Cẩm Bắc 9, Phường Hòa Phát, Quận Cẩm Lệ, Đà Nẵng"," 3,3 tỷ ", 75 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"4,5m",17m,2,"5,5m",,
+" Đường Nại Nghĩa 1, Phường Nại Hiên Đông, Quận Sơn Trà, Đà Nẵng"," 3,1 tỷ ", 61 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"5,5m",12m,---,4m,---,
+" Đường Cẩm Bắc 10, Phường Hòa Phát, Quận Cẩm Lệ, Đà Nẵng"," 6,5 tỷ ", 171 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"9,4m","18,4m",2,"5,5m",,
+" Đường Tôn Đản, Phường Hòa An, Quận Cẩm Lệ, Đà Nẵng"," 4,58 tỷ ", 106 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"5,3m",20m,3,"7,5m",,
+" Đường Đồng Xoài, Phường Hòa Minh, Quận Liên Chiểu, Đà Nẵng"," 5,1 tỷ ", 125 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,25m,3,10m,,
+" Đường Bùi Hữu Nghĩa, Phường Phước Mỹ, Quận Sơn Trà, Đà Nẵng"," 4,8 tỷ ", 66 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"4,5m",15m,1,4m,---,
+" Đường An Thượng 18, Phường Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng"," 5,7 tỷ ", 75 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"6,2m",12m,---,4m,---,
+" Đường Trung Lương 7, Phường Hòa Xuân, Quận Cẩm Lệ, Đà Nẵng"," 3,7 tỷ ", 110 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,22m,2,"7,5m",,
+" Đường Cẩm Bắc 9, Phường Hòa Phát, Quận Cẩm Lệ, Đà Nẵng"," 3,3 tỷ ", 75 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"4,5m",17m,2,"5,5m",,
+" Đường Nại Nghĩa 1, Phường Nại Hiên Đông, Quận Sơn Trà, Đà Nẵng"," 3,1 tỷ ", 61 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"5,5m",12m,---,4m,---,
+" Đường Cẩm Bắc 10, Phường Hòa Phát, Quận Cẩm Lệ, Đà Nẵng"," 6,5 tỷ ", 171 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"9,4m","18,4m",2,"5,5m",,
+" Đường Tôn Đản, Phường Hòa An, Quận Cẩm Lệ, Đà Nẵng"," 4,58 tỷ ", 106 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"5,3m",20m,3,"7,5m",,
+" Đường Vũ Lăng, Phường Hòa An, Quận Cẩm Lệ, Đà Nẵng"," 2,6 tỷ ", 60 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,4m,15m,1,10m,---,
+" Đường Phú Lộc 7, Phường Hòa Minh, Quận Liên Chiểu, Đà Nẵng"," 3,3 tỷ ", 75 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,15m,---,"5,5m",---,
+" Đường Nại Nghĩa 6, Phường Nại Hiên Đông, Quận Sơn Trà, Đà Nẵng"," 2,85 tỷ ", 61 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"5,5m",12m,---,4m,---,
+" Đường Hồ Biểu Chánh, Phường Hòa Cường Bắc, Quận Hải Châu, Đà Nẵng"," 4,5 tỷ ", 75 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,4m,18m,2,"5,5m",,
+" Đường Thanh Lương 21, Phường Hòa Xuân, Quận Cẩm Lệ, Đà Nẵng"," 4,85 tỷ ", 100 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,20m,3,"7,5m",,
+" Đường Yên Khê 2, Phường Thanh Khê Đông, Quận Thanh Khê, Đà Nẵng"," 3,8 tỷ ", 45 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,9m,3,"5,5m",,
+" Đường Phong Bắc 10, Phường Hòa Thọ Đông, Quận Cẩm Lệ, Đà Nẵng"," 3,5 tỷ ", 100 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,20m,2,"5,5m",,
+" Đường Đa Mặn 2, Phường Khuê Mỹ, Quận Ngũ Hành Sơn, Đà Nẵng"," 3,95 tỷ ", 90 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,18m,---,"5,5m",---,
+" Đường Cẩm Bắc 10, Phường Hòa Phát, Quận Cẩm Lệ, Đà Nẵng"," 3,3 tỷ ", 75 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"4,5m",16m,2,"5,5m",,
+" Đường Nguyễn Quý Đức, Phường Khuê Trung, Quận Cẩm Lệ, Đà Nẵng"," 4,39 tỷ ", 100 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,20m,2,"5,5m",,
+" Đường Đoàn Nguyễn Thục, Phường Khuê Trung, Quận Cẩm Lệ, Đà Nẵng"," 3,2 tỷ ", 80 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,6m,13m,---,"7,5m",---,
+" Đường Đô Đốc Tuyết, Phường Hòa Xuân, Quận Cẩm Lệ, Đà Nẵng"," 3,45 tỷ ", 96 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,"19,2m",2,"5,5m",,
+" Đường Nguyễn Quý Đức, Phường Khuê Trung, Quận Cẩm Lệ, Đà Nẵng"," 4,39 tỷ ", 100 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,20m,2,"5,5m",,
+" Đường Đoàn Nguyễn Thục, Phường Khuê Trung, Quận Cẩm Lệ, Đà Nẵng"," 3,2 tỷ ", 80 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,6m,13m,---,"7,5m",---,
+" Đường Đô Đốc Tuyết, Phường Hòa Xuân, Quận Cẩm Lệ, Đà Nẵng"," 3,45 tỷ ", 96 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,"19,2m",2,"5,5m",,
+" Đường An Thượng 12, Phường Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng"," 3,5 tỷ ", 40 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,4m,10m,1,4m,---,
+" Đường Nguyễn Minh Không, Phường Hòa Minh, Quận Liên Chiểu, Đà Nẵng"," 3,75 tỷ ", 90 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,18m,3,"5,5m",,
+" Đường Phong Bắc 9, Phường Hòa Thọ Đông, Quận Cẩm Lệ, Đà Nẵng"," 3,5 tỷ ", 100 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,20m,2,"5,5m",,
+" Đường Lê Cơ, Phường Hòa Cường Bắc, Quận Hải Châu, Đà Nẵng"," 3,9 tỷ ", 70 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,13m,---,4m,---,
+" Đường Nguyễn Giản Thanh, Phường An Khê, Quận Thanh Khê, Đà Nẵng"," 3,55 tỷ ", 70 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,4m,17m,1,"5,5m",,
+" Đường Trần Quý Hai, Phường Hòa Thọ Đông, Quận Cẩm Lệ, Đà Nẵng"," 3,65 tỷ ", 70 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,7m,10m,2,"5,5m",,
+" Đường Cao Sơn 5, Phường Hòa Hải, Quận Ngũ Hành Sơn, Đà Nẵng"," 2,45 tỷ ", 100 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,20m,---,"5,5m",---,---
+" Đường Huỳnh Thị Bảo Hòa, Phường Hòa Khánh Nam, Quận Liên Chiểu, Đà Nẵng"," 2,9 tỷ ", 100 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,20m,2,"5,5m",,
+" Đường Nguyễn Tường Phổ, Phường Hòa Minh, Quận Liên Chiểu, Đà Nẵng"," 2,5 tỷ ", 56 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,8m,7m,---,4m,---,
+" Đường Nguyễn Huy Tưởng, Phường Hòa Minh, Quận Liên Chiểu, Đà Nẵng"," 2,05 tỷ ", 120 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,5m,22m,2,3m,---,---
+" Đường Cách Mạng Tháng 8, Phường Hòa Thọ Đông, Quận Cẩm Lệ, Đà Nẵng"," 2,15 tỷ ", 81 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,5m,16m,1,3m,---,
+" Đường Trường Chinh, Phường An Khê, Quận Thanh Khê, Đà Nẵng"," 2,55 tỷ ", 60 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,7m,9m,1,4m,,
+" Đường Nguyễn Tri Phương, Phường Hòa Thuận Đông, Quận Hải Châu, Đà Nẵng"," 3,9 tỷ ", 55 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,5m,11m,4,"3,5m",,
+" Đường Tôn Đức Thắng, Phường Hòa Minh, Quận Liên Chiểu, Đà Nẵng", 2 tỷ , 78 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,5m,15m,---,5m,---,
+" Đường Lâm Hoành, Phường Phước Mỹ, Quận Sơn Trà, Đà Nẵng"," 4,2 tỷ ", 70 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,"4,5m",15m,3,3m,,
+" Đường Tôn Đức Thắng, Phường Hòa Minh, Quận Liên Chiểu, Đà Nẵng"," 2,8 tỷ ", 60 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,"4,5m",13m,2,3m,,
+" Đường Hoàng Diệu, Phường Hòa Thuận Đông, Quận Hải Châu, Đà Nẵng"," 3,65 tỷ ", 52 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,5m,10m,3,4m,,
+" Đường Tôn Đức Thắng, Phường Hòa Minh, Quận Liên Chiểu, Đà Nẵng"," 2,8 tỷ ", 60 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,"4,5m",13m,2,3m,,
+" Đường Hoàng Diệu, Phường Hòa Thuận Đông, Quận Hải Châu, Đà Nẵng"," 3,65 tỷ ", 52 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,5m,10m,3,4m,,
+" Đường Bàu Trảng 7, Phường Thanh Khê Tây, Quận Thanh Khê, Đà Nẵng"," 2,25 tỷ ", 54 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,5m,11m,2,3m,,---
+" Đường Nguyễn Xuân Hữu, Phường Hòa Thọ Đông, Quận Cẩm Lệ, Đà Nẵng"," 4,5 tỷ ", 85 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,5m,17m,4,5m,,
+" Đường Hoàng Diệu, Phường Hòa Thuận Đông, Quận Hải Châu, Đà Nẵng"," 3,62 tỷ ", 120 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,5m,19m,3,4m,,
+" Đường Phạm Như Xương, Phường Hòa Khánh Nam, Quận Liên Chiểu, Đà Nẵng"," 2,2 tỷ ", 100 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,14m,7m,---,"5,5m",---,
+" Đường Nguyễn Văn Huề, Phường Thanh Khê Đông, Quận Thanh Khê, Đà Nẵng"," 2,3 tỷ ", 65 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,9m,8m,2,"3,5m",,---
+" Đường Lý Tự Trọng, Phường Thanh Bình, Quận Hải Châu, Đà Nẵng"," 3,1 tỷ ", 80 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,5m,16m,1,3m,---,
+" Đường Hải Phòng, Phường Tân Chính, Quận Hải Châu, Đà Nẵng"," 2,7 tỷ ", 45 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,6m,8m,2,3m,,
+" Đường Trưng Nữ Vương, Phường Hòa Thuận Đông, Quận Hải Châu, Đà Nẵng"," 3,1 tỷ ", 90 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,4m,22m,2,3m,,
+" Đường Phan Châu Trinh, Phường Hải Châu I, Quận Hải Châu, Đà Nẵng"," 2,2 tỷ ", 51 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,4m,13m,2,"2,5m",,
+" Đường Hải Phòng, Phường Tân Chính, Quận Thanh Khê, Đà Nẵng"," 2,7 tỷ ", 45 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,6m,8m,2,4m,,---
+" Đường Nguyễn Đình Tứ, Phường Hòa Minh, Quận Liên Chiểu, Đà Nẵng"," 2,35 tỷ ", 100 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,5m,20m,---,5m,---,
+" Đường Trần Cao Vân, Phường Xuân Hà, Quận Thanh Khê, Đà Nẵng", 3 tỷ , 85 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,4m,22m,2,3m,,---
+" Đường Tôn Đản, Phường Hòa An, Quận Cẩm Lệ, Đà Nẵng"," 2,8 tỷ ", 80 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,7m,12m,3,"3,5m",,
+" Đường Hùng Vương, Phường Vĩnh Trung, Quận Thanh Khê, Đà Nẵng"," 2,1 tỷ ", 75 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,"4,6m",16m,---,"2,5m",---,---
+" Đường Hoàng Văn Thái, Phường Hòa Khánh Nam, Quận Liên Chiểu, Đà Nẵng"," 2,2 tỷ ", 82 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,5m,17m,---,4m,---,
+" Đường Lê Cơ, Phường Hòa Cường Bắc, Quận Hải Châu, Đà Nẵng"," 2,98 tỷ ", 60 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,5m,12m,3,"2,5m",,
+" Đường Lương Thế Vinh, Phường An Hải Đông, Quận Sơn Trà, Đà Nẵng"," 2,35 tỷ ", 40 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,4m,10m,3,"2,5m",,---
+" Đường Văn Cao, Phường Thạc Gián, Quận Thanh Khê, Đà Nẵng"," 3,6 tỷ ", 50 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,5m,10m,3,3m,,
+" Đường Hà Tông Quyền, Phường Khuê Trung, Quận Cẩm Lệ, Đà Nẵng"," 2,4 tỷ ", 100 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,5m,20m,---,2m,---,
+" Đường Nguyễn Duy Trinh, Phường Hòa Hải, Quận Ngũ Hành Sơn, Đà Nẵng"," 2,15 tỷ ", 55 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,5m,10m,1,4m,---,
+" Đường Lê Duẩn, Phường Tân Chính, Quận Thanh Khê, Đà Nẵng"," 3,25 tỷ ", 70 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,4m,15m,2,"2,5m",---,
+" Đường Bắc Đẩu, Phường Thanh Bình, Quận Hải Châu, Đà Nẵng"," 2,5 tỷ ", 35 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,4m,9m,3,3m,,
+" Đường Cô Giang, Phường Phước Ninh, Quận Hải Châu, Đà Nẵng"," 2,65 tỷ ", 35 m2,_,Nhà trong hẻm,---,4m,9m,3,"2,5m",,
+" Đường Đào Sư Tích, Phường Hòa Minh, Quận Liên Chiểu, Đà Nẵng"," 3,4 tỷ ", 90 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,5m,18m,---,"7,5m",---,
+" Đường Hà Huy Tập, Phường Hòa Khê, Quận Thanh Khê, Đà Nẵng"," 2,4 tỷ ", 70 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,"4,5m",15m,2,"2,5m",---,
+" Đường Hoàng Văn Thái, Phường Hòa Khánh Nam, Quận Liên Chiểu, Đà Nẵng"," 2,4 tỷ ", 120 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,6m,20m,1,"4,5m",,
+" Đường Nguyễn Nhàn, Phường Hòa Thọ Đông, Quận Cẩm Lệ, Đà Nẵng"," 2,4 tỷ ", 71 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,"4,5m",16m,2,4m,---,
+" Đường Nguyễn Phước Nguyên, Phường Hòa Khê, Quận Thanh Khê, Đà Nẵng"," 2,15 tỷ ", 50 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,5m,10m,2,3m,,
+" Đường Hoàng Diệu, Phường Nam Dương, Quận Hải Châu, Đà Nẵng"," 3,65 tỷ ", 55 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,5m,11m,3,4m,,
+" Đường Lê Đình Kỵ, Phường Hòa An, Quận Cẩm Lệ, Đà Nẵng"," 2,9 tỷ ", 70 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,"4,5m",16m,2,"4,5m",,
+" Đường Trưng Nữ Vương, Phường Hòa Thuận Đông, Quận Hải Châu, Đà Nẵng"," 4,85 tỷ ", 85 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,5m,17m,2,4m,,
+" Đường Hà Huy Tập, Phường Hòa Khê, Quận Thanh Khê, Đà Nẵng"," 2,1 tỷ ", 60 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,4m,15m,---,"2,5m",---,---
+" Đường Núi Thành, Phường Hòa Thuận Đông, Quận Hải Châu, Đà Nẵng"," 4,5 tỷ ", 58 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,"4,5m",13m,3,4m,,
+" Đường Cách Mạng Tháng 8, Phường Hòa Thọ Đông, Quận Cẩm Lệ, Đà Nẵng"," 2,15 tỷ ", 81 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,"4,5m",18m,1,3m,---,
+" Đường Nguyễn Hữu Thọ, Phường Hòa Thuận Tây, Quận Hải Châu, Đà Nẵng"," 4,05 tỷ ", 100 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,"4,5m",22m,2,4m,,
+" Đường Huỳnh Ngọc Huệ, Phường Hòa Khê, Quận Thanh Khê, Đà Nẵng"," 2,25 tỷ ", 77 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,6m,13m,2,"2,5m",,---
+" Đường Phó Đức Chính, Phường Mân Thái, Quận Sơn Trà, Đà Nẵng"," 4,6 tỷ ", 260 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,12m,22m,2,3m,,
+" Đường Lê Đình Lý, Phường Vĩnh Trung, Quận Thanh Khê, Đà Nẵng"," 2,4 tỷ ", 40 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,"4,5m",9m,1,2m,---,
+" Đường Ông Ích Khiêm, Phường Thanh Bình, Quận Hải Châu, Đà Nẵng"," 3,05 tỷ ", 55 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,4m,13m,3,2m,,---
+" Đường Huỳnh Ngọc Huệ, Phường Hòa Khê, Quận Thanh Khê, Đà Nẵng"," 4,1 tỷ ", 50 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,"5,5m",9m,3,5m,,
+" Đường Hoàng Thúc Trâm, Phường Hòa Cường Bắc, Quận Hải Châu, Đà Nẵng"," 3,8 tỷ ", 70 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,4m,17m,1,5m,,
+" Đường Hoàng Thúc Trâm, Phường Hòa Cường Bắc, Quận Hải Châu, Đà Nẵng"," 3,6 tỷ ", 70 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,"8,7m","8,4m",2,3m,,
+" Đường Hùng Vương, Phường Hải Châu I, Quận Hải Châu, Đà Nẵng"," 3,4 tỷ ", 90 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,"4,2m",21m,---,3m,---,
+" Đường Tôn Đức Thắng, Phường Hòa Minh, Quận Liên Chiểu, Đà Nẵng"," 2,7 tỷ ", 60 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,"4,4m",14m,2,3m,,
+" Đường Nguyễn Nhàn, Phường Hòa Thọ Đông, Quận Cẩm Lệ, Đà Nẵng"," 2,6 tỷ ", 112 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,5m,22m,---,7m,---,
+" Đường Lê Thanh Nghị, Phường Hòa Cường Bắc, Quận Hải Châu, Đà Nẵng"," 2,95 tỷ ", 66 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,4m,16m,2,3m,,
+" Đường Bình An 7, Phường Hòa Cường, Quận Hải Châu, Đà Nẵng"," 5,3 tỷ ", 88 m2,Tây Nam,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"6,49m","13,6m",1,"5,5m",---,---
+" Đường Cách Mạng Tháng 8, Phường Khuê Trung, Quận Cẩm Lệ, Đà Nẵng"," 9,2 tỷ ", 100 m2,Bắc,Nhà mặt tiền,---,"7,4m","14,77m",2,22m,---,---
+" Đường Bùi Xương Tự, Phường Hòa Thọ Đông, Quận Cẩm Lệ, Đà Nẵng"," 4,15 tỷ ", 109 m2,Đông Bắc,Nhà mặt tiền,---,5m,20m,2,"7,5m",---,---
+" Đường Bằng Lăng 1, Phường An Hải Tây, Quận Sơn Trà, Đà Nẵng"," 10,5 tỷ ", 100 m2,Tây Nam,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,20m,6,"7,5m",,
+" Đường Phan Đăng Lưu, Phường Hòa Cường Bắc, Quận Hải Châu, Đà Nẵng", 21 tỷ , 189 m2,Bắc,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"7,5m",25m,1,15m,,
+" Đường Trần Đức Thảo, Phường Hòa Cường Bắc, Quận Hải Châu, Đà Nẵng"," 6,85 tỷ ", 90 m2,Đông Nam,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,18m,1,"7,5m",,
+" Đường Lưu Hữu Phước, Phường An Hải Bắc, Quận Sơn Trà, Đà Nẵng"," 6,5 tỷ ", 100 m2,Tây Nam,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,20m,1,"7,5m",,
+" Đường Nguyễn Tất Thành, Phường Thanh Bình, Quận Hải Châu, Đà Nẵng", 15 tỷ , 125 m2,Tây Bắc,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,25m,4,20m,,
+" Đường Nại Hưng 2, Phường Nại Hiên Đông, Quận Sơn Trà, Đà Nẵng"," 4,4 tỷ ", 90 m2,Tây Bắc,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,18m,1,"5,5m",---,
+" Đường Núi Thành, Phường Hòa Cường Bắc, Quận Hải Châu, Đà Nẵng", 30 tỷ , 151 m2,Tây,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,7m,23m,10,10m,,
+" Đường Phan Đăng Lưu, Phường Hòa Cường Nam, Quận Hải Châu, Đà Nẵng", 22 tỷ , 187 m2,Đông Nam,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"7,5m",22m,1,15m,---,
+" Đường Lý Thái Tông, Phường Thanh Khê Tây, Quận Thanh Khê, Đà Nẵng"," 7,45 tỷ ", 90 m2,Tây Bắc,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"4,5m",20m,3,15m,,
+" Đường Hải Phòng, Phường Thạch Thang, Quận Hải Châu, Đà Nẵng", 23 tỷ , 96 m2,Nam,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"6,1m",---,2,10m,,
+" Đường Ông Ích Khiêm, Phường Thạch Thang, Quận Hải Châu, Đà Nẵng"," 12,5 tỷ ", 67 m2,Tây,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,4m,16m,3,10m,,
+" Đường Trần Phú, Phường Phước Ninh, Quận Hải Châu, Đà Nẵng", 28 tỷ , 113 m2,Đông,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"4,82m","21,5m",1,15m,,
+" Đường Lý Thái Tông, Phường Thanh Khê Tây, Quận Thanh Khê, Đà Nẵng"," 15,2 tỷ ", 200 m2,Tây Bắc,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,10m,20m,1,15m,,
+" Đường Trần Đức Thảo, Phường Hòa Cường Bắc, Quận Hải Châu, Đà Nẵng", 7 tỷ , 90 m2,Đông,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,18m,1,"7,5m",,
+" Đường Kỳ Đồng, Phường Thanh Khê Đông, Quận Thanh Khê, Đà Nẵng"," 9,5 tỷ ", 100 m2,Đông Nam,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,20m,3,"7,5m",,
+" Đường Hoàng Diệu, Phường Nam Dương, Quận Hải Châu, Đà Nẵng", 64 tỷ , 338 m2,Tây,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,12m,27m,1,10m,,
+" Đường Tiểu La, Phường Hòa Cường Bắc, Quận Hải Châu, Đà Nẵng", 15 tỷ , 100 m2,Tây Bắc,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,20m,3,10m,,
+" Đường Hà Huy Tập, Phường An Khê, Quận Thanh Khê, Đà Nẵng"," 11,5 tỷ ", 97 m2,Tây Bắc,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"4,8m","20,3m",3,10m,,
+" Đường Thái Phiên, Phường Phước Ninh, Quận Hải Châu, Đà Nẵng"," 18,5 tỷ ", 94 m2,Bắc,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"4,1m",23m,5,"7,5m",,
+" Đường Đông Du, Phường An Hải Bắc, Quận Sơn Trà, Đà Nẵng"," 3,4 tỷ ", 56 m2,Tây,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,4m,14m,2,4m,,
+" Đường Hoàng Diệu, Phường Bình Hiên, Quận Hải Châu, Đà Nẵng", 15 tỷ , 80 m2,Tây,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"5,7m",14m,3,10m,,
+" Đường Trần Phú, Phường Phước Ninh, Quận Hải Châu, Đà Nẵng", 41 tỷ , 158 m2,Tây,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"6,9m",22m,2,10m,,
+" Đường Thủ Khoa Huân, Phường An Hải Đông, Quận Sơn Trà, Đà Nẵng", 15 tỷ , 225 m2,Đông,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"8,25m",27m,1,6m,,
+" Đường Nguyễn Văn Linh, Phường Nam Dương, Quận Hải Châu, Đà Nẵng"," 47,5 tỷ ", 117 m2,Bắc,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,23m,9,20m,,
+" Đường Phú Xuân 1, Phường Hòa Minh, Quận Liên Chiểu, Đà Nẵng"," 3,58 tỷ ", 100 m2,Tây Nam,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,20m,1,"5,5m",,
+" Đường Lê Duẩn, Phường Hải Châu I, Quận Hải Châu, Đà Nẵng", 23 tỷ , 78 m2,Bắc,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"5,8m",14m,3,15m,,
+" Đường Nguyễn Văn Linh, Phường Thạc Gián, Quận Thanh Khê, Đà Nẵng", 26 tỷ , 106 m2,Đông Nam,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"4,5m",23m,5,15m,,
+" Đường Mai Thúc Lân, Phường Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng"," 17,5 tỷ ", 138 m2,Đông Bắc,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"6,2m",23m,2,10m,,
+" Đường Nguyễn Thị Thập, Phường Thanh Khê Tây, Quận Thanh Khê, Đà Nẵng"," 4,2 tỷ ", 101 m2,Tây Nam,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"4,5m",23m,2,"7,5m",,
+" Đường Thái Thị Bôi, Phường Chính Gián, Quận Thanh Khê, Đà Nẵng"," 5,4 tỷ ", 70 m2,Tây,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"4,4m",16m,3,"7,5m",,
+" Đường Trần Cao Vân, Phường Xuân Hà, Quận Thanh Khê, Đà Nẵng"," 6,2 tỷ ", 55 m2,Tây Nam,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"5,3m","10,3m",3,10m,,
+" Đường Điện Biên Phủ, Phường An Khê, Quận Thanh Khê, Đà Nẵng"," 10,5 tỷ ", 80 m2,Nam,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"4,4m",20m,3,33m,,
+" Đường Trần Hưng Đạo, Phường An Hải Tây, Quận Sơn Trà, Đà Nẵng", 19 tỷ , 100 m2,Đông,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,20m,2,15m,,
+" Đường Dương Bích Liên, Phường Hòa Minh, Quận Liên Chiểu, Đà Nẵng"," 3,99 tỷ ", 70 m2,Tây Nam,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,14m,2,"5,5m",,
+" Đường Tôn Thất Đạm, Phường Xuân Hà, Quận Thanh Khê, Đà Nẵng", 11 tỷ , 90 m2,Tây,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"4,5m",20m,3,"7,5m",,
+" Đường Bàu Năng 2, Phường Hòa Minh, Quận Liên Chiểu, Đà Nẵng"," 3,3 tỷ ", 91 m2,Tây Nam,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,18m,1,"5,5m",,
+" Đường Phan Châu Trinh, Phường Phước Ninh, Quận Hải Châu, Đà Nẵng"," 14,5 tỷ ", 84 m2,Tây Bắc,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"4,5m","18,5m",4,10m,,
+" Đường Nguyễn Chích, Phường Hòa Minh, Quận Liên Chiểu, Đà Nẵng"," 3,15 tỷ ", 82 m2,Đông Bắc,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,16m,1,"5,5m",,
+" Đường Châu Thị Vĩnh Tế, Phường Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng"," 13,5 tỷ ", 114 m2,Tây Nam,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,22m,4,"7,5m",,
+" Đường Trần Thanh Mại, Phường An Hải Bắc, Quận Sơn Trà, Đà Nẵng", 6 tỷ , 75 m2,Đông Bắc,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,15m,2,"5,5m",,
+" Đường Nguyễn Tất Thành, Phường Thanh Khê Đông, Quận Thanh Khê, Đà Nẵng"," 8,5 tỷ ", 125 m2,Bắc,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,25m,3,33m,,
+" Đường Nguyễn Huy Tự, Phường Hòa Minh, Quận Liên Chiểu, Đà Nẵng"," 2,85 tỷ ", 72 m2,Tây Nam,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"4,5m",16m,1,"5,5m",,
+" Đường Nguyễn Đức Trung, Phường Hòa Khê, Quận Thanh Khê, Đà Nẵng"," 9,8 tỷ ", 100 m2,Tây Nam,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,20m,5,10m,,
+" Đường Phú Xuân 8, Phường Hòa Minh, Quận Liên Chiểu, Đà Nẵng"," 5,6 tỷ ", 75 m2,Tây Bắc,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,15m,3,"5,5m",,
+" Đường Lê Cảnh Tuân, Phường Nại Hiên Đông, Quận Sơn Trà, Đà Nẵng"," 4,7 tỷ ", 85 m2,Đông Nam,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,17m,3,"5,5m",,
+" Đường Chi Lăng, Phường Hải Châu II, Quận Hải Châu, Đà Nẵng"," 24,4 tỷ ", 108 m2,Đông Bắc,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,22m,6,10m,,
+" Đường Hòa Minh 3, Phường Hòa Minh, Quận Liên Chiểu, Đà Nẵng"," 3,35 tỷ ", 72 m2,Đông Bắc,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"4,5m",16m,2,"5,5m",,
+" Đường Phú Lộc 10, Phường Thanh Khê Tây, Quận Thanh Khê, Đà Nẵng"," 4,5 tỷ ", 142 m2,Đông Nam,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,8m,18m,1,"5,5m",,
+" Đường Hoài Thanh, Phường Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng", 5 tỷ , 80 m2,Tây Nam,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,6m,14m,1,"7,5m",,
+" Đường Nguyễn Hoàng, Phường Bình Hiên, Quận Hải Châu, Đà Nẵng"," 16,5 tỷ ", 172 m2,Tây,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"8,2m",20m,1,"7,5m",,
+" Đường Hòa Minh 3, Phường Hòa Minh, Quận Liên Chiểu, Đà Nẵng"," 2,55 tỷ ", 72 m2,Tây Nam,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"4,5m",16m,1,"5,5m",,
+" 223 Đường Trưng Nữ Vương, Phường Hòa Thuận Tây, Quận Hải Châu, Đà Nẵng"," 7,7 tỷ ", 221 m2,Tây,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,"9,7m",23m,1,"2,5m",---,---
+" Đường Nguyễn Đổng Chi, Phường Hòa Cường Bắc, Quận Hải Châu, Đà Nẵng"," 7,5 tỷ ", 80 m2,Đông,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,16m,3,"5,5m",---,---
+" Đường Đào Trí, Phường Hòa Cường Nam, Quận Hải Châu, Đà Nẵng"," 4,35 tỷ ", 75 m2,Tây Bắc,Nhà mặt tiền,---,5m,15m,3,"5,5m",---,---
+" Đường Lưu Trọng Lư, Phường Hòa Cường Nam, Quận Hải Châu, Đà Nẵng"," 5,2 tỷ ", 70 m2,Bắc,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,4m,17m,2,"5,5m",---,---
+" Đường Lý Nhân Tông, Phường Khuê Trung, Quận Cẩm Lệ, Đà Nẵng"," 8,1 tỷ ", 93 m2,Đông,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,"18,5m",3,"7,5m",---,---
+" Đường Gò Nãy 6, Phường Hòa Minh, Quận Liên Chiểu, Đà Nẵng"," 4,5 tỷ ", 90 m2,Đông Nam,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,18m,2,"7,5m",---,---
+" Đường Trần Thủ Độ, Phường Khuê Trung, Quận Cẩm Lệ, Đà Nẵng"," 7,8 tỷ ", 100 m2,Tây Bắc,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,20m,3,10m,---,---
+" Đường Nguyễn Xuân Nhĩ, Phường Hòa Cường Nam, Quận Hải Châu, Đà Nẵng"," 3,9 tỷ ", 57 m2,Đông,Nhà mặt tiền,---,"4,05m",15m,1,"7,5m",---,---
+" Đường Ngọc Hồi, Phường Hòa Minh, Quận Liên Chiểu, Đà Nẵng"," 3,479 tỷ ", 75 m2,Tây Nam,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,15m,1,"5,5m",---,---
+" Đường Bàu Năng 10, Phường Hòa Minh, Quận Liên Chiểu, Đà Nẵng"," 3,5 tỷ ", 85 m2,Tây Bắc,Nhà mặt tiền,---,5m,18m,1,"5,5m",---,---
+" Đường Trần Nhân Tông, Phường Thọ Quang, Quận Sơn Trà, Đà Nẵng"," 6,1 tỷ ", 100 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,20m,3,11m,,
+" Đường Nại Hiên Đông, Phường Nại Hiên Đông, Quận Sơn Trà, Đà Nẵng"," 4,3 tỷ ", 70 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,14m,3,"5,5m",,
+" Đường Nguyễn Văn Thoại, Phường Phước Mỹ, Quận Sơn Trà, Đà Nẵng"," 7,5 tỷ ", 66 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,14m,4,"5,5m",,
+" Đường Lê Tấn Trung., Phường Thọ Quang, Quận Sơn Trà, Đà Nẵng"," 3,65 tỷ ", 70 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,14m,2,"5,5m",---,---
+" Đường Võ Duy Ninh, Phường Thọ Quang, Quận Sơn Trà, Đà Nẵng"," 1,55 tỷ ", 50 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,4m,12m,2,2m,---,---
+" Đường Nguyễn Phan Vinh, Phường Thọ Quang, Quận Sơn Trà, Đà Nẵng"," 2,3 tỷ ", 90 m2,_,Nhà trong hẻm,---,5m,18m,2,3m,---,---
+" Đường Nguyễn Sơn, Phường Hòa Cường Nam, Quận Hải Châu, Đà Nẵng"," 7,7 tỷ ", 90 m2,_,Nhà mặt tiền,---,6m,15m,3,"7,5m",---,---
+" Đường Bình An 7, Phường Hòa Cường Bắc, Quận Hải Châu, Đà Nẵng"," 4,7 tỷ ", 56 m2,Đông Nam,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,"4,25m",12m,4,"4,5m",---,---
+" Đường Bình Thái 3, Phường Hòa Thọ Đông, Quận Cẩm Lệ, Đà Nẵng"," 4,3 tỷ ", 135 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"5,4m",25m,2,"5,5m",,
+" Đường Cách Mạng Tháng 8, Phường Khuê Trung, Quận Cẩm Lệ, Đà Nẵng", 11 tỷ , 140 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"5,9m",25m,1,33m,---,
+" đường Quách Thị Trang Phường Hòa Xuân, Quận Cẩm Lệ, Đà Nẵng"," 4,9 tỷ ", 110 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,22m,2,"7,5m",,
+" Đường Trần Kim Xuyến, Phường Hòa Xuân, Quận Cẩm Lệ, Đà Nẵng"," 5,6 tỷ ", 100 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,20m,3,"7,5m",,
+" Đường Đô Đốc Tuyết, Phường Hòa Xuân, Quận Cẩm Lệ, Đà Nẵng"," 3,3 tỷ ", 100 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,20m,2,"5,5m",,
+" Đường Trương Quang Giao, Phường Khuê Trung, Quận Cẩm Lệ, Đà Nẵng"," 4,3 tỷ ", 90 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,18m,3,"5,5m",,
+" Đường Liêm Lạc 15, Phường Hòa Xuân, Quận Cẩm Lệ, Đà Nẵng"," 2,85 tỷ ", 100 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,20m,2,"5,5m",,
+" Đường Bùi Vịnh, Phường Hòa Thọ Đông, Quận Cẩm Lệ, Đà Nẵng"," 4,4 tỷ ", 95 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,19m,3,"5,5m",---,---
+" Đường Nguyễn Nho Túy, Phường Khuê Trung, Quận Cẩm Lệ, Đà Nẵng"," 3,55 tỷ ", 75 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,15m,2,"5,5m",---,
+" Đường Bùi Vịnh, Phường Hòa Thọ Đông, Quận Cẩm Lệ, Đà Nẵng"," 3,9 tỷ ", 90 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,18m,3,"5,5m",,
+" Đường Võ Chí Công, Phường Hòa Xuân, Quận Cẩm Lệ, Đà Nẵng", 24 tỷ , 250 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,15m,17m,2,33m,,
+" Đường Bình Thái 4, Phường Hòa Thọ Đông, Quận Cẩm Lệ, Đà Nẵng"," 3,85 tỷ ", 126 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,6m,21m,2,"5,5m",,
+" Đường Cách Mạng Tháng 8, Phường Hòa Thọ Đông, Quận Cẩm Lệ, Đà Nẵng", 14 tỷ , 90 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,7m,15m,2,33m,---,---
+" Đường 2/9, Phường Hòa Cường Nam, Quận Hải Châu, Đà Nẵng"," 17,9 tỷ ", 160 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"7,7m",21m,3,33m,,
+" Đường Đô Đốc Tuyết, Phường Hòa Xuân, Quận Cẩm Lệ, Đà Nẵng"," 3,75 tỷ ", 100 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,20m,3,"5,5m",,
+" Đường Phan Triêm, Phường Hòa Xuân, Quận Cẩm Lệ, Đà Nẵng"," 3,9 tỷ ", 100 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,20m,2,"7,5m",,
+" Đường Phạm Hùng, Phường Hòa Xuân, Quận Cẩm Lệ, Đà Nẵng"," 6,7 tỷ ", 110 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,22m,3,15m,,
+" Đường Trần Kim Bảng, Phường Khuê Trung, Quận Cẩm Lệ, Đà Nẵng"," 5,4 tỷ ", 90 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,18m,2,"5,5m",,
+" Đường Cách Mạng Tháng 8, Phường Khuê Trung, Quận Cẩm Lệ, Đà Nẵng", 20 tỷ , 310 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"11,2m",26m,3,33m,,
+" Đường Trần Huy Liệu, Phường Khuê Trung, Quận Cẩm Lệ, Đà Nẵng"," 4,1 tỷ ", 100 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,20m,2,"5,5m",,
+" Đường Bùi Vịnh, Phường Hòa Thọ Đông, Quận Cẩm Lệ, Đà Nẵng"," 3,9 tỷ ", 120 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,24m,2,"5,5m",,
+" Đường Ông Ích Đường, Phường Hòa Thọ Đông, Quận Cẩm Lệ, Đà Nẵng"," 1,8 tỷ ", 62 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,"5,2m",12m,2,3m,---,---
+" Đường Nguyễn Nhàn, Phường Hòa Thọ Đông, Quận Cẩm Lệ, Đà Nẵng"," 2,25 tỷ ", 72 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,"4,5m",16m,2,6m,,
+" Đường Cách Mạng Tháng 8, Phường Khuê Trung, Quận Cẩm Lệ, Đà Nẵng", 2 tỷ , 84 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,4m,21m,2,3m,---,
+" Đường Triệu Quốc Đạt, Phường Hòa Thọ Đông, Quận Cẩm Lệ, Đà Nẵng"," 2,25 tỷ ", 80 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,6m,"13,5m",2,6m,,
+" Đường Bùi Xương Trạch, Phường Khuê Trung, Quận Cẩm Lệ, Đà Nẵng"," 2,25 tỷ ", 100 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,5m,20m,1,"2,5m",---,---
+" Đường Ông Ích Đường, Phường Hòa Thọ Đông, Quận Cẩm Lệ, Đà Nẵng"," 2,2 tỷ ", 76 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,"4,6m",16m,2,5m,,
+" Đường Nguyễn Trung Ngạn, Phường Khuê Trung, Quận Cẩm Lệ, Đà Nẵng"," 4,9 tỷ ", 125 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,25m,2,"5,5m",,
+" Đường Phạm Hùng, Phường Hòa Xuân, Quận Cẩm Lệ, Đà Nẵng", 6 tỷ , 110 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,22m,1,15m,---,
+" Đường Phạm Viết Chánh, Phường Hòa Thọ Đông, Quận Cẩm Lệ, Đà Nẵng"," 2,25 tỷ ", 78 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,6m,13m,2,6m,,
+" Đường Bàu Vàng 4, Phường Hòa Khánh Bắc, Quận Liên Chiểu, Đà Nẵng"," 4,35 tỷ ", 100 m2,Đông Bắc,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,20m,4,"7,5m",---,---
+" Đường Nguyễn Văn Thoại, Phường Phước Mỹ, Quận Sơn Trà, Đà Nẵng"," 7,5 tỷ ", 83 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,"4,8m",18m,1,"4,5m",,
+" Đường Núi Thành, Phường Hòa Cường Nam, Quận Hải Châu, Đà Nẵng", 13 tỷ , 104 m2,_,Nhà mặt tiền,---,---,---,3,10m,---,---
+" Đường An Thượng 38, Phường Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng"," 8,5 tỷ ", 60 m2,_,Nhà mặt tiền,---,---,---,5,"5,5m",---,---
+" Đường Núi Thành, Phường Hòa Thuận Đông, Quận Hải Châu, Đà Nẵng", 24 tỷ , 123 m2,_,Nhà mặt tiền,---,---,---,2,10m,---,---
+" Đường Lê Văn Hưu, Phường Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng"," 8,3 tỷ ", 110 m2,_,Nhà mặt tiền,---,---,---,3,10m,---,---
+" Đường Trần Thanh Mại, Phường An Hải Bắc, Quận Sơn Trà, Đà Nẵng", 6 tỷ , 75 m2,_,Nhà mặt tiền,---,---,---,2,"5,5m",---,---
+" Đường Ông Ích Khiêm, Phường Thanh Bình, Quận Hải Châu, Đà Nẵng"," 8,5 tỷ ", 41 m2,_,Nhà mặt tiền,---,---,---,4,10m,---,---
+" Đường An Trung, Phường An Hải Tây, Quận Sơn Trà, Đà Nẵng"," 3,6 tỷ ", 55 m2,_,Nhà mặt tiền,---,---,---,1,4m,---,---
+" Đường Hoàng Xuân Nhị, Phường Hòa Cường Nam, Quận Hải Châu, Đà Nẵng", 6 tỷ , 73 m2,_,Nhà mặt tiền,---,---,---,3,"5,5m",---,---
+" Đường Chính Hữu, Phường An Hải Bắc, Quận Sơn Trà, Đà Nẵng", 11 tỷ , 73 m2,_,Nhà mặt tiền,---,---,---,4,10m,---,---
+" Đường Hoài Thanh, Phường Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng", 13 tỷ , 160 m2,_,Nhà mặt tiền,---,---,---,4,"7,5m",---,---
+" Đường Đỗ Thúc Tịnh, Phường Khuê Trung, Quận Cẩm Lệ, Đà Nẵng"," 3,9 tỷ ", 73 m2,_,Nhà mặt tiền,---,---,---,1,"7,5m",---,---
+" Đường Hoài Thanh, Phường Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng"," 5,6 tỷ ", 69 m2,_,Nhà mặt tiền,---,---,---,4,"7,5m",---,---
+" Đường Thanh Lương 6, Phường Hòa Xuân, Quận Cẩm Lệ, Đà Nẵng"," 8,2 tỷ ", 200 m2,_,Nhà mặt tiền,---,---,---,2,"7,5m",---,---
+" Đường Nguyễn Đức Cảnh, Phường Thuận Phước, Quận Hải Châu, Đà Nẵng"," 3,95 tỷ ", 59 m2,_,Nhà mặt tiền,---,---,---,2,"5,5m",---,---
+" Đường Võ Chí Công, Phường Hòa Quý, Quận Ngũ Hành Sơn, Đà Nẵng"," 3,29 tỷ ", 100 m2,_,Nhà mặt tiền,---,---,---,2,"5,5m",---,---
+" Đường Nam Thọ 4, Phường Thọ Quang, Quận Sơn Trà, Đà Nẵng"," 4,7 tỷ ", 115 m2,_,Nhà mặt tiền,---,---,---,2,"5,5m",---,---
+" Đường Võ Chí Công, Phường Hòa Hải, Quận Ngũ Hành Sơn, Đà Nẵng"," 2,8 tỷ ", 88 m2,_,Nhà mặt tiền,---,---,---,2,"5,5m",---,---
+" Đường Bình Than, Phường Thọ Quang, Quận Sơn Trà, Đà Nẵng"," 2,5 tỷ ", 71 m2,_,Nhà trong hẻm,---,---,---,1,"3,5m",---,---
+" Đường Phạm Đình Hổ, Phường Hòa Minh, Quận Liên Chiểu, Đà Nẵng"," 7,8 tỷ ", 140 m2,_,Nhà mặt tiền,---,---,---,3,"7,5m",---,---
+" Đường Sơn Thủy 4, Phường Hòa Hải, Quận Ngũ Hành Sơn, Đà Nẵng"," 2,95 tỷ ", 90 m2,_,Nhà mặt tiền,---,---,---,1,"5,5m",---,---
+" Đường Hùng Vương, Phường Hải Châu II, Quận Hải Châu, Đà Nẵng", 40 tỷ , 142 m2,_,Nhà mặt tiền,---,---,---,4,10m,---,---
+" Đường 2/9, Phường Hòa Cường Nam, Quận Hải Châu, Đà Nẵng"," 9,7 tỷ ", 67 m2,_,Nhà mặt tiền,---,---,---,5,22m,---,---
+" Đường Hoàng Thúc Trâm, Phường Hòa Cường Bắc, Quận Hải Châu, Đà Nẵng"," 3,6 tỷ ", 70 m2,_,Nhà trong hẻm,---,---,---,2,"2,5m",---,---
+" Đường Nguyễn Duy Trinh, Phường Hòa Hải, Quận Ngũ Hành Sơn, Đà Nẵng"," 1,98 tỷ ", 53 m2,_,Nhà trong hẻm,---,---,---,1,3m,---,---
+" Đường Trần Đại Nghĩa, Phường Hòa Hải, Quận Ngũ Hành Sơn, Đà Nẵng"," 2,45 tỷ ", 119 m2,_,Nhà trong hẻm,---,---,---,1,3m,---,---
+" Đường Ỷ Lan Nguyên Phi, Phường Hòa Cường Bắc, Quận Hải Châu, Đà Nẵng", 16 tỷ , 138 m2,_,Nhà trong hẻm,---,---,---,6,5m,---,---
+" Đường Bắc Đẩu, Phường Thanh Bình, Quận Hải Châu, Đà Nẵng"," 2,48 tỷ ", 48 m2,_,Nhà trong hẻm,---,---,---,2,4m,---,---
+" Đường Phan Tứ, Phường Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng", 10 tỷ , 210 m2,_,Nhà trong hẻm,---,---,---,3,3m,---,---
+" Đường Ngô Quyền, Phường An Hải Bắc, Quận Sơn Trà, Đà Nẵng"," 5,9 tỷ ", 110 m2,_,Nhà trong hẻm,---,---,---,4,5m,---,---
+" Đường Nguyễn Duy Trinh, Phường Hòa Hải, Quận Ngũ Hành Sơn, Đà Nẵng"," 2,15 tỷ ", 53 m2,_,Nhà trong hẻm,---,---,---,2,3m,---,---
+" Đường Lê Văn Hưu, Phường Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng", 21 tỷ , 212 m2,Bắc,Nhà mặt tiền,---,10m,"21,25m",3,10m,---,---
+" Đường Nguyễn Phước Nguyên, Phường Hòa Khê, Quận Thanh Khê, Đà Nẵng"," 4,1 tỷ ", 40 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"5,9m",7m,3,"7,5m",,
+" Đường Bàu Cầu 15, Xã Hòa Châu, Huyện Hòa Vang, Đà Nẵng"," 2,8 tỷ ", 90 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,18m,2,"7,5m",---,
+" Đường Đa Phước 1, Phường Khuê Mỹ, Quận Ngũ Hành Sơn, Đà Nẵng"," 5,6 tỷ ", 90 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,18m,3,"7,5m",,
+" Đường Nguyễn Thuật, Phường Hòa An, Quận Cẩm Lệ, Đà Nẵng"," 3,4 tỷ ", 125 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,25m,---,"7,5m",---,
+" Đường Nguyễn Đức Cảnh, Phường Thuận Phước, Quận Hải Châu, Đà Nẵng"," 5,4 tỷ ", 60 m2,_,Nhà mặt tiền,---,"4,5m",13m,4,"5,5m",,
+" Đường Nguyễn Chích, Phường Hòa Minh, Quận Liên Chiểu, Đà Nẵng"," 3,67 tỷ ", 75 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,15m,---,"7,5m",---,
+" Đường Hoàng Văn Thái, Phường Hòa Khánh Nam, Quận Liên Chiểu, Đà Nẵng"," 3,62 tỷ ", 65 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,4m,16m,2,15m,---,
+" Đường Trung Lương 7, Phường Hòa Xuân, Quận Cẩm Lệ, Đà Nẵng"," 3,7 tỷ ", 110 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,22m,2,"7,5m",,
+" Đường Bùi Hữu Nghĩa, Phường Phước Mỹ, Quận Sơn Trà, Đà Nẵng"," 4,8 tỷ ", 66 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"4,5m",15m,1,4m,---,
+" Đường An Thượng 18, Phường Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng"," 5,7 tỷ ", 75 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"6,2m",12m,---,4m,---,
+" Đường Tôn Đản, Phường Hòa An, Quận Cẩm Lệ, Đà Nẵng"," 4,58 tỷ ", 106 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"5,3m",20m,3,"7,5m",,
+" Đường Vũ Lăng, Phường Hòa An, Quận Cẩm Lệ, Đà Nẵng"," 2,6 tỷ ", 60 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,4m,15m,1,10m,---,
+" Đường Cẩm Bắc 10, Phường Hòa Phát, Quận Cẩm Lệ, Đà Nẵng"," 6,5 tỷ ", 171 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"9,4m","18,4m",2,"5,5m",,
+" Đường Nại Nghĩa 1, Phường Nại Hiên Đông, Quận Sơn Trà, Đà Nẵng"," 3,1 tỷ ", 61 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"5,5m",12m,---,4m,---,
+" Đường Cẩm Bắc 9, Phường Hòa Phát, Quận Cẩm Lệ, Đà Nẵng"," 3,3 tỷ ", 75 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"4,5m",17m,2,"5,5m",,
+" Đường Phú Lộc 7, Phường Hòa Minh, Quận Liên Chiểu, Đà Nẵng"," 3,3 tỷ ", 75 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,15m,---,"5,5m",---,
+" Đường Nại Nghĩa 6, Phường Nại Hiên Đông, Quận Sơn Trà, Đà Nẵng"," 2,85 tỷ ", 61 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"5,5m",12m,---,4m,---,
+" Đường Nại Nghĩa 6, Phường Nại Hiên Đông, Quận Sơn Trà, Đà Nẵng"," 2,85 tỷ ", 61 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"5,5m",12m,---,4m,---,
+" Đường Nguyễn Phước Nguyên, Phường Hòa Khê, Quận Thanh Khê, Đà Nẵng"," 4,98 tỷ ", 80 m2,_,Nhà mặt tiền,---,5m,16m,3,"7,5m",,
+" Đường Cao Sơn Pháo, Phường Hòa An, Quận Cẩm Lệ, Đà Nẵng", 4 tỷ , 61 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,6m,10m,3,"7,5m",,
+" Đường Nguyễn Phước Nguyên, Phường Hòa Khê, Quận Thanh Khê, Đà Nẵng"," 3,65 tỷ ", 35 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,7m,5m,4,"7,5m",,
+" Đường An Thượng 38, Phường Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng"," 8,8 tỷ ", 60 m2,_,Nhà mặt tiền,---,5m,14m,4,"5,5m",,
+" Phường Hòa Quý, Quận Ngũ Hành Sơn, Đà Nẵng"," 2,65 tỷ ", 100 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,20m,1,"7,5m",,
+" Đường Đồng Xoài, Phường Hòa Minh, Quận Liên Chiểu, Đà Nẵng"," 5,1 tỷ ", 125 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,25m,3,10m,,
+" Đường Cẩm Bắc 10, Phường Hòa Phát, Quận Cẩm Lệ, Đà Nẵng"," 6,5 tỷ ", 171 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"9,4m","18,4m",2,"5,5m",,
+" Đường Phong Bắc 10, Phường Hòa Thọ Đông, Quận Cẩm Lệ, Đà Nẵng"," 3,5 tỷ ", 100 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,20m,2,"5,5m",,
+" Đường Đa Mặn 2, Phường Khuê Mỹ, Quận Ngũ Hành Sơn, Đà Nẵng"," 3,95 tỷ ", 90 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,18m,---,"5,5m",---,
+" Đường Cẩm Bắc 10, Phường Hòa Phát, Quận Cẩm Lệ, Đà Nẵng"," 3,3 tỷ ", 75 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"4,5m",16m,2,"5,5m",,
+" Đường Nguyễn Quý Đức, Phường Khuê Trung, Quận Cẩm Lệ, Đà Nẵng"," 4,39 tỷ ", 100 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,20m,2,"5,5m",,
+" Đường Hồ Biểu Chánh, Phường Hòa Cường Bắc, Quận Hải Châu, Đà Nẵng"," 4,5 tỷ ", 75 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,4m,18m,2,"5,5m",,
+" Đường Yên Khê 2, Phường Thanh Khê Đông, Quận Thanh Khê, Đà Nẵng"," 3,8 tỷ ", 45 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,9m,3,"5,5m",,
+" Đường Thanh Lương 21, Phường Hòa Xuân, Quận Cẩm Lệ, Đà Nẵng"," 4,85 tỷ ", 100 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,20m,3,"7,5m",,
+" Đường Đoàn Nguyễn Thục, Phường Khuê Trung, Quận Cẩm Lệ, Đà Nẵng"," 3,2 tỷ ", 80 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,6m,13m,---,"7,5m",---,
+" Đường Đô Đốc Tuyết, Phường Hòa Xuân, Quận Cẩm Lệ, Đà Nẵng"," 3,45 tỷ ", 96 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,"19,2m",2,"5,5m",,
+" Đường An Thượng 12, Phường Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng"," 3,5 tỷ ", 40 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,4m,10m,1,4m,---,
+" Đường Nguyễn Minh Không, Phường Hòa Minh, Quận Liên Chiểu, Đà Nẵng"," 3,75 tỷ ", 90 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,18m,3,"5,5m",,
+" Đường Phong Bắc 9, Phường Hòa Thọ Đông, Quận Cẩm Lệ, Đà Nẵng"," 3,5 tỷ ", 100 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,20m,2,"5,5m",,
+" Đường Nguyễn Giản Thanh, Phường An Khê, Quận Thanh Khê, Đà Nẵng"," 3,55 tỷ ", 70 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,4m,17m,1,"5,5m",,
+" Đường Cao Sơn 5, Phường Hòa Hải, Quận Ngũ Hành Sơn, Đà Nẵng"," 2,45 tỷ ", 100 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,20m,---,"5,5m",---,---
+" Đường Huỳnh Thị Bảo Hòa, Phường Hòa Khánh Nam, Quận Liên Chiểu, Đà Nẵng"," 2,9 tỷ ", 100 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,20m,2,"5,5m",,
+" Đường Lê Cơ, Phường Hòa Cường Bắc, Quận Hải Châu, Đà Nẵng"," 3,9 tỷ ", 70 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,13m,---,4m,---,
+" Đường Trần Quý Hai, Phường Hòa Thọ Đông, Quận Cẩm Lệ, Đà Nẵng"," 3,65 tỷ ", 70 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,7m,10m,2,"5,5m",,
+" Đường Nguyễn Tường Phổ, Phường Hòa Minh, Quận Liên Chiểu, Đà Nẵng"," 2,5 tỷ ", 56 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,8m,7m,---,4m,---,
+" Đường Nguyễn Huy Tưởng, Phường Hòa Minh, Quận Liên Chiểu, Đà Nẵng"," 2,05 tỷ ", 120 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,5m,22m,2,3m,---,---
+" Đường Cách Mạng Tháng 8, Phường Hòa Thọ Đông, Quận Cẩm Lệ, Đà Nẵng"," 2,15 tỷ ", 81 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,5m,16m,1,3m,---,
+" Đường Trường Chinh, Phường An Khê, Quận Thanh Khê, Đà Nẵng"," 2,55 tỷ ", 60 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,7m,9m,1,4m,,
+" Đường Tôn Đức Thắng, Phường Hòa Minh, Quận Liên Chiểu, Đà Nẵng", 2 tỷ , 78 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,5m,15m,---,5m,---,
+" Đường Lâm Hoành, Phường Phước Mỹ, Quận Sơn Trà, Đà Nẵng"," 4,2 tỷ ", 70 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,"4,5m",15m,3,3m,,
+" Đường Tôn Đức Thắng, Phường Hòa Minh, Quận Liên Chiểu, Đà Nẵng"," 2,8 tỷ ", 60 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,"4,5m",13m,2,3m,,
+" Đường Phạm Như Xương, Phường Hòa Khánh Nam, Quận Liên Chiểu, Đà Nẵng"," 2,2 tỷ ", 100 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,14m,7m,---,"5,5m",---,
+" Đường Bàu Trảng 7, Phường Thanh Khê Tây, Quận Thanh Khê, Đà Nẵng"," 2,25 tỷ ", 54 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,5m,11m,2,3m,,---
+" Đường Nguyễn Xuân Hữu, Phường Hòa Thọ Đông, Quận Cẩm Lệ, Đà Nẵng"," 4,5 tỷ ", 85 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,5m,17m,4,5m,,
+" Đường Hoàng Diệu, Phường Hòa Thuận Đông, Quận Hải Châu, Đà Nẵng"," 3,62 tỷ ", 120 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,5m,19m,3,4m,,
+" Đường Nguyễn Tri Phương, Phường Hòa Thuận Đông, Quận Hải Châu, Đà Nẵng"," 3,9 tỷ ", 55 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,5m,11m,4,"3,5m",,
+" Đường Hoàng Diệu, Phường Hòa Thuận Đông, Quận Hải Châu, Đà Nẵng"," 3,65 tỷ ", 52 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,5m,10m,3,4m,,
+" Đường Nguyễn Văn Huề, Phường Thanh Khê Đông, Quận Thanh Khê, Đà Nẵng"," 2,3 tỷ ", 65 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,9m,8m,2,"3,5m",,---
+" Đường Lý Tự Trọng, Phường Thanh Bình, Quận Hải Châu, Đà Nẵng"," 3,1 tỷ ", 80 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,5m,16m,1,3m,---,
+" Đường Hải Phòng, Phường Tân Chính, Quận Hải Châu, Đà Nẵng"," 2,7 tỷ ", 45 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,6m,8m,2,3m,,
+" Đường Trưng Nữ Vương, Phường Hòa Thuận Đông, Quận Hải Châu, Đà Nẵng"," 3,1 tỷ ", 90 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,4m,22m,2,3m,,
+" Đường Phan Châu Trinh, Phường Hải Châu I, Quận Hải Châu, Đà Nẵng"," 2,2 tỷ ", 51 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,4m,13m,2,"2,5m",,
+" Đường Hải Phòng, Phường Tân Chính, Quận Thanh Khê, Đà Nẵng"," 2,7 tỷ ", 45 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,6m,8m,2,4m,,---
+" Đường Nguyễn Đình Tứ, Phường Hòa Minh, Quận Liên Chiểu, Đà Nẵng"," 2,35 tỷ ", 100 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,5m,20m,---,5m,---,
+" Đường Trần Cao Vân, Phường Xuân Hà, Quận Thanh Khê, Đà Nẵng", 3 tỷ , 85 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,4m,22m,2,3m,,---
+" Đường Tôn Đản, Phường Hòa An, Quận Cẩm Lệ, Đà Nẵng"," 2,8 tỷ ", 80 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,7m,12m,3,"3,5m",,
+" Đường Hùng Vương, Phường Vĩnh Trung, Quận Thanh Khê, Đà Nẵng"," 2,1 tỷ ", 75 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,"4,6m",16m,---,"2,5m",---,---
+" Đường Hoàng Văn Thái, Phường Hòa Khánh Nam, Quận Liên Chiểu, Đà Nẵng"," 2,2 tỷ ", 82 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,5m,17m,---,4m,---,
+" Đường Lương Thế Vinh, Phường An Hải Đông, Quận Sơn Trà, Đà Nẵng"," 2,35 tỷ ", 40 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,4m,10m,3,"2,5m",,---
+" Đường Văn Cao, Phường Thạc Gián, Quận Thanh Khê, Đà Nẵng"," 3,6 tỷ ", 50 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,5m,10m,3,3m,,
+" Đường Lê Cơ, Phường Hòa Cường Bắc, Quận Hải Châu, Đà Nẵng"," 2,98 tỷ ", 60 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,5m,12m,3,"2,5m",,
+" Đường Hà Tông Quyền, Phường Khuê Trung, Quận Cẩm Lệ, Đà Nẵng"," 2,4 tỷ ", 100 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,5m,20m,---,2m,---,
+" Đường Nguyễn Duy Trinh, Phường Hòa Hải, Quận Ngũ Hành Sơn, Đà Nẵng"," 2,15 tỷ ", 55 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,5m,10m,1,4m,---,
+" Đường Lê Duẩn, Phường Tân Chính, Quận Thanh Khê, Đà Nẵng"," 3,25 tỷ ", 70 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,4m,15m,2,"2,5m",---,
+" Đường Bắc Đẩu, Phường Thanh Bình, Quận Hải Châu, Đà Nẵng"," 2,5 tỷ ", 35 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,4m,9m,3,3m,,
+" Đường Cô Giang, Phường Phước Ninh, Quận Hải Châu, Đà Nẵng"," 2,65 tỷ ", 35 m2,_,Nhà trong hẻm,---,4m,9m,3,"2,5m",,
+" Đường Đào Sư Tích, Phường Hòa Minh, Quận Liên Chiểu, Đà Nẵng"," 3,4 tỷ ", 90 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,5m,18m,---,"7,5m",---,
+" Đường Hà Huy Tập, Phường Hòa Khê, Quận Thanh Khê, Đà Nẵng"," 2,4 tỷ ", 70 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,"4,5m",15m,2,"2,5m",---,
+" Đường Hoàng Văn Thái, Phường Hòa Khánh Nam, Quận Liên Chiểu, Đà Nẵng"," 2,4 tỷ ", 120 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,6m,20m,1,"4,5m",,
+" Đường Hoàng Diệu, Phường Nam Dương, Quận Hải Châu, Đà Nẵng"," 3,65 tỷ ", 55 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,5m,11m,3,4m,,
+" Đường Lê Đình Kỵ, Phường Hòa An, Quận Cẩm Lệ, Đà Nẵng"," 2,9 tỷ ", 70 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,"4,5m",16m,2,"4,5m",,
+" Đường Trưng Nữ Vương, Phường Hòa Thuận Đông, Quận Hải Châu, Đà Nẵng"," 4,85 tỷ ", 85 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,5m,17m,2,4m,,
+" Đường Nguyễn Nhàn, Phường Hòa Thọ Đông, Quận Cẩm Lệ, Đà Nẵng"," 2,4 tỷ ", 71 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,"4,5m",16m,2,4m,---,
+" Đường Nguyễn Phước Nguyên, Phường Hòa Khê, Quận Thanh Khê, Đà Nẵng"," 2,15 tỷ ", 50 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,5m,10m,2,3m,,
+" Đường Hà Huy Tập, Phường Hòa Khê, Quận Thanh Khê, Đà Nẵng"," 2,1 tỷ ", 60 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,4m,15m,---,"2,5m",---,---
+" Đường Núi Thành, Phường Hòa Thuận Đông, Quận Hải Châu, Đà Nẵng"," 4,5 tỷ ", 58 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,"4,5m",13m,3,4m,,
+" Đường Cách Mạng Tháng 8, Phường Hòa Thọ Đông, Quận Cẩm Lệ, Đà Nẵng"," 2,15 tỷ ", 81 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,"4,5m",18m,1,3m,---,
+" Đường Nguyễn Hữu Thọ, Phường Hòa Thuận Tây, Quận Hải Châu, Đà Nẵng"," 4,05 tỷ ", 100 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,"4,5m",22m,2,4m,,
+" Đường Huỳnh Ngọc Huệ, Phường Hòa Khê, Quận Thanh Khê, Đà Nẵng"," 2,25 tỷ ", 77 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,6m,13m,2,"2,5m",,---
+" Đường Phó Đức Chính, Phường Mân Thái, Quận Sơn Trà, Đà Nẵng"," 4,6 tỷ ", 260 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,12m,22m,2,3m,,
+" Đường Lê Đình Lý, Phường Vĩnh Trung, Quận Thanh Khê, Đà Nẵng"," 2,4 tỷ ", 40 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,"4,5m",9m,1,2m,---,
+" Đường Phan Tứ, Phường Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng", 6 tỷ , 61 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,"4,5m",13m,5,4m,,
+" Đường Ông Ích Khiêm, Phường Thanh Bình, Quận Hải Châu, Đà Nẵng"," 3,05 tỷ ", 55 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,4m,13m,3,2m,,---
+" Đường Huỳnh Ngọc Huệ, Phường Hòa Khê, Quận Thanh Khê, Đà Nẵng"," 4,1 tỷ ", 50 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,"5,5m",9m,3,5m,,
+" Đường Hoàng Thúc Trâm, Phường Hòa Cường Bắc, Quận Hải Châu, Đà Nẵng"," 3,6 tỷ ", 70 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,"8,7m","8,4m",2,3m,,
+" Đường Hoàng Thúc Trâm, Phường Hòa Cường Bắc, Quận Hải Châu, Đà Nẵng"," 3,8 tỷ ", 70 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,4m,17m,1,5m,,
+" Đường Hùng Vương, Phường Hải Châu I, Quận Hải Châu, Đà Nẵng"," 3,4 tỷ ", 90 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,"4,2m",21m,---,3m,---,
+" Đường Tôn Đức Thắng, Phường Hòa Minh, Quận Liên Chiểu, Đà Nẵng"," 2,7 tỷ ", 60 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,"4,4m",14m,2,3m,,
+" Đường Nguyễn Nhàn, Phường Hòa Thọ Đông, Quận Cẩm Lệ, Đà Nẵng"," 2,6 tỷ ", 112 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,5m,22m,---,7m,---,
+" Đường Lê Thanh Nghị, Phường Hòa Cường Bắc, Quận Hải Châu, Đà Nẵng"," 2,95 tỷ ", 66 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,4m,16m,2,3m,,
+" Đường Bình An 7, Phường Hòa Cường, Quận Hải Châu, Đà Nẵng"," 5,3 tỷ ", 88 m2,Tây Nam,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"6,49m","13,6m",1,"5,5m",---,---
+" Đường Cách Mạng Tháng 8, Phường Khuê Trung, Quận Cẩm Lệ, Đà Nẵng"," 9,2 tỷ ", 100 m2,Bắc,Nhà mặt tiền,---,"7,4m","14,77m",2,22m,---,---
+" Đường Bùi Xương Tự, Phường Hòa Thọ Đông, Quận Cẩm Lệ, Đà Nẵng"," 4,15 tỷ ", 109 m2,Đông Bắc,Nhà mặt tiền,---,5m,20m,2,"7,5m",---,---
+" Đường Bằng Lăng 1, Phường An Hải Tây, Quận Sơn Trà, Đà Nẵng"," 10,5 tỷ ", 100 m2,Tây Nam,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,20m,6,"7,5m",,
+" Đường Phan Đăng Lưu, Phường Hòa Cường Bắc, Quận Hải Châu, Đà Nẵng", 21 tỷ , 189 m2,Bắc,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"7,5m",25m,1,15m,,
+" Đường Trần Đức Thảo, Phường Hòa Cường Bắc, Quận Hải Châu, Đà Nẵng"," 6,85 tỷ ", 90 m2,Đông Nam,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,18m,1,"7,5m",,
+" Đường Lưu Hữu Phước, Phường An Hải Bắc, Quận Sơn Trà, Đà Nẵng"," 6,5 tỷ ", 100 m2,Tây Nam,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,20m,1,"7,5m",,
+" Đường Nguyễn Tất Thành, Phường Thanh Bình, Quận Hải Châu, Đà Nẵng", 15 tỷ , 125 m2,Tây Bắc,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,25m,4,20m,,
+" Đường Nại Hưng 2, Phường Nại Hiên Đông, Quận Sơn Trà, Đà Nẵng"," 4,4 tỷ ", 90 m2,Tây Bắc,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,18m,1,"5,5m",---,
+" Đường Núi Thành, Phường Hòa Cường Bắc, Quận Hải Châu, Đà Nẵng", 30 tỷ , 151 m2,Tây,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,7m,23m,10,10m,,
+" Đường Phan Đăng Lưu, Phường Hòa Cường Nam, Quận Hải Châu, Đà Nẵng", 22 tỷ , 187 m2,Đông Nam,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"7,5m",22m,1,15m,---,
+" Đường Ông Ích Khiêm, Phường Thạch Thang, Quận Hải Châu, Đà Nẵng"," 12,5 tỷ ", 67 m2,Tây,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,4m,16m,3,10m,,
+" Đường Lý Thái Tông, Phường Thanh Khê Tây, Quận Thanh Khê, Đà Nẵng"," 7,45 tỷ ", 90 m2,Tây Bắc,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"4,5m",20m,3,15m,,
+" Đường Hải Phòng, Phường Thạch Thang, Quận Hải Châu, Đà Nẵng", 23 tỷ , 96 m2,Nam,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"6,1m",---,2,10m,,
+" Đường Trần Phú, Phường Phước Ninh, Quận Hải Châu, Đà Nẵng", 28 tỷ , 113 m2,Đông,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"4,82m","21,5m",1,15m,,
+" Đường Lý Thái Tông, Phường Thanh Khê Tây, Quận Thanh Khê, Đà Nẵng"," 15,2 tỷ ", 200 m2,Tây Bắc,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,10m,20m,1,15m,,
+" Đường Trần Đức Thảo, Phường Hòa Cường Bắc, Quận Hải Châu, Đà Nẵng", 7 tỷ , 90 m2,Đông,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,18m,1,"7,5m",,
+" Đường Hà Huy Tập, Phường An Khê, Quận Thanh Khê, Đà Nẵng"," 11,5 tỷ ", 97 m2,Tây Bắc,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"4,8m","20,3m",3,10m,,
+" Đường Tiểu La, Phường Hòa Cường Bắc, Quận Hải Châu, Đà Nẵng", 15 tỷ , 100 m2,Tây Bắc,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,20m,3,10m,,
+" Đường Kỳ Đồng, Phường Thanh Khê Đông, Quận Thanh Khê, Đà Nẵng"," 9,5 tỷ ", 100 m2,Đông Nam,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,20m,3,"7,5m",,
+" Đường Hoàng Diệu, Phường Nam Dương, Quận Hải Châu, Đà Nẵng", 64 tỷ , 338 m2,Tây,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,12m,27m,1,10m,,
+" Đường Thủ Khoa Huân, Phường An Hải Đông, Quận Sơn Trà, Đà Nẵng", 15 tỷ , 225 m2,Đông,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"8,25m",27m,1,6m,,
+" Đường Nguyễn Văn Linh, Phường Nam Dương, Quận Hải Châu, Đà Nẵng"," 47,5 tỷ ", 117 m2,Bắc,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,23m,9,20m,,
+" Đường Trần Phú, Phường Phước Ninh, Quận Hải Châu, Đà Nẵng", 41 tỷ , 158 m2,Tây,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"6,9m",22m,2,10m,,
+" Đường Đông Du, Phường An Hải Bắc, Quận Sơn Trà, Đà Nẵng"," 3,4 tỷ ", 56 m2,Tây,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,4m,14m,2,4m,,
+" Đường Hoàng Diệu, Phường Bình Hiên, Quận Hải Châu, Đà Nẵng", 15 tỷ , 80 m2,Tây,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"5,7m",14m,3,10m,,
+" Đường Thái Phiên, Phường Phước Ninh, Quận Hải Châu, Đà Nẵng"," 18,5 tỷ ", 94 m2,Bắc,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"4,1m",23m,5,"7,5m",,
+" Đường Phú Xuân 1, Phường Hòa Minh, Quận Liên Chiểu, Đà Nẵng"," 3,58 tỷ ", 100 m2,Tây Nam,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,20m,1,"5,5m",,
+" Đường Lê Duẩn, Phường Hải Châu I, Quận Hải Châu, Đà Nẵng", 23 tỷ , 78 m2,Bắc,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"5,8m",14m,3,15m,,
+" Đường Nguyễn Văn Linh, Phường Thạc Gián, Quận Thanh Khê, Đà Nẵng", 26 tỷ , 106 m2,Đông Nam,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"4,5m",23m,5,15m,,
+" Đường Mai Thúc Lân, Phường Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng"," 17,5 tỷ ", 138 m2,Đông Bắc,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"6,2m",23m,2,10m,,
+" Đường Nguyễn Thị Thập, Phường Thanh Khê Tây, Quận Thanh Khê, Đà Nẵng"," 4,2 tỷ ", 101 m2,Tây Nam,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"4,5m",23m,2,"7,5m",,
+" Đường Thái Thị Bôi, Phường Chính Gián, Quận Thanh Khê, Đà Nẵng"," 5,4 tỷ ", 70 m2,Tây,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"4,4m",16m,3,"7,5m",,
+" Đường Dương Bích Liên, Phường Hòa Minh, Quận Liên Chiểu, Đà Nẵng"," 3,99 tỷ ", 70 m2,Tây Nam,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,14m,2,"5,5m",,
+" Đường Trần Hưng Đạo, Phường An Hải Tây, Quận Sơn Trà, Đà Nẵng", 19 tỷ , 100 m2,Đông,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,20m,2,15m,,
+" Đường Trần Cao Vân, Phường Xuân Hà, Quận Thanh Khê, Đà Nẵng"," 6,2 tỷ ", 55 m2,Tây Nam,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"5,3m","10,3m",3,10m,,
+" Đường Điện Biên Phủ, Phường An Khê, Quận Thanh Khê, Đà Nẵng"," 10,5 tỷ ", 80 m2,Nam,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"4,4m",20m,3,33m,,
+" Đường Phú Lộc 10, Phường Thanh Khê Tây, Quận Thanh Khê, Đà Nẵng"," 4,5 tỷ ", 142 m2,Đông Nam,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,8m,18m,1,"5,5m",,
+" Đường Hòa Minh 3, Phường Hòa Minh, Quận Liên Chiểu, Đà Nẵng"," 3,35 tỷ ", 72 m2,Đông Bắc,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"4,5m",16m,2,"5,5m",,
+" Đường Hoài Thanh, Phường Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng", 5 tỷ , 80 m2,Tây Nam,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,6m,14m,1,"7,5m",,
+" Đường Nguyễn Đức Trung, Phường Hòa Khê, Quận Thanh Khê, Đà Nẵng"," 9,8 tỷ ", 100 m2,Tây Nam,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,20m,5,10m,,
+" Đường Nguyễn Huy Tự, Phường Hòa Minh, Quận Liên Chiểu, Đà Nẵng"," 2,85 tỷ ", 72 m2,Tây Nam,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"4,5m",16m,1,"5,5m",,
+" Đường Phú Xuân 8, Phường Hòa Minh, Quận Liên Chiểu, Đà Nẵng"," 5,6 tỷ ", 75 m2,Tây Bắc,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,15m,3,"5,5m",,
+" Đường Lê Cảnh Tuân, Phường Nại Hiên Đông, Quận Sơn Trà, Đà Nẵng"," 4,7 tỷ ", 85 m2,Đông Nam,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,17m,3,"5,5m",,
+" Đường Chi Lăng, Phường Hải Châu II, Quận Hải Châu, Đà Nẵng"," 24,4 tỷ ", 108 m2,Đông Bắc,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,22m,6,10m,,
+" Đường Phan Châu Trinh, Phường Phước Ninh, Quận Hải Châu, Đà Nẵng"," 14,5 tỷ ", 84 m2,Tây Bắc,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"4,5m","18,5m",4,10m,,
+" Đường Bàu Năng 2, Phường Hòa Minh, Quận Liên Chiểu, Đà Nẵng"," 3,3 tỷ ", 91 m2,Tây Nam,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,18m,1,"5,5m",,
+" Đường Tôn Thất Đạm, Phường Xuân Hà, Quận Thanh Khê, Đà Nẵng", 11 tỷ , 90 m2,Tây,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"4,5m",20m,3,"7,5m",,
+" Đường Trần Thanh Mại, Phường An Hải Bắc, Quận Sơn Trà, Đà Nẵng", 6 tỷ , 75 m2,Đông Bắc,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,15m,2,"5,5m",,
+" Đường Nguyễn Chích, Phường Hòa Minh, Quận Liên Chiểu, Đà Nẵng"," 3,15 tỷ ", 82 m2,Đông Bắc,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,16m,1,"5,5m",,
+" Đường Châu Thị Vĩnh Tế, Phường Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng"," 13,5 tỷ ", 114 m2,Tây Nam,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,22m,4,"7,5m",,
+" Đường Nguyễn Tất Thành, Phường Thanh Khê Đông, Quận Thanh Khê, Đà Nẵng"," 8,5 tỷ ", 125 m2,Bắc,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,25m,3,33m,,
+" Đường Phạm Nhữ Tăng, Phường Hòa Khê, Quận Thanh Khê, Đà Nẵng"," 6,5 tỷ ", 116 m2,Tây Nam,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,"6,3m",19m,1,"7,5m",,
+" Đường Nguyễn Hoàng, Phường Bình Hiên, Quận Hải Châu, Đà Nẵng"," 16,5 tỷ ", 172 m2,Tây,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"8,2m",20m,1,"7,5m",,
+" Đường Hòa Minh 3, Phường Hòa Minh, Quận Liên Chiểu, Đà Nẵng"," 2,55 tỷ ", 72 m2,Tây Nam,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"4,5m",16m,1,"5,5m",,
+" 223 Đường Trưng Nữ Vương, Phường Hòa Thuận Tây, Quận Hải Châu, Đà Nẵng"," 7,7 tỷ ", 221 m2,Tây,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,"9,7m",23m,1,"2,5m",---,---
+" Đường Nguyễn Đổng Chi, Phường Hòa Cường Bắc, Quận Hải Châu, Đà Nẵng"," 7,5 tỷ ", 80 m2,Đông,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,16m,3,"5,5m",---,---
+" Đường Đào Trí, Phường Hòa Cường Nam, Quận Hải Châu, Đà Nẵng"," 4,35 tỷ ", 75 m2,Tây Bắc,Nhà mặt tiền,---,5m,15m,3,"5,5m",---,---
+" Đường Lưu Trọng Lư, Phường Hòa Cường Nam, Quận Hải Châu, Đà Nẵng"," 5,2 tỷ ", 70 m2,Bắc,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,4m,17m,2,"5,5m",---,---
+" Đường Lý Nhân Tông, Phường Khuê Trung, Quận Cẩm Lệ, Đà Nẵng"," 8,1 tỷ ", 93 m2,Đông,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,"18,5m",3,"7,5m",---,---
+" Đường Gò Nãy 6, Phường Hòa Minh, Quận Liên Chiểu, Đà Nẵng"," 4,5 tỷ ", 90 m2,Đông Nam,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,18m,2,"7,5m",---,---
+" Đường Trần Thủ Độ, Phường Khuê Trung, Quận Cẩm Lệ, Đà Nẵng"," 7,8 tỷ ", 100 m2,Tây Bắc,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,20m,3,10m,---,---
+" Đường Nguyễn Xuân Nhĩ, Phường Hòa Cường Nam, Quận Hải Châu, Đà Nẵng"," 3,9 tỷ ", 57 m2,Đông,Nhà mặt tiền,---,"4,05m",15m,1,"7,5m",---,---
+" Đường Ngọc Hồi, Phường Hòa Minh, Quận Liên Chiểu, Đà Nẵng"," 3,479 tỷ ", 75 m2,Tây Nam,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,15m,1,"5,5m",---,---
+" Đường Bàu Năng 10, Phường Hòa Minh, Quận Liên Chiểu, Đà Nẵng"," 3,5 tỷ ", 85 m2,Tây Bắc,Nhà mặt tiền,---,5m,18m,1,"5,5m",---,---
+" Đường Trần Nhân Tông, Phường Thọ Quang, Quận Sơn Trà, Đà Nẵng"," 6,1 tỷ ", 100 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,20m,3,11m,,
+" Đường Nại Hiên Đông, Phường Nại Hiên Đông, Quận Sơn Trà, Đà Nẵng"," 4,3 tỷ ", 70 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,14m,3,"5,5m",,
+" Đường Nguyễn Văn Thoại, Phường Phước Mỹ, Quận Sơn Trà, Đà Nẵng"," 7,5 tỷ ", 66 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,14m,4,"5,5m",,
+" Đường Lê Tấn Trung., Phường Thọ Quang, Quận Sơn Trà, Đà Nẵng"," 3,65 tỷ ", 70 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,14m,2,"5,5m",---,---
+" Đường Võ Duy Ninh, Phường Thọ Quang, Quận Sơn Trà, Đà Nẵng"," 1,55 tỷ ", 50 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,4m,12m,2,2m,---,---
+" Đường Nguyễn Phan Vinh, Phường Thọ Quang, Quận Sơn Trà, Đà Nẵng"," 2,3 tỷ ", 90 m2,_,Nhà trong hẻm,---,5m,18m,2,3m,---,---
+" Đường Nguyễn Sơn, Phường Hòa Cường Nam, Quận Hải Châu, Đà Nẵng"," 7,7 tỷ ", 90 m2,_,Nhà mặt tiền,---,6m,15m,3,"7,5m",---,---
+" Đường Bình An 7, Phường Hòa Cường Bắc, Quận Hải Châu, Đà Nẵng"," 4,7 tỷ ", 56 m2,Đông Nam,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,"4,25m",12m,4,"4,5m",---,---
+" Đường Hoàng Diệu, Phường Hòa Thuận Đông, Quận Hải Châu, Đà Nẵng"," 4,1 tỷ ", 103 m2,Đông,Nhà trong hẻm,---,"4,2m","27,5m",1,4m,---,---
+" Đường Bùi Huy Bích, Phường Nại Hiên Đông, Quận Sơn Trà, Đà Nẵng"," 4,55 tỷ ", 75 m2,Tây Bắc,Nhà mặt tiền,---,5m,15m,2,"5,5m",---,---
+" Đường Bế Văn Đàn, Phường Chính Gián, Quận Thanh Khê, Đà Nẵng"," 6,3 tỷ ", 75 m2,Nam,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,15m,3,"5,5m",---,---
+" Đường Hàn Thuyên, Phường Hòa Cường Bắc, Quận Hải Châu, Đà Nẵng"," 7,9 tỷ ", 120 m2,_,Nhà mặt tiền,---,5m,25m,3,7m,---,---
+" Đường Chu Mạnh Trinh, Phường Khuê Trung, Quận Cẩm Lệ, Đà Nẵng"," 4,8 tỷ ", 184 m2,_,Nhà mặt tiền,---,5m,17m,3,5m,---,---
+" Đường Hồ Trung Lượng, Phường Hòa Xuân, Quận Cẩm Lệ, Đà Nẵng"," 7,7 tỷ ", 115 m2,_,Nhà mặt tiền,---,5m,23m,5,7m,---,---
+" Đường An Thượng 18, Phường Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng"," 4,5 tỷ ", 62 m2,_,Nhà mặt tiền,---,"4,1m",15m,1,4m,---,---
+" Đường Phú Lộc 1, Phường Hòa Minh, Quận Liên Chiểu, Đà Nẵng"," 5,6 tỷ ", 75 m2,_,Nhà mặt tiền,---,5m,17m,3,5m,---,---
+" Đường Hà Huy Tập, Phường Thạc Gián, Quận Thanh Khê, Đà Nẵng"," 3,55 tỷ ", 150 m2,_,Nhà trong hẻm,---,5m,11m,3,"3,7m",---,---
+" Đường Hải Phòng, Phường Vĩnh Trung, Quận Thanh Khê, Đà Nẵng"," 4,7 tỷ ", 80 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,5m,18m,3,4m,---,---
+" Đường 2/9, Phường Hòa Cường Nam, Quận Hải Châu, Đà Nẵng", 9 tỷ , 89 m2,Đông Nam,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,17m,4,15m,,
+" Đường Nguyễn Đóa, Phường Hòa Xuân, Quận Cẩm Lệ, Đà Nẵng"," 3,5 tỷ ", 100 m2,Đông,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,20m,2,"7,5m",---,
+" Đường Nguyễn Hữu Thọ, Phường Thanh Khê Tây, Quận Thanh Khê, Đà Nẵng"," 16,5 tỷ ", 82 m2,Tây Bắc,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,17m,4,15m,,
+" Đường Đào Trí, Phường Hòa Cường Nam, Quận Hải Châu, Đà Nẵng"," 4,3 tỷ ", 75 m2,Tây Bắc,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,15m,3,"5,5m",,
+" Đường An Thượng 29, Phường Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng"," 9,5 tỷ ", 71 m2,Tây Bắc,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,14m,4,"5,5m",,
+" Đường Cổ Mân Lan 1, Phường Hòa Xuân, Quận Cẩm Lệ, Đà Nẵng"," 3,3 tỷ ", 90 m2,Nam,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,18m,2,"5,5m",,
+" Đường Trần Tấn Mới, Phường Hòa Thuận Tây, Quận Hải Châu, Đà Nẵng"," 10,5 tỷ ", 90 m2,Nam,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,20m,4,"5,5m",,
+" Đường Sơn Thủy Đông 1, Phường Hòa Hải, Quận Ngũ Hành Sơn, Đà Nẵng"," 5,2 tỷ ", 90 m2,Đông Bắc,Nhà mặt tiền,---,5m,18m,2,"5,5m",---,
+" Đường Nam Kỳ Khởi Nghĩa, Phường Hòa Hải, Quận Ngũ Hành Sơn, Đà Nẵng"," 4,9 tỷ ", 109 m2,Bắc,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"7,2m","15,5m",3,"7,5m",,
+" 160 Đường Trần Cao Vân, Phường Tam Thuận, Quận Thanh Khê, Đà Nẵng"," 2,15 tỷ ", 56 m2,Đông Bắc,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,5m,11m,1,"2,5m",---,---
+" Đường Lê Độ, Phường Chính Gián, Quận Thanh Khê, Đà Nẵng"," 3,99 tỷ ", 65 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,5m,"12,5m",3,3m,,
+" Đường Phạm Văn Nghị, Phường Hòa Thuận Tây, Quận Hải Châu, Đà Nẵng"," 4,45 tỷ ", 51 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,5m,11m,3,3m,,
+" Đường Nguyễn Hoàng, Phường Bình Hiên, Quận Hải Châu, Đà Nẵng"," 3,379 tỷ ", 85 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,"4,5m",18m,1,"4,5m",,
+" Đường Lê Duẩn, Phường Tân Chính, Quận Hải Châu, Đà Nẵng"," 4,23 tỷ ", 85 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,"4,5m",18m,3,3m,,
+" Đường Phạm Văn Nghị, Phường Vĩnh Trung, Quận Thanh Khê, Đà Nẵng"," 2,879 tỷ ", 80 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,4m,10m,2,3m,,
+" Đường Tiểu La, Phường Hòa Cường Nam, Quận Hải Châu, Đà Nẵng"," 4,15 tỷ ", 52 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,"4,5m",11m,3,3m,,
+" Đường Huỳnh Ngọc Huệ, Phường Hòa Khê, Quận Thanh Khê, Đà Nẵng"," 2,75 tỷ ", 70 m2,_,Nhà trong hẻm,Giấy tờ hợp lệ,"4,5m",16m,3,3m,,
+" Đường Nguyễn Tất Thành, Phường Xuân Hà, Quận Thanh Khê, Đà Nẵng"," 2,6 tỷ ", 50 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,"5,4m",10m,3,3m,,
+" Đường Núi Thành, Phường Hòa Thuận Tây, Quận Hải Châu, Đà Nẵng"," 4,45 tỷ ", 55 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,5m,11m,3,4m,,
+" Đường Hà Huy Tập, Phường Hòa Khê, Quận Thanh Khê, Đà Nẵng"," 4,29 tỷ ", 80 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,5m,16m,3,"3,5m",,
+" Đường Huỳnh Ngọc Huệ, Phường Hòa Khê, Quận Thanh Khê, Đà Nẵng"," 4,268 tỷ ", 70 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,5m,14m,3,3m,,
+" Đường Phan Thanh, Phường Thạc Gián, Quận Thanh Khê, Đà Nẵng"," 3,3 tỷ ", 50 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,"3,5m",13m,3,3m,,---
+" Đường Lê Duẩn, Phường Tân Chính, Quận Hải Châu, Đà Nẵng"," 4,55 tỷ ", 85 m2,_,Nhà trong hẻm,---,6m,14m,3,"4,5m",,
+" Đường Đống Đa, Phường Tân Chính, Quận Hải Châu, Đà Nẵng"," 3,45 tỷ ", 62 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,"5,5m",11m,2,4m,,
+" Đường Đống Đa, Phường Hải Châu I, Quận Hải Châu, Đà Nẵng", 3 tỷ , 65 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,"5,5m",12m,2,4m,,
+" Đường Đống Đa, Phường Thạch Thang, Quận Hải Châu, Đà Nẵng"," 3,5 tỷ ", 65 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,"5,5m",11m,2,4m,,
+" Đường Nguyễn Tri Phương, Phường Vĩnh Trung, Quận Thanh Khê, Đà Nẵng"," 5,3 tỷ ", 200 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,4m,10m,2,3m,,
+" Đường Lý Tự Trọng, Phường Thanh Bình, Quận Hải Châu, Đà Nẵng"," 3,4 tỷ ", 65 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,"5,5m",11m,2,4m,,
+" Đường Lý Tự Trọng, Phường Thanh Bình, Quận Hải Châu, Đà Nẵng"," 3,42 tỷ ", 65 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,"5,3m","11,2m",2,4m,,
+" Đường Hải Phòng, Phường Tân Chính, Quận Hải Châu, Đà Nẵng"," 2,85 tỷ ", 80 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,4m,20m,2,3m,,
+" Đường Hải Phòng, Phường Tân Chính, Quận Thanh Khê, Đà Nẵng"," 2,75 tỷ ", 80 m2,_,Nhà trong hẻm,---,4m,20m,2,3mm,,
+" Đường Điện Biên Phủ, Phường Xuân Hà, Quận Thanh Khê, Đà Nẵng"," 2,95 tỷ ", 53 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,4m,"13,2m",3,3m,,
+" Đường Đinh Tiên Hoàng, Phường Tam Thuận, Quận Thanh Khê, Đà Nẵng"," 3,63 tỷ ", 55 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,"6,8m","7,6m",4,4m,,
+" Đường Hoàng Thúc Trâm, Phường Hòa Cường Bắc, Quận Hải Châu, Đà Nẵng"," 3,9 tỷ ", 76 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,"4,5m",17m,1,6m,---,
+" Đường Lý Thường Kiệt, Phường Hải Châu I, Quận Hải Châu, Đà Nẵng", 25 tỷ , 85 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,17m,1,10m,,
+" Đường Nguyễn Công Trứ, Phường Phước Mỹ, Quận Sơn Trà, Đà Nẵng"," 20,2 tỷ ", 140 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,8m,16m,6,12m,,
+" Đường Đặng Vũ Hỷ, Phường Phước Mỹ, Quận Sơn Trà, Đà Nẵng"," 20,5 tỷ ", 800 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,8m,18m,6,12m,,
+" Đường Chính Hữu, Phường Phước Mỹ, Quận Sơn Trà, Đà Nẵng"," 20,4 tỷ ", 135 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"7,8m",16m,6,12m,,
+" Đường Phan Đăng Lưu, Phường Hòa Cường Bắc, Quận Hải Châu, Đà Nẵng", 8 tỷ , 90 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"4,5m",20m,3,12m,,
+" Đường Nguyễn Hữu Thọ, Phường Hòa Thuận Tây, Quận Hải Châu, Đà Nẵng"," 5,6 tỷ ", 60 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,12m,4,6m,,
+" Đường Chính Hữu, Phường An Hải Bắc, Quận Sơn Trà, Đà Nẵng"," 20,39 tỷ ", 127 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"7,6m",16m,6,10m,,
+" Đường Nguyễn Tri Phương, Phường Hòa Thuận Đông, Quận Hải Châu, Đà Nẵng", 11 tỷ , 80 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"4,5m","17,5m",3,10m,,
+" Đường Thái Thị Bôi, Phường Chính Gián, Quận Thanh Khê, Đà Nẵng"," 5,95 tỷ ", 90 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,4m,17m,2,10m,,
+" Đường Lưu Quý Kỳ, Phường Hòa Cường Bắc, Quận Hải Châu, Đà Nẵng"," 6,1 tỷ ", 70 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,"13,5m",3,6m,,
+" Đường 2/9, Phường Hòa Cường Bắc, Quận Hải Châu, Đà Nẵng"," 6,3 tỷ ", 70 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,14m,3,6m,,
+" Đường Nam Kỳ Khởi Nghĩa, Phường Hòa Hải, Quận Ngũ Hành Sơn, Đà Nẵng"," 3,2 tỷ ", 105 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,21m,2,"7,5m",,
+" Đường Trưng Nữ Vương, Phường Hòa Thuận Đông, Quận Hải Châu, Đà Nẵng"," 9,8 tỷ ", 159 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,7m,23m,2,10m,,
+" Đường Phan Tứ, Phường Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng"," 21,79 tỷ ", 252 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,12m,21m,4,"7,5m",,
+" Đường Nguyễn Phước Nguyên, Phường Thanh Khê Tây, Quận Thanh Khê, Đà Nẵng"," 5,25 tỷ ", 53 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"4,2m","12,7m",2,"7,5m",,
+" Đường Hà Huy Tập, Phường Xuân Hà, Quận Thanh Khê, Đà Nẵng"," 2,95 tỷ ", 63 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,12m,3,"3,5m",,
+" Đường Lê Ấm, Phường Hòa Xuân, Quận Cẩm Lệ, Đà Nẵng", 7 tỷ , 100 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,20m,3,"5,5m",,
+" Đường Nguyễn Hiến Lê, Phường Hòa Xuân, Quận Cẩm Lệ, Đà Nẵng"," 6,999 tỷ ", 100 m2,_,Nhà mặt tiền,---,5m,20m,3,6m,,
+" Đường Lê Thanh Nghị, Phường Hòa Cường Nam, Quận Hải Châu, Đà Nẵng"," 12,05 tỷ ", 75 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,15m,4,12m,,
+" Đường Lê Thanh Nghị, Phường Hòa Cường Nam, Quận Hải Châu, Đà Nẵng"," 12,1 tỷ ", 70 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,14m,4,11m,,
+" Đường Tô Hiệu, Phường Hòa Minh, Quận Liên Chiểu, Đà Nẵng"," 5,29 tỷ ", 80 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,16m,3,8m,,
+" Đường 30/4, Phường Hòa Cường Nam, Quận Hải Châu, Đà Nẵng"," 12,03 tỷ ", 70 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,14m,4,11m,,
+" Đường Lê Thanh Nghị, Phường Hòa Cường Nam, Quận Hải Châu, Đà Nẵng"," 12,1 tỷ ", 210 m2,_,Nhà mặt tiền,---,5m,14m,4,11m,,
+" Đường Trần Hưng Đạo, Phường Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng"," 11,999 tỷ ", 100 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,20m,6,25m,,
+" Đường An Thượng 37, Phường Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng"," 8,8 tỷ ", 60 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,14m,4,"5,5m",,
+" Đường Huỳnh Ngọc Huệ, Phường Thanh Khê Đông, Quận Thanh Khê, Đà Nẵng"," 6,2 tỷ ", 110 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,21m,3,"7,5m",,
+" Đường Lý Triện, Phường Thanh Khê Đông, Quận Thanh Khê, Đà Nẵng"," 6,199 tỷ ", 120 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,22m,3,8m,,
+" Đường Hà Huy Tập, Phường Thanh Khê Đông, Quận Thanh Khê, Đà Nẵng"," 6,186 tỷ ", 110 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,22m,3,"7,5m",,
+" Đường Lê Thanh Nghị, Phường Hòa Cường Bắc, Quận Hải Châu, Đà Nẵng"," 2,4 tỷ ", 112 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,55m,26m,4,10m,,
+" Đường Yên Khê 2, Phường Thanh Khê Tây, Quận Thanh Khê, Đà Nẵng"," 3,8 tỷ ", 50 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,10m,3,8m,,
+" Đường Hồ Xuân Hương, Phường Khuê Mỹ, Quận Ngũ Hành Sơn, Đà Nẵng"," 14,5 tỷ ", 90 m2,_,Nhà mặt tiền,---,5m,18m,5,48m,,
+" Đường Hoài Thanh, Phường Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng"," 5,68 tỷ ", 70 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,6m,12m,4,"7,5m",,
+" Đường An Dương Vương, Phường Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng"," 5,68 tỷ ", 80 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,6m,"12,5m",4,"7,5m",,
+" Đường Tiểu La, Phường Hòa Cường Bắc, Quận Hải Châu, Đà Nẵng"," 4,6 tỷ ", 56 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,"4,5m",12m,4,4m,,
+" Đường Tô Hiệu, Phường Hòa Minh, Quận Liên Chiểu, Đà Nẵng"," 3,25 tỷ ", 70 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,6m,12m,3,3m,,
+" Đường Tiểu La, Phường Hòa Cường Bắc, Quận Hải Châu, Đà Nẵng"," 3,888 tỷ ", 52 m2,_,Nhà trong hẻm,---,5m,11m,3,"3,5m",,
+" Đường Tiểu La, Phường Hòa Cường Bắc, Quận Hải Châu, Đà Nẵng"," 3,29 tỷ ", 52 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,4m,13m,2,4m,,
+" Đường Phạm Văn Nghị, Phường Thạc Gián, Quận Thanh Khê, Đà Nẵng"," 4,29 tỷ ", 60 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,5m,12m,3,3m,,
+" Đường Triệu Nữ Vương, Phường Hải Châu II, Quận Hải Châu, Đà Nẵng"," 4,55 tỷ ", 50 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,5m,10m,3,3m,,
+" Đường Tiểu La, Phường Hòa Cường Bắc, Quận Hải Châu, Đà Nẵng"," 3,53 tỷ ", 50 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,5m,10m,3,3m,,
+" Đường Tiểu La, Phường Hòa Cường Bắc, Quận Hải Châu, Đà Nẵng"," 3,52 tỷ ", 150 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,6m,"8,2m",3,3m,,
+" Đường Tiểu La, Phường Hòa Cường Bắc, Quận Hải Châu, Đà Nẵng"," 4,55 tỷ ", 51 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,5m,10m,3,3m,,
+" Đường Bà Huyện Thanh Quan, Phường Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng"," 26,9 tỷ ", 150 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,30m,8,"7,5m",---,---
+" Đường Vũ Đình Long, Phường Thọ Quang, Quận Sơn Trà, Đà Nẵng"," 5,4 tỷ ", 85 m2,Nam,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,17m,1,"7,5m",---,
+" Đường Nguyễn Văn Thoại, Phường Phước Mỹ, Quận Sơn Trà, Đà Nẵng"," 8,8 tỷ ", 80 m2,Đông,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,16m,4,"7,5m",,
+" Đường Lê Văn Thứ, Phường Mân Thái, Quận Sơn Trà, Đà Nẵng"," 4,3 tỷ ", 80 m2,Đông Bắc,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,16m,2,"5,5m",,---
+" Đường Bà Huyện Thanh Quan, Phường Khuê Mỹ, Quận Ngũ Hành Sơn, Đà Nẵng"," 26,9 tỷ ", 150 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"4,5m",33m,8,"7,5m",---,---
+" Đường Trần Hưng Đạo, Phường An Hải Tây, Quận Sơn Trà, Đà Nẵng"," 23,8 tỷ ", 105 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,21m,8,20m,---,---
+" Đường An Thượng 1, Phường Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng", 72 tỷ , 270 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,15m,---,8,"7,5m",---,---
+" Đường Tô Hiến Thành, Phường An Hải Tây, Quận Sơn Trà, Đà Nẵng"," 6,2 tỷ ", 82 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,15m,2,"7,5m",---,---
+" Đường Chính Hữu, Phường Phước Mỹ, Quận Sơn Trà, Đà Nẵng"," 20,9 tỷ ", 127 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,8m,---,6,"7,5m",---,---
+" Đường Âu Cơ, Phường Hòa Khánh Bắc, Quận Liên Chiểu, Đà Nẵng", 41 tỷ , 300 m2,Tây Bắc,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,12m,23m,4,10m,,
+" Đường Kỳ Đồng, Phường Thanh Khê Đông, Quận Thanh Khê, Đà Nẵng", 8 tỷ , 102 m2,Bắc,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,"20,5m",2,21m,,
+" Đường Cù Chính Lan, Phường Hòa Khê, Quận Thanh Khê, Đà Nẵng"," 2,4 tỷ ", 74 m2,Đông Nam,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,4m,16m,1,3m,---,---
+" Đường Trung Lương 7, Phường Hòa Xuân, Quận Cẩm Lệ, Đà Nẵng"," 3,45 tỷ ", 154 m2,Tây,Nhà mặt tiền,---,5m,---,1,7m,---,---
+" Đường Hải Hồ, Phường Thanh Bình, Quận Hải Châu, Đà Nẵng"," 4,5 tỷ ", 67 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"4,5m",15m,2,"3,5m",,
+" Đường Trần Văn Dư, Phường Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng"," 22,2 tỷ ", 251 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"8,4m",20m,4,"7,5m",,
+" Đường An Trung 1, Phường An Hải Tây, Quận Sơn Trà, Đà Nẵng"," 6,9 tỷ ", 98 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"4,9m",20m,2,"7,5m",,
+" Đường Tôn Thất Thiệp, Phường Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng"," 4,99 tỷ ", 61 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"4,9m","12,9m",2,"3,7m",,
+" An Trung 16 Phường An Hải Tây, Quận Sơn Trà, Đà Nẵng"," 3,8 tỷ ", 55 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"4,8m","11,5m",1,"3,7m",,
+" Đường Mai Hắc Đế, Phường An Hải Tây, Quận Sơn Trà, Đà Nẵng", 18 tỷ , 118 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"7,8m",20m,3,15m,,
+" Đường Tôn Thất Tùng, Phường Thạc Gián, Quận Thanh Khê, Đà Nẵng"," 7,5 tỷ ", 85 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"4,5m",20m,3,"3,7m",,
+" Đường Mai Hắc Đế, Phường An Hải Tây, Quận Sơn Trà, Đà Nẵng", 18 tỷ , 118 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"7,8m",20m,3,15m,,
+" Đường Tôn Thất Tùng, Phường Thạc Gián, Quận Thanh Khê, Đà Nẵng"," 7,5 tỷ ", 85 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"4,5m",20m,3,"3,7m",,
+" Đường Mạc Cửu, Phường Khuê Mỹ, Quận Ngũ Hành Sơn, Đà Nẵng"," 6,15 tỷ ", 100 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,20m,2,"7,5m",,
+" Đường Thanh Thủy, Phường Thanh Bình, Quận Hải Châu, Đà Nẵng"," 6,25 tỷ ", 65 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"4,3m",15m,2,"7,5m",,
+" Đường Trần Đại Nghĩa, Phường Hòa Hải, Quận Ngũ Hành Sơn, Đà Nẵng"," 2,8 tỷ ", 87 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,"17,5m",2,"5,5m",,
+" Đường An Hải 15, Phường An Hải Bắc, Quận Sơn Trà, Đà Nẵng"," 2,9 tỷ ", 51 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"4,1m","12,5m",1,"3,7m",---,
+" Đường Phạm Huy Thông, Phường Nại Hiên Đông, Quận Sơn Trà, Đà Nẵng"," 6,9 tỷ ", 110 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"5,5m",20m,3,"10,5m",,
+" Đường Lê Hữu Khánh, Phường Khuê Mỹ, Quận Ngũ Hành Sơn, Đà Nẵng", 13 tỷ , 200 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,10m,20m,3,"7,5m",,
+" Đường Nguyễn Thiện Kế, Phường An Hải Đông, Quận Sơn Trà, Đà Nẵng"," 4,95 tỷ ", 77 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"5,2m","14,8m",1,"5,5m",---,
+" Đường Nguyễn Tạo, Phường Hòa Hải, Quận Ngũ Hành Sơn, Đà Nẵng"," 5,99 tỷ ", 125 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,25m,3,"5,5m",,
+" Đường Bà Huyện Thanh Quan, Phường Hòa Hải, Quận Ngũ Hành Sơn, Đà Nẵng", 21 tỷ , 125 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,9m,16m,2,"10,5m",,
+" Đường Đa Mặn 5, Phường Khuê Mỹ, Quận Ngũ Hành Sơn, Đà Nẵng"," 4,8 tỷ ", 90 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,18m,3,"5,5m",,
+" Đường Võ Nguyên Giáp, Phường Khuê Mỹ, Quận Ngũ Hành Sơn, Đà Nẵng"," 27,7 tỷ ", 187 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"7,5m",25m,3,30m,,
+" Đường Lưu Quý Kỳ, Phường Hòa Cường Nam, Quận Hải Châu, Đà Nẵng"," 6,5 tỷ ", 60 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"4,5m","13,5m",4,"5,5m",,
+" Đường Bùi Lâm, Phường Nại Hiên Đông, Quận Sơn Trà, Đà Nẵng"," 3,45 tỷ ", 56 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,4m,14m,2,"5,5m",,
+" Đường Chu Mạnh Trinh, Phường Khuê Trung, Quận Cẩm Lệ, Đà Nẵng"," 4,95 tỷ ", 74 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"4,5m","16,4m",3,"5,5m",,
+" Đường Tô Hiến Thành, Phường Phước Mỹ, Quận Sơn Trà, Đà Nẵng"," 8,5 tỷ ", 76 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"4,9m","15,7m",6,"5,5m",,
+" Đường Thạch Lam, Phường Phước Mỹ, Quận Sơn Trà, Đà Nẵng"," 6,8 tỷ ", 82 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"4,9m","16,7m",1,"5,5m",,
+" Đường Ngô Quyền, Phường Mân Thái, Quận Sơn Trà, Đà Nẵng", 4 tỷ , 43 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,7m,6m,1,30m,,
+" Trường Thi Phường Hòa Thuận Tây, Quận Hải Châu, Đà Nẵng"," 6,4 tỷ ", 90 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,18m,2,"5,5m",,
+" Trường Thi Phường Hòa Thuận Tây, Quận Hải Châu, Đà Nẵng"," 6,4 tỷ ", 90 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,18m,2,"5,5m",,
+" Đường Nguyễn Thiện Kế, Phường An Hải Đông, Quận Sơn Trà, Đà Nẵng"," 8,6 tỷ ", 130 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"6,3m",20m,2,"5,5m",,
+" Đường Trần Văn Thành, Phường Khuê Mỹ, Quận Ngũ Hành Sơn, Đà Nẵng"," 5,6 tỷ ", 78 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"7,5m",10m,3,6m,,
+" Đường Tôn Quang Phiệt, Phường An Hải Bắc, Quận Sơn Trà, Đà Nẵng"," 4,8 tỷ ", 90 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"4,5m",20m,1,"7,5m",,
+" Đường An Cư 4, Phường An Hải Bắc, Quận Sơn Trà, Đà Nẵng"," 5,65 tỷ ", 67 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"4,5m",15m,1,"5,5m",,
+" Đường Nguyễn Tri Phương, Phường Hòa Thuận Tây, Quận Hải Châu, Đà Nẵng"," 9,5 tỷ ", 114 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,4m,"28,6m",3,"10,5m",,
+" Đường Đỗ Thúc Tịnh, Phường Khuê Trung, Quận Cẩm Lệ, Đà Nẵng"," 3,9 tỷ ", 73 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"5,3m",14m,1,"7,5m",,
+" Đường Núi Thành, Phường Hòa Thuận Đông, Quận Hải Châu, Đà Nẵng"," 2,9 tỷ ", 42 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,---,10m,3,"2,5m",,---
+" Đường Ông Ích Khiêm, Phường Thanh Bình, Quận Hải Châu, Đà Nẵng"," 4,65 tỷ ", 54 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,"4,3m","12,5m",3,"4,5m",,
+" Đường Hàm Tử, Phường Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng"," 6,7 tỷ ", 167 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,"5,8m",28m,2,"2,3m",,---
+" Đường Trần Cao Vân, Phường Tam Thuận, Quận Thanh Khê, Đà Nẵng"," 1,97 tỷ ", 50 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,5m,10m,1,2m,,
+" Đường Ngô Quyền, Phường An Hải Bắc, Quận Sơn Trà, Đà Nẵng", 3 tỷ , 60 m2,Đông Bắc,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,4m,16m,3,"2,5m",,---
+" Đường Thái Thị Bôi, Phường Chính Gián, Quận Thanh Khê, Đà Nẵng"," 3,9 tỷ ", 75 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,"4,9m","15,3m",4,2m,,
+" Đường Tân Thái 5, Phường Mân Thái, Quận Sơn Trà, Đà Nẵng", 4 tỷ , 75 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,5m,17m,2,"3,7m",,
+" Đường Trưng Nhị, Phường Hòa Thuận Tây, Quận Hải Châu, Đà Nẵng"," 5,65 tỷ ", 101 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,"3,7m",27m,2,"4,5m",,
+" Đường Phạm Nhữ Tăng, Phường Hòa Khê, Quận Thanh Khê, Đà Nẵng"," 6,8 tỷ ", 81 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"5,6m","14,4m",3,"7,5m",,
+" Đường Phan Thanh, Phường Thạc Gián, Quận Thanh Khê, Đà Nẵng"," 3,2 tỷ ", 50 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,"5,4m",9m,3,"3,5m",,
+" Đường Lương Thế Vinh, Phường An Hải Đông, Quận Sơn Trà, Đà Nẵng"," 3,09 tỷ ", 85 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,"5,5m","18,7m",1,"3,5m",---,
+" Đường Phạm Quang Ảnh, Phường An Hải Đông, Quận Sơn Trà, Đà Nẵng"," 5,65 tỷ ", 76 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"3,9m",20m,1,"5,5m",,
+" Đường Sơn Thủy 12, Phường Hòa Hải, Quận Ngũ Hành Sơn, Đà Nẵng"," 3,6 tỷ ", 80 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,16m,2,"5,5m",,
+" Đường Nguyễn Đức Cảnh, Phường Thuận Phước, Quận Hải Châu, Đà Nẵng"," 3,95 tỷ ", 58 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"4,5m",13m,1,"5,5m",,
+" Đường Lý Nhật Quang., Phường Nại Hiên Đông, Quận Sơn Trà, Đà Nẵng"," 10,5 tỷ ", 151 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"5,3m",31m,4,"10,5m",,
+" Đường Ngũ Hành Sơn, Phường Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng"," 7,6 tỷ ", 75 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,"15,4m",3,45m,,
+" Đường Nguyễn Tri Phương, Phường Hòa Thuận Tây, Quận Hải Châu, Đà Nẵng"," 9,5 tỷ ", 114 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,4m,"28,6m",3,"10,5m",,
+" Đường Trương Chí Cương, Phường Hòa Cường Nam, Quận Hải Châu, Đà Nẵng"," 4,5 tỷ ", 60 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,12m,1,"7,5m",---,
+" Đường Trần Văn Thành, Phường Khuê Mỹ, Quận Ngũ Hành Sơn, Đà Nẵng"," 4,99 tỷ ", 78 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"7,5m",10m,3,6m,,
+" Đường Lê Thị Xuyến, Phường Chính Gián, Quận Thanh Khê, Đà Nẵng"," 5,6 tỷ ", 69 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"4,9m","14,2m",2,"5,5m",,
+" Đường Phạm Huy Thông, Phường Nại Hiên Đông, Quận Sơn Trà, Đà Nẵng"," 6,9 tỷ ", 110 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"5,5m",20m,3,"10,5m",,
+" Đường Trần Phú, Phường Phước Ninh, Quận Hải Châu, Đà Nẵng"," 15,5 tỷ ", 61 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"4,1m",---,3,"10,5m",,
+" Đường Nguyễn Hữu Thọ, Phường Hòa Thuận Tây, Quận Hải Châu, Đà Nẵng"," 13,5 tỷ ", 85 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"4,1m","20,6m",3,30m,,
+" Đường Nguyễn Hữu Hào, Phường Khuê Mỹ, Quận Ngũ Hành Sơn, Đà Nẵng"," 4,4 tỷ ", 90 m2,Tây Nam,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"4,5m",20m,3,"5,5m",,
+" Đường Chu Mạnh Trinh, Phường Khuê Trung, Quận Cẩm Lệ, Đà Nẵng"," 4,65 tỷ ", 75 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"4,5m","16,6m",2,"5,5m",,
+" Đường Mai Dị, Phường Hòa Cường Bắc, Quận Hải Châu, Đà Nẵng"," 6,4 tỷ ", 76 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"4,5m","13,7m",4,"5,5m",,
+" Đường Lê Ninh, Phường An Hải Bắc, Quận Sơn Trà, Đà Nẵng", 11 tỷ , 88 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"4,5m","19,6m",5,"5,5m",,
+" Đường Phạm Văn Xảo, Phường Mân Thái, Quận Sơn Trà, Đà Nẵng", 6 tỷ , 100 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,20m,2,"7,5m",,
+" Đường Đa Phước 10, Phường Khuê Mỹ, Quận Ngũ Hành Sơn, Đà Nẵng"," 6,2 tỷ ", 84 m2,Tây Nam,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,17m,3,"7,5m",,
+" Đường Dương Khuê, Phường Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng"," 13,79 tỷ ", 98 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,"19,7m",6,"10,5m",,
+" Đường Nguyễn Đình Chiểu, Phường Khuê Mỹ, Quận Ngũ Hành Sơn, Đà Nẵng", 6 tỷ , 128 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"4,8m",25m,3,"7,5m",,
+" Đường Trần Hưng Đạo, Phường An Hải Tây, Quận Sơn Trà, Đà Nẵng"," 18,2 tỷ ", 100 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,20m,2,15m,,
+" Đường Cao Xuân Huy, Phường Khuê Trung, Quận Cẩm Lệ, Đà Nẵng"," 4,7 tỷ ", 78 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"4,5m","17,3m",1,"5,5m",---,
+" Đường Thanh Thủy, Phường Thanh Bình, Quận Hải Châu, Đà Nẵng"," 5,8 tỷ ", 57 m2,Tây Bắc,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"4,2m",13m,2,"7,5m",,
+" Đường Thích Phước Huệ, Phường Hòa Hải, Quận Ngũ Hành Sơn, Đà Nẵng"," 2,85 tỷ ", 87 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,"17,5m",2,"5,5m",,
+" Đường Trần Khát Chân, Phường Mân Thái, Quận Sơn Trà, Đà Nẵng"," 5,1 tỷ ", 100 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,20m,3,"5,5m",,
+" Đường Vũ Mộng Nguyên, Phường Khuê Mỹ, Quận Ngũ Hành Sơn, Đà Nẵng"," 6,2 tỷ ", 96 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,"19,5m",2,"5,5m",,
+" Đường Phạm Ngọc Thạch, Phường Thuận Phước, Quận Hải Châu, Đà Nẵng"," 5,45 tỷ ", 60 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,4m,15m,1,"5,5m",,
+" Đường Tôn Thất Tùng, Phường Thạc Gián, Quận Thanh Khê, Đà Nẵng"," 5,69 tỷ ", 58 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"4,5m","12,8m",2,4m,,
+" Đường Hoàng Xuân Nhị, Phường Hòa Cường Nam, Quận Hải Châu, Đà Nẵng"," 6,2 tỷ ", 72 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,"14,5m",3,"5,5m",,
+" Đường Hải Phòng, Phường Chính Gián, Quận Thanh Khê, Đà Nẵng"," 14,5 tỷ ", 120 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"4,9m",17m,7,12m,,
+" Đường Dương Đình Nghệ, Phường An Hải Bắc, Quận Sơn Trà, Đà Nẵng"," 16,5 tỷ ", 107 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,"21,4m",6,"7,5m",,
+" Đường Nước Mặn 2, Phường Khuê Mỹ, Quận Ngũ Hành Sơn, Đà Nẵng"," 5,4 tỷ ", 95 m2,Tây Nam,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,19m,2,"7,5m",,
+" Đường Hàm Tử, Phường Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng"," 8,2 tỷ ", 68 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,7m,"9,8m",3,"7,5m",,
+" Đường Nguyễn Hoàng, Phường Hải Châu II, Quận Hải Châu, Đà Nẵng"," 8,7 tỷ ", 53 m2,Tây Bắc,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"4,3m",13m,3,"5,5m",,
+" Đường Đỗ Bá, Phường Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng", 13 tỷ , 70 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,14m,2,"10,5m",,
+" Đường Trần Quang Diệu, Phường An Hải Tây, Quận Sơn Trà, Đà Nẵng", 25 tỷ , 190 m2,Bắc,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"14,6m",13m,3,"10,5m",,
+" Đường Trần Phú, Phường Phước Ninh, Quận Hải Châu, Đà Nẵng", 17 tỷ , 93 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,4m,23m,3,"10,5m",,
+" Đường Nguyễn Hoàng, Phường Vĩnh Trung, Quận Thanh Khê, Đà Nẵng"," 11,5 tỷ ", 75 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"4,5m","17,6m",4,"5,5m",,
+" Đường Tôn Quang Phiệt, Phường An Hải Bắc, Quận Sơn Trà, Đà Nẵng"," 6,6 tỷ ", 90 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"4,5m",20m,3,"7,5m",,
+" Đường Ngô Quyền, Phường An Hải Đông, Quận Sơn Trà, Đà Nẵng"," 7,9 tỷ ", 63 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,4m,"15,7m",3,33m,,
+" Đường Mỹ Đa Tây 10, Phường Khuê Mỹ, Quận Ngũ Hành Sơn, Đà Nẵng"," 3,6 tỷ ", 85 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,17m,1,"5,5m",,
+" Đường Vũ Ngọc Phan, Phường Hòa Khánh Bắc, Quận Liên Chiểu, Đà Nẵng"," 6,3 tỷ ", 97 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,"19,5m",3,"7,5m",,
+" Đường Trần Hưng Đạo, Phường Nại Hiên Đông, Quận Sơn Trà, Đà Nẵng"," 1,75 tỷ ", 100 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,20m,3,15m,,
+" Đường Hồ Nguyên Trừng, Phường Hòa Cường Nam, Quận Hải Châu, Đà Nẵng"," 7,3 tỷ ", 90 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"4,5m",20m,3,"7,5m",,
+" Đường Phan Trọng Tuệ, Phường Hòa Cường Nam, Quận Hải Châu, Đà Nẵng"," 5,8 tỷ ", 70 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,14m,3,"5,5m",,
+" Đường Đỗ Thúc Tịnh, Phường Khuê Trung, Quận Cẩm Lệ, Đà Nẵng"," 3,9 tỷ ", 73 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"5,2m",14m,1,"7,5m",,
+" Đường Nguyễn Hoàng, Phường Bình Hiên, Quận Hải Châu, Đà Nẵng"," 16,5 tỷ ", 171 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"8,1m","20,9m",1,"5,5m",---,
+" Đường Trương Quyền, Phường Mân Thái, Quận Sơn Trà, Đà Nẵng"," 4,2 tỷ ", 66 m2,Nam,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,13m,1,"7,6m",---,---
+" Đường Tân Thái 5, Phường Mân Thái, Quận Sơn Trà, Đà Nẵng", 4 tỷ , 75 m2,_,Nhà mặt tiền,---,5m,---,1,4m,---,---
+" Đường Nguyễn Bỉnh Khiêm, Phường An Hải Tây, Quận Sơn Trà, Đà Nẵng"," 5,8 tỷ ", 66 m2,_,Nhà mặt tiền,---,"5,2m",---,2,"5,5m",---,---
+" Đường An Cư 4, Phường An Hải Bắc, Quận Sơn Trà, Đà Nẵng"," 5,59 tỷ ", 67 m2,_,Nhà mặt tiền,---,"4,5m",---,1,"5,5m",---,---
+" Đường An Thượng 38, Phường Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng"," 8,5 tỷ ", 60 m2,_,Nhà mặt tiền,---,5m,12m,5,"5,5m",---,---
+" Đường Phan Trọng Tuệ, Phường Hòa Cường Nam, Quận Hải Châu, Đà Nẵng"," 5,8 tỷ ", 70 m2,_,Nhà mặt tiền,---,5m,---,3,"5,5m",---,---
+" Đường Đinh Thị Hòa, Phường An Hải Bắc, Quận Sơn Trà, Đà Nẵng"," 12,3 tỷ ", 98 m2,_,Nhà mặt tiền,---,"5,52m",---,6,"7,5m",---,---
+" Đường Ngô Quyền, Phường An Hải Bắc, Quận Sơn Trà, Đà Nẵng", 9 tỷ , 120 m2,_,Nhà mặt tiền,---,5m,24m,3,40m,---,---
+" Đường An Trung, Phường An Hải Tây, Quận Sơn Trà, Đà Nẵng"," 3,59 tỷ ", 55 m2,_,Nhà mặt tiền,---,"4,8m",---,1,4m,---,---
+" Đường Lý Đạo Thành, Phường An Hải Bắc, Quận Sơn Trà, Đà Nẵng"," 5,3 tỷ ", 100 m2,_,Nhà mặt tiền,---,5m,---,2,"7,5m",---,---
+" Đường Dương Khuê, Phường Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng", 12 tỷ , 99 m2,_,Nhà mặt tiền,---,5m,---,6,"10,m",---,---
+" Đường Ngô Quyền, Phường Mân Thái, Quận Sơn Trà, Đà Nẵng", 4 tỷ , 43 m2,_,Nhà mặt tiền,---,7m,6m,1,30m,---,---
+" Đường Trần Văn Thành, Phường Khuê Mỹ, Quận Ngũ Hành Sơn, Đà Nẵng"," 4,99 tỷ ", 78 m2,_,Nhà mặt tiền,---,"7,58m",---,3,6m,---,---
+" Đường An Dương Vương, Phường Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng"," 5,5 tỷ ", 100 m2,_,Nhà mặt tiền,---,"4,5m","22,1m",2,30m,---,---
+" Đường An Thượng 38, Phường Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng"," 8,499 tỷ ", 60 m2,_,Nhà mặt tiền,---,5m,12m,4,"5,5m",---,
+" Đường Nguyễn Đức Cảnh, Phường Thuận Phước, Quận Hải Châu, Đà Nẵng"," 3,95 tỷ ", 58 m2,_,Nhà mặt tiền,---,"4,5m",---,1,"5,5m",---,---
+" Đường Ông Ích Khiêm, Phường Vĩnh Trung, Quận Thanh Khê, Đà Nẵng"," 2,55 tỷ ", 52 m2,_,Nhà trong hẻm,---,4m,---,2,2m,---,---
+" Đường Bùi Tá Hán, Phường Khuê Mỹ, Quận Ngũ Hành Sơn, Đà Nẵng"," 3,5 tỷ ", 60 m2,_,Nhà trong hẻm,---,"3,5m",---,2,"4,5m",---,---
+" Đường Núi Thành, Phường Hòa Thuận Đông, Quận Hải Châu, Đà Nẵng"," 2,9 tỷ ", 42 m2,_,Nhà trong hẻm,---,"3,1m",---,3,"2,5m",---,---
+" Đường Đỗ Bá, Phường Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng"," 3,1 tỷ ", 60 m2,_,Nhà trong hẻm,---,5m,12m,1,5m,---,---
+" Đường Hùng Vương, Phường Vĩnh Trung, Quận Thanh Khê, Đà Nẵng"," 2,95 tỷ ", 49 m2,_,Nhà trong hẻm,---,"3,4m",---,3,"2,5m",---,---
+" Đường Nguyễn Hữu Thọ, Phường Hòa Thuận Tây, Quận Hải Châu, Đà Nẵng"," 3,75 tỷ ", 50 m2,_,Nhà trong hẻm,---,"6,7m",---,3,"3,5m",---,---
+" Đường Phan Thanh, Phường Thạc Gián, Quận Thanh Khê, Đà Nẵng"," 4,5 tỷ ", 67 m2,_,Nhà trong hẻm,---,4m,---,2,"3,5m",---,---
+" Đường Lê Đình Thám, Phường Hòa Thuận Đông, Quận Hải Châu, Đà Nẵng"," 1,68 tỷ ", 30 m2,_,Nhà trong hẻm,---,"5,6m",---,2,"2,5m",---,---
+" Đường Cô Giang, Phường Phước Ninh, Quận Hải Châu, Đà Nẵng"," 2,55 tỷ ", 35 m2,_,Nhà trong hẻm,---,4m,---,3,"2,5m",---,---
+" Đường Cô Giang, Phường Phước Ninh, Quận Hải Châu, Đà Nẵng"," 2,55 tỷ ", 35 m2,_,Nhà trong hẻm,---,4m,---,3,"2,5m",---,---
+" Đường Phan Thanh, Phường Thạc Gián, Quận Thanh Khê, Đà Nẵng"," 3,4 tỷ ", 50 m2,_,Nhà trong hẻm,---,"5,4m",9m,3,4m,---,---
+" Đường Ông Ích Khiêm, Phường Tam Thuận, Quận Thanh Khê, Đà Nẵng"," 4,75 tỷ ", 55 m2,_,Nhà trong hẻm,---,"4,5m",---,4,4m,---,---
+" Đường Tô Hiến Thành, Phường Phước Mỹ, Quận Sơn Trà, Đà Nẵng"," 6,3 tỷ ", 85 m2,Đông,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,17m,1,"7,5m",---,
+" Đường Trần Thái Tông, Phường An Khê, Quận Thanh Khê, Đà Nẵng"," 7,3 tỷ ", 100 m2,Đông Nam,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,20m,3,7m,,
+" Đường Cẩm Bắc 9, Phường Hòa Thọ Đông, Quận Cẩm Lệ, Đà Nẵng"," 4,5 tỷ ", 100 m2,Tây Nam,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,20m,3,7m,,
+" Đường Mai Thúc Lân, Phường Khuê Mỹ, Quận Ngũ Hành Sơn, Đà Nẵng", 18 tỷ , 150 m2,Đông,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,6m,25m,3,10m,,
+" Đường Cẩm Bắc 9, Phường Hòa Thọ Đông, Quận Cẩm Lệ, Đà Nẵng"," 4,1 tỷ ", 100 m2,Đông,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,20m,2,7m,,
+" Đường Nguyễn Chí Thanh, Phường Thạch Thang, Quận Hải Châu, Đà Nẵng"," 10,9 tỷ ", 60 m2,Đông,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,4m,15m,4,7m,,
+" Đường Nguyễn Địa Lô, Phường Nại Hiên Đông, Quận Sơn Trà, Đà Nẵng"," 3,8 tỷ ", 80 m2,Đông,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,4m,20m,2,7m,,
+" Đường Khúc Hạo, Phường An Hải Đông, Quận Sơn Trà, Đà Nẵng", 8 tỷ , 100 m2,Đông Nam,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,20m,3,10m,,
+" Đường An Hải 20, Phường An Hải Đông, Quận Sơn Trà, Đà Nẵng"," 6,4 tỷ ", 85 m2,Đông,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,17m,3,"7,5m",,
+" Đường Cẩm Bắc 9, Phường Hòa Thọ Đông, Quận Cẩm Lệ, Đà Nẵng"," 3,6 tỷ ", 100 m2,Đông Nam,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,20m,2,5m,,
+" Đường Nguyễn Khánh Toàn, Phường Hòa Cường Nam, Quận Hải Châu, Đà Nẵng"," 7,75 tỷ ", 125 m2,Đông Nam,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,25m,1,"7,5m",---,
+" Đường Tiên Sơn 8, Phường Hòa Cường Nam, Quận Hải Châu, Đà Nẵng"," 12,9 tỷ ", 120 m2,Đông Nam,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,7m,18m,3,"7,5m",,
+" Đường Tiên Sơn 8, Phường Hòa Cường Nam, Quận Hải Châu, Đà Nẵng"," 7,7 tỷ ", 90 m2,Đông Nam,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,18m,3,"7,5m",,
+" Đường Cẩm Bắc, Phường Hòa Thọ Đông, Quận Cẩm Lệ, Đà Nẵng"," 3,5 tỷ ", 72 m2,Đông Bắc,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"4,5m",16m,2,5m,,---
+" Đường Mai Thúc Lân, Phường Khuê Mỹ, Quận Ngũ Hành Sơn, Đà Nẵng", 18 tỷ , 147 m2,Đông,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,7m,21m,2,10m,,
+" Đường Tú Quỳ, Phường Hòa Minh, Quận Liên Chiểu, Đà Nẵng"," 4,55 tỷ ", 100 m2,Đông Nam,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,20m,3,"7,5m",,
+" Đường Võ Quảng, Phường Hòa Xuân, Quận Cẩm Lệ, Đà Nẵng"," 4,35 tỷ ", 100 m2,Đông,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,20m,3,"7,5m",,
+" Đường Dương Quảng Hàm, Phường Khuê Trung, Quận Cẩm Lệ, Đà Nẵng"," 6,2 tỷ ", 90 m2,Đông,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"4,5m",20m,3,10m,,
+" Đường Lương Định Của, Phường Khuê Trung, Quận Cẩm Lệ, Đà Nẵng"," 9,2 tỷ ", 100 m2,Đông,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,20m,3,10m,,
+" Đường Lương Định Của, Phường Khuê Trung, Quận Cẩm Lệ, Đà Nẵng"," 13,5 tỷ ", 100 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,20m,7,10m,,
+" Đường An Nhơn 4, Phường Thọ Quang, Quận Sơn Trà, Đà Nẵng"," 7,4 tỷ ", 64 m2,Đông,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,4m,16m,4,"7,5m",,
+" Đường Phan Châu Trinh, Phường Hải Châu I, Quận Hải Châu, Đà Nẵng"," 23,2 tỷ ", 150 m2,Đông,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,30m,6,10m,,
+" Đường Hòa An 5, Phường Khuê Trung, Quận Cẩm Lệ, Đà Nẵng"," 5,75 tỷ ", 100 m2,Đông,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,100m,3,"7,5m",,
+" Đường Tống Phước Phổ, Phường Hòa Cường Nam, Quận Hải Châu, Đà Nẵng"," 8,8 tỷ ", 90 m2,Đông,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,18m,4,"7,5m",,
+" Đường Huỳnh Thúc Kháng, Phường Nam Dương, Quận Hải Châu, Đà Nẵng"," 14,2 tỷ ", 100 m2,Đông,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,"18,2m",2,"7,5m",,---
+" Đường Bế Văn Đàn, Phường Chính Gián, Quận Thanh Khê, Đà Nẵng", 15 tỷ , 115 m2,Đông Nam,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,8m,15m,3,7m,,
+" Đường Phan Bôi, Phường An Hải Tây, Quận Sơn Trà, Đà Nẵng"," 8,2 tỷ ", 80 m2,Đông Nam,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"4,5m","17,6m",4,"7,5m",---,---
+" Đường Lê Thị Hồng Gấm, Phường Hòa Cường Nam, Quận Hải Châu, Đà Nẵng"," 7,6 tỷ ", 80 m2,Đông,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,16m,3,"5,5m",,
+" Đường Mai Thúc Lân, Phường Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng", 17 tỷ , 147 m2,Đông,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,7m,21m,2,10m,,
+" Đường Mai Am, Phường Thuận Phước, Quận Hải Châu, Đà Nẵng"," 8,4 tỷ ", 105 m2,Tây Bắc,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,7m,15m,3,"7,5m",,
+" Đường Bàu Cầu 15, Xã Hòa Châu, Huyện Hòa Vang, Đà Nẵng"," 2,65 tỷ ", 90 m2,Nam,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,20m,2,"5,5m",,---
+" Đường Cẩm Bắc 9, Phường Hòa Thọ Đông, Quận Cẩm Lệ, Đà Nẵng"," 3,3 tỷ ", 75 m2,Đông,Nhà mặt tiền,---,5m,15m,2,7m,,
+" Đường Hàn Thuyên, Phường Hòa Cường Nam, Quận Hải Châu, Đà Nẵng"," 8,6 tỷ ", 100 m2,Đông,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,20m,3,7m,,
+" Đường Hóa Sơn 2, Phường Hòa Cường Nam, Quận Hải Châu, Đà Nẵng"," 3,7 tỷ ", 60 m2,Đông,Nhà mặt tiền,---,4m,15m,2,7m,,
+" Đường Trần Tấn Mới, Phường Hòa Thuận Tây, Quận Hải Châu, Đà Nẵng"," 5,4 tỷ ", 103 m2,Tây,Nhà mặt tiền,---,"4,5m",23m,2,7m,,
+" Đường Trưng Nữ Vương, Phường Hòa Thuận Tây, Quận Hải Châu, Đà Nẵng"," 3,5 tỷ ", 50 m2,Bắc,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,5m,10m,3,6m,,---
+" Đường Cách Mạng Tháng 8, Phường Hòa Thọ Đông, Quận Cẩm Lệ, Đà Nẵng"," 2,85 tỷ ", 90 m2,Đông,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,"4,5m",20m,2,5m,,
+" Đường Huỳnh Ngọc Huệ, Phường Hòa Khê, Quận Thanh Khê, Đà Nẵng"," 4,5 tỷ ", 86 m2,Đông,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,"4,3m",20m,2,"7,5m",,
+" Đường Cách Mạng Tháng 8, Phường Hòa Thọ Đông, Quận Cẩm Lệ, Đà Nẵng"," 2,85 tỷ ", 100 m2,Đông,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,5m,20m,2,5m,,
+" Đường Trưng Nữ Vương, Phường Hòa Thuận Tây, Quận Hải Châu, Đà Nẵng"," 4,3 tỷ ", 98 m2,Đông,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,5m,19m,2,4m,,
+" Đường Hùng Vương, Phường Hải Châu I, Quận Hải Châu, Đà Nẵng"," 3,1 tỷ ", 51 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,"3,2m",16m,2,"2,5m",,---
+" Đường Trần Xuân Lê, Phường Hòa Khê, Quận Thanh Khê, Đà Nẵng"," 3,1 tỷ ", 60 m2,Đông,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,4m,15m,2,3m,,
+" Đường Hoàng Diệu, Phường Hải Châu I, Quận Hải Châu, Đà Nẵng"," 4,25 tỷ ", 90 m2,Bắc,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,9m,10m,3,3m,,---
+" Đường Hoàng Diệu, Phường Bình Hiên, Quận Hải Châu, Đà Nẵng"," 4,55 tỷ ", 90 m2,Bắc,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,9m,10m,3,3m,---,---
+" Đường Duy Tân, Phường Hòa Thuận Đông, Quận Hải Châu, Đà Nẵng", 6 tỷ , 80 m2,Tây Nam,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,4m,20m,3,"7,5m",,
+" Đường Nguyễn Tri Phương, Phường Hòa Thuận Tây, Quận Hải Châu, Đà Nẵng"," 4,5 tỷ ", 80 m2,Tây Nam,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,4m,20m,3,"7,5m",,
+" Đường Đặng Thai Mai, Phường Thạc Gián, Quận Thanh Khê, Đà Nẵng"," 4,5 tỷ ", 100 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,5m,20m,2,3m,,---
+" Đường Hoàng Diệu, Phường Bình Hiên, Quận Hải Châu, Đà Nẵng"," 2,2 tỷ ", 36 m2,Đông Nam,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,"3,6m",10m,2,3m,,---
+" Đường Trưng Nữ Vương, Phường Hòa Thuận Tây, Quận Hải Châu, Đà Nẵng"," 3,6 tỷ ", 55 m2,Tây Bắc,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,5m,11m,3,5m,,---
+" Đường Dũng Sĩ Thanh Khê, Phường An Khê, Quận Thanh Khê, Đà Nẵng"," 2,6 tỷ ", 75 m2,Tây Nam,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,5m,15m,2,3m,,---
+" Đường Hoàng Diệu, Phường Bình Hiên, Quận Hải Châu, Đà Nẵng"," 5,2 tỷ ", 70 m2,Đông Nam,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,"4,5m",16m,3,5m,,---
+" Đường Nguyễn Phước Nguyên, Phường An Khê, Quận Thanh Khê, Đà Nẵng"," 3,15 tỷ ", 80 m2,Đông Nam,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,4m,20m,2,4m,,---
+" Đường Âu Cơ, Phường Hòa Hiệp Bắc, Quận Liên Chiểu, Đà Nẵng"," 2,85 tỷ ", 132 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,6m,22m,1,3m,---,---
+" Đường Phan Chu Trinh, Phường Bình Hiên, Quận Hải Châu, Đà Nẵng"," 3,7 tỷ ", 45 m2,Đông Nam,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,5m,9m,3,3m,,---
+" Đường Tiểu La, Phường Hòa Cường Bắc, Quận Hải Châu, Đà Nẵng"," 3,5 tỷ ", 75 m2,Tây,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,5m,75m,2,3m,,---
+" Đường Nguyễn Phước Nguyên, Phường An Khê, Quận Thanh Khê, Đà Nẵng", 3 tỷ , 100 m2,Đông,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,5m,20m,2,3m,---,
+" Đường Phạm Nhữ Tăng, Phường Hòa Khê, Quận Thanh Khê, Đà Nẵng"," 2,3 tỷ ", 90 m2,Đông,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,6m,15m,2,3m,---,---
+" Đường Trưng Nữ Vương, Phường Hòa Thuận Tây, Quận Hải Châu, Đà Nẵng"," 3,9 tỷ ", 90 m2,Tây Nam,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,5m,18m,1,4m,,
+" Đường Châu Thượng Văn, Phường Hòa Cường Bắc, Quận Hải Châu, Đà Nẵng"," 3,8 tỷ ", 55 m2,Tây Nam,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,5m,11m,3,3m,,---
+" Đường Núi Thành, Phường Hòa Cường Bắc, Quận Hải Châu, Đà Nẵng"," 3,9 tỷ ", 45 m2,Đông Nam,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,5m,9m,3,3m,,---
+" Đường Hà Huy Tập, Phường An Khê, Quận Thanh Khê, Đà Nẵng"," 2,6 tỷ ", 60 m2,Đông Nam,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,4m,15m,2,3m,,---
+" Đường Nguyễn Trung Trực, Phường An Hải Bắc, Quận Sơn Trà, Đà Nẵng"," 3,6 tỷ ", 90 m2,Bắc,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,5m,18m,3,3m,,---
+" Đường Nam Cao, Phường Hòa Khánh Nam, Quận Liên Chiểu, Đà Nẵng"," 3,35 tỷ ", 150 m2,Đông Nam,Nhà trong hẻm,---,5m,30m,1,5m,---,
+" Đường Phạm Nhữ Tăng, Phường Hòa Khê, Quận Thanh Khê, Đà Nẵng"," 3,6 tỷ ", 64 m2,Đông,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,4m,16m,3,3m,,---
+" Đường Ông Ích Đường, Phường Hòa Thọ Đông, Quận Cẩm Lệ, Đà Nẵng"," 2,3 tỷ ", 52 m2,Tây Nam,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,"3,5m",15m,2,5m,,
+" Đường Ông Ích Khiêm, Phường Thanh Bình, Quận Hải Châu, Đà Nẵng"," 4,05 tỷ ", 75 m2,Tây Nam,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,"4,5m",17m,2,4m,,---
+" Đường Phan Châu Trinh, Phường Bình Hiên, Quận Hải Châu, Đà Nẵng"," 3,6 tỷ ", 60 m2,Đông Nam,Nhà trong hẻm,---,5m,12m,2,3m,,---
+" Đường Điện Biên Phủ, Phường Chính Gián, Quận Thanh Khê, Đà Nẵng"," 4,55 tỷ ", 90 m2,Đông Nam,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,6m,15m,2,3m,,
+" Đường Nguyễn Tri Phương, Phường Hòa Thuận Tây, Quận Hải Châu, Đà Nẵng"," 3,95 tỷ ", 70 m2,Đông Nam,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,5m,14m,4,3m,,---
+" Đường Trưng Nữ Vương, Phường Hòa Thuận Tây, Quận Hải Châu, Đà Nẵng", 4 tỷ , 75 m2,Đông,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,5m,15m,3,3m,,---
+" Đường Trường Chinh, Phường An Khê, Quận Thanh Khê, Đà Nẵng"," 3,4 tỷ ", 52 m2,Đông Nam,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,"3,4m",15m,4,3m,,
+" Đường Đỗ Thúc Tịnh, Phường Khuê Trung, Quận Cẩm Lệ, Đà Nẵng"," 4,15 tỷ ", 81 m2,Tây Bắc,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,"4,5m",18m,3,"7,5m",,---
+" Đường Đỗ Bá, Phường Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng", 16 tỷ , 260 m2,Đông,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,13m,20m,1,7m,---,
+" Đường Hà Huy Tập, Phường Hòa Khê, Quận Thanh Khê, Đà Nẵng", 4 tỷ , 70 m2,Đông Nam,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,5m,15m,3,4m,,
+" Đường Phan Châu Trinh, Phường Bình Hiên, Quận Hải Châu, Đà Nẵng"," 3,6 tỷ ", 75 m2,Đông,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,5m,15m,2,3m,,---
+" Đường Nguyễn Văn Linh, Phường Bình Hiên, Quận Hải Châu, Đà Nẵng"," 3,5 tỷ ", 80 m2,Tây,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,5m,16m,2,3m,,---
+" Đường Hoàng Diệu, Phường Bình Hiên, Quận Hải Châu, Đà Nẵng"," 5,68 tỷ ", 112 m2,Đông Nam,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,"4,2m",27m,2,3m,,---
+" Đường Trường Chinh, Phường An Khê, Quận Thanh Khê, Đà Nẵng"," 2,95 tỷ ", 80 m2,Nam,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,6m,14m,2,3m,,---
+" Đường Trường Chinh, Phường An Khê, Quận Thanh Khê, Đà Nẵng"," 2,6 tỷ ", 70 m2,Đông,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,5m,14m,2,3m,,---
+" Đường Nguyễn Nhàn, Phường Hòa Thọ Đông, Quận Cẩm Lệ, Đà Nẵng"," 2,4 tỷ ", 80 m2,Tây Nam,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,4m,20m,2,"5,5m",,---
+" Đường Nguyễn Phước Nguyên, Phường An Khê, Quận Thanh Khê, Đà Nẵng"," 3,7 tỷ ", 80 m2,Tây,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,4m,20m,2,4m,,---
+" Đường Lê Đình Lý, Phường Hòa Thuận Tây, Quận Hải Châu, Đà Nẵng"," 3,4 tỷ ", 55 m2,Đông,Nhà trong hẻm,---,"3,2m",17m,3,4m,,---
+" Đường Lê Cơ, Phường Hòa Cường Bắc, Quận Hải Châu, Đà Nẵng"," 3,5 tỷ ", 80 m2,Nam,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,4m,20m,2,5m,,---
+" Đường Hoàng Thúc Trâm, Phường Hòa Cường Bắc, Quận Hải Châu, Đà Nẵng"," 3,85 tỷ ", 75 m2,Đông,Nhà trong hẻm,---,5m,15m,2,3m,,---
+" Đường Trần Duy Chiến, Phường Mân Thái, Quận Sơn Trà, Đà Nẵng"," 3,65 tỷ ", 38 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,4m,"9,5m",1,10m,---,---
+" Đường Lê Hữu Trác, Phường An Hải Đông, Quận Sơn Trà, Đà Nẵng"," 5,1 tỷ ", 86 m2,Đông Bắc,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,6m,21m,3,5m,,---
+" Đường Phạm Tu, Phường Phước Mỹ, Quận Sơn Trà, Đà Nẵng"," 5,4 tỷ ", 56 m2,Tây Bắc,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,4m,14m,3,"5,5m",,---
+" Đường Bùi Dương Lịch, Phường Nại Hiên Đông, Quận Sơn Trà, Đà Nẵng"," 4,45 tỷ ", 72 m2,Đông Nam,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,4m,16m,3,"7,5m",,---
+" Đường Hưng Hóa 4, Phường Hòa Cường Nam, Quận Hải Châu, Đà Nẵng"," 4,95 tỷ ", 76 m2,_,Nhà mặt tiền,---,5m,"14,5m",2,5m,---,---
+" Đường Lê Thanh Nghị, Phường Hòa Cường Nam, Quận Hải Châu, Đà Nẵng"," 12,5 tỷ ", 70 m2,_,Nhà mặt tiền,---,5m,14m,4,10m,---,---
+" Đường Huy Cận, Phường Hòa Cường Nam, Quận Hải Châu, Đà Nẵng"," 5,6 tỷ ", 70 m2,_,Nhà mặt tiền,---,5m,14m,3,5m,---,---
+" Đường Phạm Tu, Phường Phước Mỹ, Quận Sơn Trà, Đà Nẵng"," 5,2 tỷ ", 56 m2,_,Nhà mặt tiền,---,4m,14m,3,5m,---,---
+" Đường Nguyễn Thị Minh Khai, Phường Hải Châu I, Quận Hải Châu, Đà Nẵng", 22 tỷ , 91 m2,_,Nhà mặt tiền,---,"9,5m",11m,4,10m,---,---
+" Đường Phú Lộc 1, Phường Hòa Minh, Quận Liên Chiểu, Đà Nẵng"," 5,6 tỷ ", 75 m2,_,Nhà mặt tiền,---,5m,17m,3,5m,---,---
+" Đường Hồ Trung Lượng, Phường Hòa Xuân, Quận Cẩm Lệ, Đà Nẵng"," 7,7 tỷ ", 115 m2,_,Nhà mặt tiền,---,5m,23m,5,7m,---,---
+" Đường Hà Huy Tập, Phường Thạc Gián, Quận Thanh Khê, Đà Nẵng"," 3,55 tỷ ", 150 m2,_,Nhà trong hẻm,---,5m,11m,3,"3,7m",---,---
+" Đường Hải Phòng, Phường Vĩnh Trung, Quận Thanh Khê, Đà Nẵng"," 4,7 tỷ ", 80 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,5m,18m,3,4m,---,---
+" Đường Nguyễn Hữu Thọ, Phường Thanh Khê Tây, Quận Thanh Khê, Đà Nẵng"," 16,5 tỷ ", 82 m2,Tây Bắc,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,17m,4,15m,,
+" Đường 2/9, Phường Hòa Cường Nam, Quận Hải Châu, Đà Nẵng", 9 tỷ , 89 m2,Đông Nam,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,17m,4,15m,,
+" Đường Nguyễn Đóa, Phường Hòa Xuân, Quận Cẩm Lệ, Đà Nẵng"," 3,5 tỷ ", 100 m2,Đông,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,20m,2,"7,5m",---,
+" Đường Đào Trí, Phường Hòa Cường Nam, Quận Hải Châu, Đà Nẵng"," 4,3 tỷ ", 75 m2,Tây Bắc,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,15m,3,"5,5m",,
+" Đường An Thượng 29, Phường Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng"," 9,5 tỷ ", 71 m2,Tây Bắc,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,14m,4,"5,5m",,
+" Đường Cổ Mân Lan 1, Phường Hòa Xuân, Quận Cẩm Lệ, Đà Nẵng"," 3,3 tỷ ", 90 m2,Nam,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,18m,2,"5,5m",,
+" Đường Trần Tấn Mới, Phường Hòa Thuận Tây, Quận Hải Châu, Đà Nẵng"," 10,5 tỷ ", 90 m2,Nam,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,20m,4,"5,5m",,
+" Đường Sơn Thủy Đông 1, Phường Hòa Hải, Quận Ngũ Hành Sơn, Đà Nẵng"," 5,2 tỷ ", 90 m2,Đông Bắc,Nhà mặt tiền,---,5m,18m,2,"5,5m",---,
+" Đường Nam Kỳ Khởi Nghĩa, Phường Hòa Hải, Quận Ngũ Hành Sơn, Đà Nẵng"," 4,9 tỷ ", 109 m2,Bắc,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"7,2m","15,5m",3,"7,5m",,
+" 160 Đường Trần Cao Vân, Phường Tam Thuận, Quận Thanh Khê, Đà Nẵng"," 2,15 tỷ ", 56 m2,Đông Bắc,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,5m,11m,1,"2,5m",---,---
+" Đường Tiểu La, Phường Hòa Cường Nam, Quận Hải Châu, Đà Nẵng"," 4,15 tỷ ", 52 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,"4,5m",11m,3,3m,,
+" Đường Nguyễn Hoàng, Phường Bình Hiên, Quận Hải Châu, Đà Nẵng"," 3,379 tỷ ", 85 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,"4,5m",18m,1,"4,5m",,
+" Đường Phạm Văn Nghị, Phường Vĩnh Trung, Quận Thanh Khê, Đà Nẵng"," 2,879 tỷ ", 80 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,4m,10m,2,3m,,
+" Đường Lê Duẩn, Phường Tân Chính, Quận Hải Châu, Đà Nẵng"," 4,23 tỷ ", 85 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,"4,5m",18m,3,3m,,
+" Đường Huỳnh Ngọc Huệ, Phường Hòa Khê, Quận Thanh Khê, Đà Nẵng"," 2,75 tỷ ", 70 m2,_,Nhà trong hẻm,Giấy tờ hợp lệ,"4,5m",16m,3,3m,,
+" Đường Nguyễn Tất Thành, Phường Xuân Hà, Quận Thanh Khê, Đà Nẵng"," 2,6 tỷ ", 50 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,"5,4m",10m,3,3m,,
+" Đường Núi Thành, Phường Hòa Thuận Tây, Quận Hải Châu, Đà Nẵng"," 4,45 tỷ ", 55 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,5m,11m,3,4m,,
+" Đường Lê Độ, Phường Chính Gián, Quận Thanh Khê, Đà Nẵng"," 3,99 tỷ ", 65 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,5m,"12,5m",3,3m,,
+" Đường Phạm Văn Nghị, Phường Hòa Thuận Tây, Quận Hải Châu, Đà Nẵng"," 4,45 tỷ ", 51 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,5m,11m,3,3m,,
+" Đường Hà Huy Tập, Phường Hòa Khê, Quận Thanh Khê, Đà Nẵng"," 4,29 tỷ ", 80 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,5m,16m,3,"3,5m",,
+" Đường Huỳnh Ngọc Huệ, Phường Hòa Khê, Quận Thanh Khê, Đà Nẵng"," 4,268 tỷ ", 70 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,5m,14m,3,3m,,
+" Đường Phan Thanh, Phường Thạc Gián, Quận Thanh Khê, Đà Nẵng"," 3,3 tỷ ", 50 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,"3,5m",13m,3,3m,,---
+" Đường Lê Duẩn, Phường Tân Chính, Quận Hải Châu, Đà Nẵng"," 4,55 tỷ ", 85 m2,_,Nhà trong hẻm,---,6m,14m,3,"4,5m",,
+" Đường Đống Đa, Phường Hải Châu I, Quận Hải Châu, Đà Nẵng", 3 tỷ , 65 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,"5,5m",12m,2,4m,,
+" Đường Hải Phòng, Phường Tân Chính, Quận Thanh Khê, Đà Nẵng"," 2,75 tỷ ", 80 m2,_,Nhà trong hẻm,---,4m,20m,2,3mm,,
+" Đường Đống Đa, Phường Tân Chính, Quận Hải Châu, Đà Nẵng"," 3,45 tỷ ", 62 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,"5,5m",11m,2,4m,,
+" Đường Đống Đa, Phường Thạch Thang, Quận Hải Châu, Đà Nẵng"," 3,5 tỷ ", 65 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,"5,5m",11m,2,4m,,
+" Đường Nguyễn Tri Phương, Phường Vĩnh Trung, Quận Thanh Khê, Đà Nẵng"," 5,3 tỷ ", 200 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,4m,10m,2,3m,,
+" Đường Lý Tự Trọng, Phường Thanh Bình, Quận Hải Châu, Đà Nẵng"," 3,4 tỷ ", 65 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,"5,5m",11m,2,4m,,
+" Đường Lý Tự Trọng, Phường Thanh Bình, Quận Hải Châu, Đà Nẵng"," 3,42 tỷ ", 65 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,"5,3m","11,2m",2,4m,,
+" Đường Hải Phòng, Phường Tân Chính, Quận Hải Châu, Đà Nẵng"," 2,85 tỷ ", 80 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,4m,20m,2,3m,,
+" Đường Điện Biên Phủ, Phường Xuân Hà, Quận Thanh Khê, Đà Nẵng"," 2,95 tỷ ", 53 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,4m,"13,2m",3,3m,,
+" Đường Đinh Tiên Hoàng, Phường Tam Thuận, Quận Thanh Khê, Đà Nẵng"," 3,63 tỷ ", 55 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,"6,8m","7,6m",4,4m,,
+" Đường Hoàng Thúc Trâm, Phường Hòa Cường Bắc, Quận Hải Châu, Đà Nẵng"," 3,9 tỷ ", 76 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,"4,5m",17m,1,6m,---,
+" Đường Lý Thường Kiệt, Phường Hải Châu I, Quận Hải Châu, Đà Nẵng", 25 tỷ , 85 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,17m,1,10m,,
+" Đường Chính Hữu, Phường An Hải Bắc, Quận Sơn Trà, Đà Nẵng"," 20,39 tỷ ", 127 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"7,6m",16m,6,10m,,
+" Đường Nguyễn Hữu Thọ, Phường Hòa Thuận Tây, Quận Hải Châu, Đà Nẵng"," 5,6 tỷ ", 60 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,12m,4,6m,,
+" Đường Nguyễn Công Trứ, Phường Phước Mỹ, Quận Sơn Trà, Đà Nẵng"," 20,2 tỷ ", 140 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,8m,16m,6,12m,,
+" Đường Đặng Vũ Hỷ, Phường Phước Mỹ, Quận Sơn Trà, Đà Nẵng"," 20,5 tỷ ", 800 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,8m,18m,6,12m,,
+" Đường Chính Hữu, Phường Phước Mỹ, Quận Sơn Trà, Đà Nẵng"," 20,4 tỷ ", 135 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"7,8m",16m,6,12m,,
+" Đường Phan Đăng Lưu, Phường Hòa Cường Bắc, Quận Hải Châu, Đà Nẵng", 8 tỷ , 90 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"4,5m",20m,3,12m,,
+" Đường Nguyễn Tri Phương, Phường Hòa Thuận Đông, Quận Hải Châu, Đà Nẵng", 11 tỷ , 80 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"4,5m","17,5m",3,10m,,
+" Đường Thái Thị Bôi, Phường Chính Gián, Quận Thanh Khê, Đà Nẵng"," 5,95 tỷ ", 90 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,4m,17m,2,10m,,
+" Đường Lưu Quý Kỳ, Phường Hòa Cường Bắc, Quận Hải Châu, Đà Nẵng"," 6,1 tỷ ", 70 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,"13,5m",3,6m,,
+" Đường Phạm Cự Lượng, Phường An Hải Đông, Quận Sơn Trà, Đà Nẵng"," 3,3 tỷ ", 80 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,5m,16m,1,4m,---,---
+" Đường Đô Đốc Tuyết, Phường Hòa Xuân, Quận Cẩm Lệ, Đà Nẵng"," 3,45 tỷ ", 100 m2,_,Nhà mặt tiền,---,5m,20m,2,"5,5m",---,---
+" Đường Bàu Cầu 27, Xã Hòa Phước, Huyện Hòa Vang, Đà Nẵng"," 3,1 tỷ ", 105 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,21m,2,"5,5m",---,---
+" Đường Trường Chinh, Phường Thanh Khê Tây, Quận Thanh Khê, Đà Nẵng"," 12,5 tỷ ", 100 m2,_,Nhà mặt tiền,---,5m,20m,5,20m,---,---
+" Đường Trường Chinh, Phường Thanh Khê Tây, Quận Thanh Khê, Đà Nẵng"," 3,1 tỷ ", 81 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,5m,17m,3,4m,---,---
+" Đường Hà Duy Phiên, Phường Hòa Xuân, Quận Cẩm Lệ, Đà Nẵng"," 3,15 tỷ ", 80 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,16m,1,"5,5m",---,---
+" Đường An Trung 8, Phường An Hải Tây, Quận Sơn Trà, Đà Nẵng"," 3,9 tỷ ", 58 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"5,5m",11m,2,"3,5m",,
+" Đường Xuân Thiều 11, Phường Hòa Hiệp Nam, Quận Liên Chiểu, Đà Nẵng"," 3,6 tỷ ", 100 m2,Đông Nam,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,20m,1,"5,5m",---,
+" Đường Nguyễn Thanh Năm, Phường An Khê, Quận Thanh Khê, Đà Nẵng"," 3,2 tỷ ", 75 m2,Đông,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,15m,1,"5,5m",---,
+" Đường Trần Can, Phường Hòa Khê, Quận Thanh Khê, Đà Nẵng"," 5,8 tỷ ", 85 m2,Tây Nam,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,17m,3,"7,5m",,
+" Đường An Mỹ, Phường An Hải Tây, Quận Sơn Trà, Đà Nẵng"," 4,8 tỷ ", 56 m2,Tây Bắc,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,4m,14m,1,"3,5m",---,
+" Đường Ngô Trí Hòa, Phường Nại Hiên Đông, Quận Sơn Trà, Đà Nẵng"," 3,2 tỷ ", 72 m2,Đông Bắc,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,4m,18m,1,"5,5m",---,
+" Đường Nguyễn Trác, Phường Hòa Thuận Tây, Quận Hải Châu, Đà Nẵng", 9 tỷ , 134 m2,Đông Bắc,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,27m,2,"5,5m",,
+" Đường Đoàn Phú Tứ, Phường Hòa Khánh Bắc, Quận Liên Chiểu, Đà Nẵng"," 4,1 tỷ ", 147 m2,Tây Nam,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,30m,1,"5,5m",---,
+" Đường Vũ Quỳnh, Phường Thanh Khê Tây, Quận Thanh Khê, Đà Nẵng"," 3,9 tỷ ", 75 m2,Đông Bắc,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,15m,1,"5,5m",---,
+" Đường Hoàng Đức Lương, Phường An Hải Bắc, Quận Sơn Trà, Đà Nẵng", 9 tỷ , 100 m2,Tây Bắc,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,20m,3,"7,5m",---,---
+" Đường Võ Duy Ninh, Phường Thọ Quang, Quận Sơn Trà, Đà Nẵng"," 5,3 tỷ ", 130 m2,Đông Nam,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,"25,7m",2,"7,5m",---,
+" Đường Lý Tự Trọng, Phường Thạch Thang, Quận Hải Châu, Đà Nẵng"," 10,8 tỷ ", 80 m2,Nam,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,4m,20m,2,10m,,
+" Đường Man Thiện, Phường Hòa Thuận Tây, Quận Hải Châu, Đà Nẵng"," 8,9 tỷ ", 96 m2,Đông,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,"19,2m",3,"7,5m",,
+" Đường Nguyễn Tri Phương, Phường Thạc Gián, Quận Thanh Khê, Đà Nẵng"," 12,8 tỷ ", 100 m2,Đông,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,20m,3,24m,,
+" Đường Man Thiện, Phường Hòa Thuận Tây, Quận Hải Châu, Đà Nẵng"," 8,9 tỷ ", 96 m2,Đông,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,"19,2m",3,"7,5m",,
+" Đường Trần Văn Đang, Phường Khuê Trung, Quận Cẩm Lệ, Đà Nẵng"," 4,2 tỷ ", 75 m2,Đông Bắc,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,15m,2,"5,5m",---,
+" Đường Hồ Huân Nghiệp, Phường Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng"," 5,1 tỷ ", 90 m2,Đông,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,18m,1,"5,5m",---,
+" Đường Nguyễn Thuật, Phường Hòa An, Quận Cẩm Lệ, Đà Nẵng"," 3,15 tỷ ", 90 m2,Đông,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,18m,1,"5,5m",---,
+" Đường Lê Chân, Phường Nại Hiên Đông, Quận Sơn Trà, Đà Nẵng"," 5,1 tỷ ", 80 m2,Đông Nam,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,16m,2,"7,5m",,
+" Đường An Nhơn 1, Phường An Hải Bắc, Quận Sơn Trà, Đà Nẵng"," 6,45 tỷ ", 73 m2,Tây Bắc,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"4,7m","15,4m",3,"5,5m",,
+" Đường Đoàn Trần Nghiệp, Phường Hòa Khánh Bắc, Quận Liên Chiểu, Đà Nẵng", 6 tỷ , 98 m2,Đông Nam,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,20m,3,6m,,
+" Đường Lưu Nhân Chú, Phường Khuê Trung, Quận Cẩm Lệ, Đà Nẵng"," 3,4 tỷ ", 70 m2,Đông Nam,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,14m,2,"5,5m",---,
+" An Mỹ 3, Phường An Hải Tây, Quận Sơn Trà, Đà Nẵng"," 4,2 tỷ ", 57 m2,Đông Nam,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"4,4m",13m,1,"3,5m",---,
+" Phạm Hùng Phường Hòa Xuân, Quận Cẩm Lệ, Đà Nẵng"," 6,4 tỷ ", 108 m2,Đông,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,"21,5m",2,15m,,
+" Đường Bùi Dương Lịch, Phường Nại Hiên Đông, Quận Sơn Trà, Đà Nẵng"," 5,2 tỷ ", 100 m2,Tây Bắc,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,20m,3,"7,5m",,
+" Đường Lưu Nhân Chú, Phường Khuê Trung, Quận Cẩm Lệ, Đà Nẵng"," 3,4 tỷ ", 70 m2,Đông Nam,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,14m,2,"5,5m",---,
+" Đường Gò Nãy 9, Phường Hòa Minh, Quận Liên Chiểu, Đà Nẵng"," 3,8 tỷ ", 85 m2,Đông Nam,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,17m,2,"5,5m",,
+" Đường Nguyễn Lương Bằng, Phường Hòa Hiệp Nam, Quận Liên Chiểu, Đà Nẵng"," 5,3 tỷ ", 214 m2,Tây Nam,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"5,9m",36m,1,33m,---,
+" Đường Hàn Thuyên, Phường Hòa Cường Bắc, Quận Hải Châu, Đà Nẵng"," 7,8 tỷ ", 112 m2,Nam,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"4,5m",25m,1,"7,5m",---,
+" Đường Nước Mặn 2, Phường Khuê Mỹ, Quận Ngũ Hành Sơn, Đà Nẵng"," 5,1 tỷ ", 95 m2,Tây Nam,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,19m,2,"7,5m",---,
+" Đường An Mỹ, Phường An Hải Tây, Quận Sơn Trà, Đà Nẵng"," 4,2 tỷ ", 56 m2,Tây Bắc,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,4m,14m,1,"3,5m",---,
+" Đường An Nhơn 3, Phường An Hải Bắc, Quận Sơn Trà, Đà Nẵng"," 8,5 tỷ ", 117 m2,Tây Bắc,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"5,3m",22m,2,"5,5m",---,
+" Đường Nguyễn Xuân Khoát, Phường An Hải Bắc, Quận Sơn Trà, Đà Nẵng"," 9,5 tỷ ", 110 m2,Đông Bắc,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,22m,3,"5,5m",,
+" Đường Núi Thành, Phường Hòa Thuận Đông, Quận Hải Châu, Đà Nẵng", 24 tỷ , 123 m2,Đông,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"7,1m","17,8m",3,10m,,
+" Đường Dương Vân Nga, Phường Nại Hiên Đông, Quận Sơn Trà, Đà Nẵng"," 6,8 tỷ ", 100 m2,Đông Nam,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,20m,4,10m,,
+" Đường Hàn Thuyên, Phường Hòa Cường Bắc, Quận Hải Châu, Đà Nẵng"," 7,95 tỷ ", 108 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"4,5m",24m,3,"7,5m",,
+" Đường Hà Huy Tập, Phường Xuân Hà, Quận Thanh Khê, Đà Nẵng"," 11,5 tỷ ", 98 m2,Tây,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,20m,5,10m,,
+" Đường Phạm Văn Bạch, Phường Hòa Cường Nam, Quận Hải Châu, Đà Nẵng"," 4,5 tỷ ", 76 m2,Bắc,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,4m,19m,1,"5,5m",---,
+" Đường Bùi Vịnh, Phường Hòa Phát, Quận Cẩm Lệ, Đà Nẵng"," 4,2 tỷ ", 120 m2,Nam,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,24m,2,"5,5m",,
+" Trường Thi 4 Phường Hòa Thuận Tây, Quận Hải Châu, Đà Nẵng"," 11,2 tỷ ", 90 m2,Tây Bắc,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,18m,5,"5,5m",,
+" Đường Ngô Quyền, Phường An Hải Bắc, Quận Sơn Trà, Đà Nẵng"," 8,2 tỷ ", 85 m2,Tây Bắc,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,6m,"14,4m",3,15m,---,
+" Đường Nguyễn Huy Tự, Phường Hòa Minh, Quận Liên Chiểu, Đà Nẵng"," 2,95 tỷ ", 72 m2,Tây Nam,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"4,5m",16m,2,"5,5m",---,
+" Đường Mân Quang 4, Phường Thọ Quang, Quận Sơn Trà, Đà Nẵng"," 3,9 tỷ ", 110 m2,Tây,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,22m,1,"5,5m",---,
+" Đường Mai Lão Bạng, Phường Thuận Phước, Quận Hải Châu, Đà Nẵng"," 7,3 tỷ ", 93 m2,Nam,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"7,79m","11,79m",3,"7,5m",---,
+" Đường Nguyễn Trung Ngạn, Phường Khuê Trung, Quận Cẩm Lệ, Đà Nẵng"," 5,2 tỷ ", 125 m2,Đông Nam,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,25m,2,"5,5m",---,
+" Đường Cao Bá Nhạ, Phường Mân Thái, Quận Sơn Trà, Đà Nẵng", 4 tỷ , 75 m2,Đông Nam,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,15m,2,"7,5m",---,
+" Đường Sơn Thủy 2, Phường Hòa Hải, Quận Ngũ Hành Sơn, Đà Nẵng"," 4,8 tỷ ", 115 m2,Tây Bắc,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,23m,2,"5,5m",---,
+" Đường Hoàng Đình Ái, Phường Hòa Xuân, Quận Cẩm Lệ, Đà Nẵng"," 4,35 tỷ ", 125 m2,Đông,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,25m,2,"7,5m",---,
+" Đường Đào Sư Tích, Phường Hòa Minh, Quận Liên Chiểu, Đà Nẵng"," 3,85 tỷ ", 60 m2,Nam,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"3,99m","16,74m",3,"7,5m",---,
+" Đường Nguyễn Đỗ Cung, Phường Hòa Minh, Quận Liên Chiểu, Đà Nẵng", 5 tỷ , 110 m2,Đông,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,22m,2,"7,5m",,
+" Đường Tế Hanh, Phường Hòa Xuân, Quận Cẩm Lệ, Đà Nẵng"," 3,95 tỷ ", 112 m2,Bắc,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,"22,5m",2,"7,5m",,
+" Phước Trường 16 Phường Phước Mỹ, Quận Sơn Trà, Đà Nẵng"," 6,9 tỷ ", 100 m2,Đông Nam,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"4,37m","23,54m",4,"5,5m",---,
+" Đường Nguyễn Thanh Năm, Phường An Khê, Quận Thanh Khê, Đà Nẵng"," 3,1 tỷ ", 75 m2,Đông Bắc,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,15m,1,"5,5m",---,
+" Đường Nguyễn Thanh Năm, Phường An Khê, Quận Thanh Khê, Đà Nẵng", 3 tỷ , 78 m2,Tây Nam,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,"15,6m",1,"5,5m",---,
+" Đường Hàn Thuyên, Phường Hòa Cường Bắc, Quận Hải Châu, Đà Nẵng"," 8,4 tỷ ", 100 m2,Bắc,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,20m,3,"7,5m",---,
+" Đường Nguyễn Hữu Thọ, Phường Hòa Cường Nam, Quận Hải Châu, Đà Nẵng", 52 tỷ , 500 m2,Tây Bắc,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,20m,25m,3,39m,---,
+" Đường Trưng Nữ Vương, Phường Bình Thuận, Quận Hải Châu, Đà Nẵng", 27 tỷ , 202 m2,Đông Nam,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,8m,22m,1,10m,---,
+" Đường Dương Đức Hiền, Phường Hòa Minh, Quận Liên Chiểu, Đà Nẵng"," 2,65 tỷ ", 72 m2,Đông Bắc,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"4,5m",16m,1,"5,5m",---,
+" Đường Thái Thị Bôi, Phường Chính Gián, Quận Thanh Khê, Đà Nẵng"," 2,95 tỷ ", 45 m2,Bắc,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,4m,"11,5m",3,4m,,
+" Đường Nại Nghĩa 4, Phường Nại Hiên Đông, Quận Sơn Trà, Đà Nẵng"," 3,6 tỷ ", 50 m2,Nam,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,4m,"12,5m",3,4m,,
+" Đường Phước Tường 5, Phường Hòa Phát, Quận Cẩm Lệ, Đà Nẵng"," 3,19 tỷ ", 91 m2,Đông,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"3,3m","27,8m",3,"5,5m",---,
+" Đường Hà Mục, Phường Hòa Thọ Đông, Quận Cẩm Lệ, Đà Nẵng"," 5,15 tỷ ", 100 m2,Tây Nam,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,20m,4,"7,5m",,
+" Đường Ngô Quyền, Phường An Hải Tây, Quận Sơn Trà, Đà Nẵng"," 12,5 tỷ ", 87 m2,Đông Bắc,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,"17,42m",2,50m,---,
+" Đường Mỹ An 17, Phường Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng"," 7,5 tỷ ", 110 m2,Tây Bắc,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,22m,4,"7,5m",,
+" Đường Đặng Thùy Trâm, Phường Hòa Thuận Tây, Quận Hải Châu, Đà Nẵng"," 4,6 tỷ ", 79 m2,Tây Nam,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,"4,2m","16,7m",2,6m,---,
+" Đường Trưng Nhị, Phường Hòa Thuận Tây, Quận Hải Châu, Đà Nẵng"," 3,5 tỷ ", 102 m2,Nam,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,"3,64m","28,17m",2,4m,---,
+" Đường Hoàng Thế Thiện, Phường Hòa Xuân, Quận Cẩm Lệ, Đà Nẵng", 8 tỷ , 120 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,24m,4,"7,5m",---,---
+" Đường Quách Thị Trang, Phường Hòa Xuân, Quận Cẩm Lệ, Đà Nẵng", 5 tỷ , 107 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,"21,4m",2,"7,5m",---,---
+" Đường Nguyễn Xuân Khoát, Phường Phước Mỹ, Quận Sơn Trà, Đà Nẵng"," 8,7 tỷ ", 110 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,6m,19m,3,7m,---,---
+" Đường Nguyễn Nhàn, Phường Hòa Thọ Đông, Quận Cẩm Lệ, Đà Nẵng"," 3,15 tỷ ", 110 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,5m,21m,1,5m,---,---
+" Đường Lê Quảng Chí, Phường Hòa Xuân, Quận Cẩm Lệ, Đà Nẵng"," 8,15 tỷ ", 100 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,20m,1,10m,---,---
+" Đường Vũ Lăng, Phường Hòa Phát, Quận Cẩm Lệ, Đà Nẵng"," 4,7 tỷ ", 74 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,7m,12m,3,7m,---,---
+" Đường Nguyễn Như Đỗ, Phường Hòa Thọ Tây, Quận Cẩm Lệ, Đà Nẵng"," 2,1 tỷ ", 125 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,8m,---,1,3m,---,---
+" Đường Lê Trọng Tấn, Phường Hòa Phát, Quận Cẩm Lệ, Đà Nẵng"," 3,4 tỷ ", 61 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,6m,10m,1,10m,---,---
+" Xã Hòa Phước, Huyện Hòa Vang, Đà Nẵng"," 3,5 tỷ ", 227 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,10m,22m,2,6m,---,---
+" Đường Nguyễn Duy Hiệu, Phường An Hải Đông, Quận Sơn Trà, Đà Nẵng", 5 tỷ , 92 m2,Đông Bắc,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,4m,23m,1,5m,---,
+" Đường Phan Văn Trị, Phường Khuê Trung, Quận Cẩm Lệ, Đà Nẵng"," 37,4 tỷ ", 595 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,35m,17m,4,8m,,
+" Đường Mạc Cửu, Phường Khuê Mỹ, Quận Ngũ Hành Sơn, Đà Nẵng"," 6,15 tỷ ", 100 m2,Đông Nam,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,---,---,2,"7,5m",---,---
+" Đường Hoài Thanh, Phường Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng"," 5,6 tỷ ", 69 m2,Tây,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,---,---,4,"7,5m",---,---
+" Đường Hồ Nguyên Trừng, Phường Hòa Cường Nam, Quận Hải Châu, Đà Nẵng"," 7,3 tỷ ", 90 m2,Bắc,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,---,---,3,"7,5m",---,---
+" Đường Nguyễn Đức Cảnh, Phường Thuận Phước, Quận Hải Châu, Đà Nẵng"," 4,85 tỷ ", 59 m2,Nam,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,---,---,3,"5,5m",---,---
+" Đường Phạm Văn Bạch, Phường Hòa Cường Nam, Quận Hải Châu, Đà Nẵng"," 4,5 tỷ ", 59 m2,Bắc,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,---,---,3,"5,5m",---,---
+" Đường Dã Tượng, Phường Mân Thái, Quận Sơn Trà, Đà Nẵng"," 4,99 tỷ ", 90 m2,Đông Bắc,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,---,---,2,11m,---,---
+" Đường Ngô Quyền, Phường Mân Thái, Quận Sơn Trà, Đà Nẵng", 4 tỷ , 43 m2,Nam,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,---,---,1,30m,---,---
+" Đường Lê Cảnh Tuân, Phường Nại Hiên Đông, Quận Sơn Trà, Đà Nẵng"," 4,8 tỷ ", 85 m2,Đông Nam,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,---,---,3,"5,5m",---,---
+" Đường Nguyễn Xiển, Phường Khuê Mỹ, Quận Ngũ Hành Sơn, Đà Nẵng", 10 tỷ , 98 m2,Đông Bắc,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,---,---,5,"7,5m",---,---
+" Đường Nại Hiên Đông 16, Phường Nại Hiên Đông, Quận Sơn Trà, Đà Nẵng"," 4,1 tỷ ", 118 m2,Tây Bắc,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,---,---,2,"5,5m",---,---
+" Đường Phạm Nhữ Tăng, Phường Hòa Khê, Quận Thanh Khê, Đà Nẵng"," 6,8 tỷ ", 81 m2,Tây,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,---,---,3,"7,5m",---,---
+" Đường Sơn Thủy 12, Phường Hòa Hải, Quận Ngũ Hành Sơn, Đà Nẵng"," 3,6 tỷ ", 80 m2,Đông,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,---,---,2,"5,5m",---,---
+" Đường Dương Đình Nghệ, Phường An Hải Bắc, Quận Sơn Trà, Đà Nẵng"," 16,5 tỷ ", 107 m2,Tây Nam,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,---,---,6,"7,5m",---,---
+" Đường Dương Quảng Hàm, Phường Khuê Trung, Quận Cẩm Lệ, Đà Nẵng"," 5,6 tỷ ", 72 m2,Đông,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,---,---,2,"5,5m",---,---
+" Đường Nguyễn Hữu Tiến, Phường Hòa Thọ Đông, Quận Cẩm Lệ, Đà Nẵng", 2 tỷ , 102 m2,Nam,Nhà trong hẻm,---,---,---,2,5m,---,---
+" Đường Trần Nguyên Đán, Phường Hòa Minh, Quận Liên Chiểu, Đà Nẵng"," 3,8 tỷ ", 100 m2,_,Nhà mặt tiền,---,---,---,1,10m,---,---
+" Đường Tôn Đức Thắng, Phường Hòa Minh, Quận Liên Chiểu, Đà Nẵng", 17 tỷ , 200 m2,_,Nhà mặt tiền,---,---,---,3,15m,---,---
+" Đường Cách Mạng Tháng 8, Phường Khuê Trung, Quận Cẩm Lệ, Đà Nẵng"," 4,6 tỷ ", 100 m2,_,Nhà mặt tiền,---,---,---,2,7m,---,---
+" Đường Mai Đăng Chơn, Phường Hòa Quý, Quận Ngũ Hành Sơn, Đà Nẵng", 15 tỷ , 370 m2,_,Nhà mặt tiền,---,---,---,3,15m,---,---
+" Quốc lộ 1A, Xã Hòa Phước, Huyện Hòa Vang, Đà Nẵng", 2 tỷ , 121 m2,_,Nhà trong hẻm,---,---,---,2,5m,---,---
+" Đường Phan Đăng Lưu, Phường Hòa Cường Nam, Quận Hải Châu, Đà Nẵng"," 7,6 tỷ ", 78 m2,_,Nhà mặt tiền,---,---,---,3,10m,---,---
+" Đường Phạm Thận Duật, Phường Hòa Hải, Quận Ngũ Hành Sơn, Đà Nẵng"," 6,8 tỷ ", 175 m2,Tây,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,---,---,3,"7,5m",,
+" Đường Tô Hiến Thành, Phường An Hải Đông, Quận Sơn Trà, Đà Nẵng"," 7,9 tỷ ", 66 m2,Tây Nam,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"4,25m",14m,5,"5,5m",,---
+" Đường Phạm Cự Lượng, Phường An Hải Đông, Quận Sơn Trà, Đà Nẵng"," 18,5 tỷ ", 90 m2,Đông,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,6m,15m,7,"7,5m",,
+" Đường Lê Thước, Phường Phước Mỹ, Quận Sơn Trà, Đà Nẵng", 36 tỷ , 200 m2,Nam,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,17m,12m,8,"7,5m",,
+" Đường Chế Lan Viên, Phường Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng"," 4,5 tỷ ", 60 m2,Tây Nam,Nhà trong hẻm,---,5m,12m,2,5m,---,
+" Đường Ngô Quyền, Phường An Hải Bắc, Quận Sơn Trà, Đà Nẵng"," 2,75 tỷ ", 66 m2,Bắc,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,5m,14m,1,"5,5m",---,
+" Đường Sơn Thủy 2, Phường Hòa Hải, Quận Ngũ Hành Sơn, Đà Nẵng", 5 tỷ , 115 m2,Tây Nam,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,---,2,5m,---,
+" Đường Chương Dương, Phường Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng", 16 tỷ , 128 m2,Tây,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,11m,---,6,7m,,
+" Đường Đa Mặn 14, Phường Khuê Mỹ, Quận Ngũ Hành Sơn, Đà Nẵng"," 4,85 tỷ ", 81 m2,Đông Nam,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"4,5m",---,2,5m,,
+" Đường Vùng Trung 6, Phường Hòa Hải, Quận Ngũ Hành Sơn, Đà Nẵng"," 4,65 tỷ ", 110 m2,Tây Nam,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,---,2,5m,,
+" Đường Sơn Thủy 2, Phường Hòa Hải, Quận Ngũ Hành Sơn, Đà Nẵng"," 4,6 tỷ ", 125 m2,Đông Bắc,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,---,2,5m,,
+" Đường Đa Mặn 5, Phường Khuê Mỹ, Quận Ngũ Hành Sơn, Đà Nẵng"," 4,79 tỷ ", 90 m2,Tây Nam,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,---,2,5m,,
+" Đường Đào Trí, Phường Hòa Cường Nam, Quận Hải Châu, Đà Nẵng"," 4,35 tỷ ", 75 m2,Tây Bắc,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,---,2,5m,,
+" Đường Hố Truông 1, Phường Hòa Minh, Quận Liên Chiểu, Đà Nẵng"," 4,75 tỷ ", 88 m2,Tây Bắc,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,---,3,5m,,
+" Đường Phạm Khiêm Ích, Phường Khuê Mỹ, Quận Ngũ Hành Sơn, Đà Nẵng"," 7,6 tỷ ", 100 m2,Tây,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,---,4,5m,,
+" Đường Nguyễn Xiển, Phường Hòa Hải, Quận Ngũ Hành Sơn, Đà Nẵng"," 7,9 tỷ ", 129 m2,Tây,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,6m,---,2,7m,,
+" Đuờng Hoàng Tích Trí, Phường Thuận Phước, Quận Hải Châu, Đà Nẵng"," 4,75 tỷ ", 56 m2,Bắc,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,4m,---,1,3m,---,---
+" Đường Sơn Thủy 12, Phường Hòa Hải, Quận Ngũ Hành Sơn, Đà Nẵng"," 3,7 tỷ ", 80 m2,Đông Bắc,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,---,2,5m,,
+" Đường Nước Mặn 5, Phường Khuê Mỹ, Quận Ngũ Hành Sơn, Đà Nẵng"," 5,79 tỷ ", 95 m2,Tây Nam,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,---,4,7m,,
+" Đường Tú Quỳ, Phường Hòa Minh, Quận Liên Chiểu, Đà Nẵng"," 3,55 tỷ ", 85 m2,Tây,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,---,2,5m,,---
+" Đường Hoài Thanh, Phường Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng"," 6,069 tỷ ", 70 m2,Tây,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,6m,---,4,7m,,
+" Đường Nguyễn Sắc Kim, Phường Hòa Xuân, Quận Cẩm Lệ, Đà Nẵng"," 5,095 tỷ ", 87 m2,Đông Bắc,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,---,3,7m,,
+" Đường Nguyễn Cơ Thạch, Phường Khuê Mỹ, Quận Ngũ Hành Sơn, Đà Nẵng"," 10,5 tỷ ", 130 m2,Tây Nam,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,---,6,"7,5m",,
+" Đường Lê Văn Hiến, Phường Khuê Mỹ, Quận Ngũ Hành Sơn, Đà Nẵng"," 2,05 tỷ ", 89 m2,Đông Nam,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,4m,---,1,"1,5m",---,---
+" Đường Mai Lão Bạng, Phường Thuận Phước, Quận Hải Châu, Đà Nẵng"," 3,75 tỷ ", 50 m2,Tây Nam,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,4m,---,4,3m,,
+" Đường Nguyễn Tri Phương, Phường Hòa Thuận Tây, Quận Hải Châu, Đà Nẵng"," 3,7 tỷ ", 60 m2,Tây Bắc,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,---,---,2,4m,---,---
+" Đường Nguyễn Mậu Tài, Phường Hòa Xuân, Quận Cẩm Lệ, Đà Nẵng"," 6,4 tỷ ", 100 m2,Tây Nam,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,---,---,3,"7,5m",,
+" Đường Nguyễn Đức Trung, Phường Thanh Khê Đông, Quận Thanh Khê, Đà Nẵng"," 11,5 tỷ ", 68 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"4,5m",---,4,10m,,
+" Đường Mân Quang 7, Phường Thọ Quang, Quận Sơn Trà, Đà Nẵng"," 5,2 tỷ ", 75 m2,Đông Nam,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,15m,3,"5,5m",---,---
+" Đường Tân Lập 1, Phường Thạch Thang, Quận Hải Châu, Đà Nẵng"," 8,1 tỷ ", 58 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,4m,---,2,"5,5m",---,---
+" Đường Sơn Thủy 4, Phường Hòa Hải, Quận Ngũ Hành Sơn, Đà Nẵng"," 2,97 tỷ ", 90 m2,Tây Bắc,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,6m,15m,1,"5,5m",,
+" Đường Phan Kế Bính, Phường Thuận Phước, Quận Hải Châu, Đà Nẵng"," 5,9 tỷ ", 66 m2,Nam,Nhà mặt tiền,---,---,---,1,6m,---,
+" Đường Lương Thế Vinh, Phường An Hải Đông, Quận Sơn Trà, Đà Nẵng"," 5,4 tỷ ", 79 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"5,5m",---,1,6m,---,---
+" Đường Lương Thế Vinh, Phường An Hải Đông, Quận Sơn Trà, Đà Nẵng"," 5,4 tỷ ", 79 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"5,5m",---,1,6m,---,---
+" Đường Bùi Dương Lịch, Phường Nại Hiên Đông, Quận Sơn Trà, Đà Nẵng"," 4,49 tỷ ", 72 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,4m,18m,2,"7,5m",,
+" Đường An Thượng 16, Phường Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng"," 4,7 tỷ ", 64 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"4,68m",---,2,4m,,
+" Đường Nguyễn Hoàng, Phường Bình Hiên, Quận Hải Châu, Đà Nẵng"," 6,8 tỷ ", 72 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,4m,18m,1,6m,---,---
+" Đường An Cư 1, Phường An Hải Bắc, Quận Sơn Trà, Đà Nẵng"," 5,7 tỷ ", 56 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,4m,---,2,"5,5m",---,---
+" Đường Lưu Trọng Lư, Phường Hòa Cường Nam, Quận Hải Châu, Đà Nẵng"," 5,7 tỷ ", 70 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,---,---,4,"5,5m",,
+" Đường Võ Duy Ninh, Phường Thọ Quang, Quận Sơn Trà, Đà Nẵng"," 5,3 tỷ ", 125 m2,Đông Nam,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,25m,2,"7,5m",,
+" Đường Thái Phiên, Phường Phước Ninh, Quận Hải Châu, Đà Nẵng"," 8,3 tỷ ", 83 m2,Tây,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,---,---,3,5m,---,---
+" Đường Trưng Nữ Vương, Phường Bình Thuận, Quận Hải Châu, Đà Nẵng"," 2,9 tỷ ", 58 m2,Đông,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,---,---,3,2m,---,---
+" Đường Núi Thành, Phường Hòa Thuận Đông, Quận Hải Châu, Đà Nẵng"," 4,45 tỷ ", 55 m2,Tây Bắc,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,---,---,3,4m,---,---
+" Đường Ngô Quyền, Phường Thọ Quang, Quận Sơn Trà, Đà Nẵng"," 2,85 tỷ ", 62 m2,Tây Nam,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,---,---,2,3m,---,---
+" Đường Trần Xuân Lê, Phường Hòa Khê, Quận Thanh Khê, Đà Nẵng"," 2,07 tỷ ", 43 m2,Đông Nam,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,---,---,2,5m,---,---
+" Đường Hùng Vương, Phường Vĩnh Trung, Quận Thanh Khê, Đà Nẵng"," 2,95 tỷ ", 49 m2,Đông Bắc,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,---,---,3,"2,5m",---,---
+" Đường Điện Biên Phủ, Phường Chính Gián, Quận Thanh Khê, Đà Nẵng"," 3,4 tỷ ", 62 m2,Nam,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,---,---,1,5m,---,---
+" Đường Nguyễn Công Trứ, Phường An Hải Đông, Quận Sơn Trà, Đà Nẵng"," 3,09 tỷ ", 67 m2,Đông Nam,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,---,---,2,5m,---,---
+" Đường An Thượng 38, Phường Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng"," 8,5 tỷ ", 60 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,---,---,5,"5,5m",---,---
+" Đường Trần Hưng Đạo, Phường An Hải Tây, Quận Sơn Trà, Đà Nẵng"," 18,2 tỷ ", 100 m2,Đông,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,---,---,2,15m,---,---
+" Đường Trần Văn Thành, Phường Khuê Mỹ, Quận Ngũ Hành Sơn, Đà Nẵng"," 4,99 tỷ ", 78 m2,Tây Nam,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,---,---,2,6m,---,---
+" Đường An Thượng 16, Phường Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng"," 4,7 tỷ ", 64 m2,Tây Bắc,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,---,---,2,4m,---,---
+" Đường Lê Văn Hưu, Phường Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng"," 8,3 tỷ ", 110 m2,Bắc,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,---,---,3,11m,---,---
+" Đường Nguyễn Tri Phương, Phường Hòa Thuận Tây, Quận Hải Châu, Đà Nẵng"," 6,2 tỷ ", 90 m2,Tây Bắc,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,---,---,2,"5,5m",---,---
+" Đường Bùi Lâm, Phường Nại Hiên Đông, Quận Sơn Trà, Đà Nẵng"," 3,45 tỷ ", 56 m2,Tây Bắc,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,---,---,2,4m,---,---
+" Đường Tôn Quang Phiệt, Phường An Hải Bắc, Quận Sơn Trà, Đà Nẵng"," 5,2 tỷ ", 90 m2,Tây Nam,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,---,---,2,"7,5m",---,---
+" Đường Lưu Trọng Lư, Phường Hòa Cường Nam, Quận Hải Châu, Đà Nẵng"," 5,7 tỷ ", 70 m2,Tây Bắc,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,---,---,4,"5,5m",---,---
+" Đường Trần Nhân Tông, Phường Thọ Quang, Quận Sơn Trà, Đà Nẵng"," 6,5 tỷ ", 96 m2,Tây Bắc,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,---,---,3,10m,---,---
+" Đường An Nhơn 8, Phường An Hải Bắc, Quận Sơn Trà, Đà Nẵng"," 6,7 tỷ ", 86 m2,Tây Bắc,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,---,---,2,4m,---,---
+" Đường Nguyễn Bỉnh Khiêm, Phường An Hải Tây, Quận Sơn Trà, Đà Nẵng"," 5,8 tỷ ", 66 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,---,---,2,4m,---,
+" Đường Võ Nguyên Giáp, Phường Khuê Mỹ, Quận Ngũ Hành Sơn, Đà Nẵng"," 27,7 tỷ ", 188 m2,Đông Bắc,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,---,---,3,30m,---,---
+" Đường Nguyễn Tri Phương, Phường Hòa Thuận Tây, Quận Hải Châu, Đà Nẵng"," 9,5 tỷ ", 114 m2,Đông Bắc,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,---,---,3,10m,---,
+" Đường Phước Trường 5, Phường Phước Mỹ, Quận Sơn Trà, Đà Nẵng"," 6,6 tỷ ", 80 m2,Đông Bắc,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,---,---,2,"5,5m",---,---
+" Đường Trần Phú, Phường Phước Ninh, Quận Hải Châu, Đà Nẵng", 17 tỷ , 93 m2,Tây,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,---,---,2,10m,---,---
+" Đường Nguyễn Hữu Thọ, Phường Hòa Thuận Tây, Quận Hải Châu, Đà Nẵng"," 15,5 tỷ ", 90 m2,Tây,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,---,---,3,24m,---,---
+" Đường Duy Tân, Phường Hòa Thuận Đông, Quận Hải Châu, Đà Nẵng"," 6,9 tỷ ", 42 m2,Nam,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,---,---,3,30m,---,---
+" Đường Bùi Huy Bích, Phường Nại Hiên Đông, Quận Sơn Trà, Đà Nẵng"," 4,55 tỷ ", 75 m2,Tây Bắc,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,---,---,2,"5,5m",---,---
+" Đường Phạm Ngọc Thạch, Phường Thuận Phước, Quận Hải Châu, Đà Nẵng"," 5,2 tỷ ", 60 m2,Đông,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,---,---,2,"5,5m",---,---
+" Đường Tùng Thiện Vương, Phường Khuê Mỹ, Quận Ngũ Hành Sơn, Đà Nẵng"," 5,1 tỷ ", 95 m2,Tây Nam,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,---,---,2,"7,5m",---,---
+" Đường An Cư 4, Phường An Hải Bắc, Quận Sơn Trà, Đà Nẵng"," 5,9 tỷ ", 67 m2,Đông,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,---,---,1,"5,5m",---,---
+" Đường Mai Dị, Phường Hòa Cường Bắc, Quận Hải Châu, Đà Nẵng"," 6,3 tỷ ", 77 m2,Đông,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,---,---,4,"5,5m",---,---
+" Đường Nguyễn Hoàng, Phường Hải Châu II, Quận Hải Châu, Đà Nẵng"," 8,7 tỷ ", 53 m2,Tây Bắc,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,---,---,2,"5,5m",---,---
+" Đường An Trung Đông 6, Phường An Hải Bắc, Quận Sơn Trà, Đà Nẵng"," 4,8 tỷ ", 50 m2,Tây Bắc,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,---,---,3,"5,5m",---,---
+" Đường Ngũ Hành Sơn, Phường Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng", 11 tỷ , 90 m2,Tây,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,---,---,3,45m,---,---
+" Đường Ngô Trí Hòa, Phường Nại Hiên Đông, Quận Sơn Trà, Đà Nẵng"," 2,7 tỷ ", 72 m2,Đông Bắc,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,---,---,2,"5,5m",---,---
+" Đường Phạm Văn Bạch, Phường Hòa Cường Nam, Quận Hải Châu, Đà Nẵng", 6 tỷ , 90 m2,Nam,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,---,---,2,"5,5m",---,---
+" Đường Bùi Dương Lịch, Phường Nại Hiên Đông, Quận Sơn Trà, Đà Nẵng"," 4,49 tỷ ", 72 m2,Đông Nam,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,---,---,2,"7,5m",---,---
+" Đường 3/2, Phường Thuận Phước, Quận Hải Châu, Đà Nẵng", 17 tỷ , 125 m2,Tây Nam,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,---,---,3,30m,---,---
+" Đường Lý Đạo Thành, Phường Mân Thái, Quận Sơn Trà, Đà Nẵng"," 5,3 tỷ ", 100 m2,Tây Bắc,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,---,---,2,"7,5m",---,---
+" Đường Mỹ Khê, Phường Phước Mỹ, Quận Sơn Trà, Đà Nẵng"," 9,5 tỷ ", 94 m2,Bắc,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,---,---,3,"5,5m",---,---
+" Đường Sơn Thủy 2, Phường Hòa Hải, Quận Ngũ Hành Sơn, Đà Nẵng", 5 tỷ , 115 m2,Tây Bắc,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,---,---,2,"5,5m",---,---
+" Đường An Dương Vương, Phường Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng"," 5,5 tỷ ", 99 m2,Tây,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,---,---,2,30m,---,---
+" Đường Đinh Tiên Hoàng, Phường Thanh Bình, Quận Hải Châu, Đà Nẵng"," 3,85 tỷ ", 50 m2,Tây Nam,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,---,---,3,3m,---,---
+" Đường 3/2, Phường Thuận Phước, Quận Hải Châu, Đà Nẵng"," 3,2 tỷ ", 55 m2,Đông Nam,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,---,---,3,"2,5m",---,---
+" Đường Núi Thành, Phường Hòa Thuận Đông, Quận Hải Châu, Đà Nẵng"," 4,5 tỷ ", 71 m2,Đông,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,---,---,3,"2,5m",---,---
+" Đường Bình An 7, Phường Hòa Cường Bắc, Quận Hải Châu, Đà Nẵng"," 3,05 tỷ ", 62 m2,Đông,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,---,---,2,"2,5m",---,---
+" Đường Phan Thanh, Phường Thạc Gián, Quận Thanh Khê, Đà Nẵng"," 3,2 tỷ ", 50 m2,Bắc,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,---,---,3,"3,5m",---,---
+" Đường Lê Hữu Trác, Phường An Hải Đông, Quận Sơn Trà, Đà Nẵng"," 2,9 tỷ ", 115 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,7m,"16,5m",1,4m,,
+" Đường Trưng Nữ Vương, Phường Bình Hiên, Quận Hải Châu, Đà Nẵng"," 3,2 tỷ ", 60 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,5m,12m,3,3m,,---
+" Đường Tiểu La, Phường Hòa Cường Bắc, Quận Hải Châu, Đà Nẵng"," 4,3 tỷ ", 71 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,5m,"14,3m",2,4m,,
+" Đường Trưng Nữ Vương, Phường Hòa Thuận Đông, Quận Hải Châu, Đà Nẵng"," 2,57 tỷ ", 52 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,"4,2m","12,4m",2,3m,,
+" Đường Hải Sơn, Phường Thanh Bình, Quận Hải Châu, Đà Nẵng"," 3,1 tỷ ", 55 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,4m,"13,8m",2,"3,5m",,
+" Đường Lý Tự Trọng, Phường Thanh Bình, Quận Hải Châu, Đà Nẵng"," 3,15 tỷ ", 56 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,4m,14m,2,"3,5m",,
+" Đường Tiểu La, Phường Hòa Cường Bắc, Quận Hải Châu, Đà Nẵng"," 3,45 tỷ ", 67 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,5m,"13,5m",2,"4,5m",,
+" Đường Thanh Long, Phường Thanh Bình, Quận Hải Châu, Đà Nẵng"," 3,08 tỷ ", 55 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,4m,"13,8m",2,"3,5m",,
+" Đường Lê Hữu Trác, Phường Phước Mỹ, Quận Sơn Trà, Đà Nẵng", 4 tỷ , 117 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,5m,"23,5m",2,4m,,---
+" Đường Ỷ Lan Nguyên Phi, Phường Hòa Cường Bắc, Quận Hải Châu, Đà Nẵng"," 3,5 tỷ ", 65 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,5m,13m,2,"4,5m",,
+" Đường Lê Thanh Nghị, Phường Hòa Cường Bắc, Quận Hải Châu, Đà Nẵng"," 3,4 tỷ ", 67 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,5m,"13,5m",2,"4,5m",,---
+" Đường Núi Thành, Phường Hòa Cường Bắc, Quận Hải Châu, Đà Nẵng"," 3,4 tỷ ", 67 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,5m,"13,5m",2,4m,,
+" Đường Tiểu La, Phường Hòa Cường Bắc, Quận Hải Châu, Đà Nẵng"," 3,4 tỷ ", 65 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,"4,8m","13,5m",2,"4,5m",,
+" Đường Phạm Văn Nghị, Phường Thạc Gián, Quận Thanh Khê, Đà Nẵng"," 3,95 tỷ ", 56 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,5m,"11,2m",4,"4,5m",,---
+" Đường Nguyễn Văn Linh, Phường Nam Dương, Quận Hải Châu, Đà Nẵng"," 3,98 tỷ ", 55 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,5m,11m,3,4m,,---
+" Đường Hàm Nghi, Phường Thạc Gián, Quận Thanh Khê, Đà Nẵng"," 4,16 tỷ ", 55 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,5m,"11,2m",3,"3,7m",,---
+" Đường Nguyễn Tri Phương, Phường Hòa Thuận Đông, Quận Hải Châu, Đà Nẵng"," 3,9 tỷ ", 55 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,"4,7m","11,7m",4,4m,,
+" Đường Núi Thành, Phường Hòa Thuận Đông, Quận Hải Châu, Đà Nẵng"," 3,42 tỷ ", 64 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,"4,7m","13,5m",2,4m,,---
+" Đường Hoàng Diệu, Phường Hòa Thuận Đông, Quận Hải Châu, Đà Nẵng", 3 tỷ , 62 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,"4,5m","13,5m",3,3m,,
+" Đường Hoàng Diệu, Phường Bình Hiên, Quận Hải Châu, Đà Nẵng"," 3,1 tỷ ", 57 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,"4,3m","13,2m",3,4m,,
+" Đường Hoàng Diệu, Phường Bình Hiên, Quận Hải Châu, Đà Nẵng"," 3,1 tỷ ", 57 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,"4,3m","13,2m",3,4m,,
+" Đường Nguyễn Văn Linh, Phường Nam Dương, Quận Hải Châu, Đà Nẵng"," 2,6 tỷ ", 48 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,4m,12m,2,4m,,
+" Đường Đỗ Quang, Phường Vĩnh Trung, Quận Thanh Khê, Đà Nẵng"," 3,4 tỷ ", 52 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,5m,"10,5m",3,4m,,
+" Đường Nguyễn Tri Phương, Phường Thạc Gián, Quận Thanh Khê, Đà Nẵng"," 3,95 tỷ ", 56 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,"4,5m","12,5m",4,4m,,
+" Đường Đào Tấn, Phường Bình Hiên, Quận Hải Châu, Đà Nẵng", 4 tỷ , 75 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,"4,5m",16m,3,4m,,
+" Đường Nguyễn Tri Phương, Phường Hòa Thuận Đông, Quận Hải Châu, Đà Nẵng", 4 tỷ , 58 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,5m,"11,5m",3,4m,,
+" Đường Lê Đình Lý, Phường Hòa Thuận Đông, Quận Hải Châu, Đà Nẵng"," 4,2 tỷ ", 75 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,"4,5m","16,5m",2,6m,,
+" Đường Lê Độ, Phường Tam Thuận, Quận Thanh Khê, Đà Nẵng"," 2,2 tỷ ", 46 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,"4,5m",11m,2,3m,,---
+" Đường Đống Đa, Phường Thanh Bình, Quận Hải Châu, Đà Nẵng"," 2,85 tỷ ", 80 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,"5,5m","14,5m",2,4m,,
+" Đường Lê Duẩn, Phường Hải Châu I, Quận Hải Châu, Đà Nẵng"," 6,6 tỷ ", 68 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,5m,"13,5m",3,6m,,
+" Đường Nguyễn Du, Phường Thạch Thang, Quận Hải Châu, Đà Nẵng"," 2,85 tỷ ", 55 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,5m,11m,2,4m,,
+" Đường Nguyễn Tri Phương, Phường Thạc Gián, Quận Thanh Khê, Đà Nẵng"," 4,2 tỷ ", 75 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,5m,15m,2,5m,,
+" Đường Ông Ích Khiêm, Phường Thạch Thang, Quận Hải Châu, Đà Nẵng"," 2,43 tỷ ", 96 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,4m,12m,2,3m,,
+" Đường Ông Ích Khiêm, Phường Thanh Bình, Quận Hải Châu, Đà Nẵng"," 3,2 tỷ ", 55 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,5m,11m,2,4m,,
+" Đường Nguyễn Thị Minh Khai, Phường Thạch Thang, Quận Hải Châu, Đà Nẵng"," 2,8 tỷ ", 55 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,"4,5m",12m,2,"3,5m",,
+" Đường Ông Ích Khiêm, Phường Thanh Bình, Quận Hải Châu, Đà Nẵng"," 3,6 tỷ ", 50 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,"4,5m",11m,3,5m,,
+" Đường Hoàng Diệu, Phường Bình Thuận, Quận Hải Châu, Đà Nẵng"," 2,45 tỷ ", 50 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,5m,10m,2,3m,,
+" Đường Lê Đình Lý, Phường Vĩnh Trung, Quận Thanh Khê, Đà Nẵng"," 2,35 tỷ ", 57 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,5m,"11,5m",2,3m,,
+" Đường Lê Duẩn, Phường Chính Gián, Quận Thanh Khê, Đà Nẵng"," 2,75 tỷ ", 80 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,"4,5m",18m,2,4m,,
+" Đường Mai Am, Phường Thuận Phước, Quận Hải Châu, Đà Nẵng"," 2,3 tỷ ", 50 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,"4,5m",11m,2,3m,,
+" Đường Phan Bá Phiến, Phường Thọ Quang, Quận Sơn Trà, Đà Nẵng"," 2,65 tỷ ", 85 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,"4,5m",19m,2,4m,,
+" Đường Đống Đa, Phường Thạch Thang, Quận Hải Châu, Đà Nẵng"," 2,4 tỷ ", 36 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,4m,9m,3,3m,,
+" Đường Nguyễn Thiện Kế, Phường An Hải Đông, Quận Sơn Trà, Đà Nẵng"," 2,55 tỷ ", 52 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,5m,"10,5m",2,3m,,
+" Đường Hoàng Sĩ Khải, Phường An Hải Bắc, Quận Sơn Trà, Đà Nẵng"," 3,39 tỷ ", 76 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,4m,19m,2,4m,,
+" Đường Lê Hữu Trác, Phường An Hải Đông, Quận Sơn Trà, Đà Nẵng"," 2,395 tỷ ", 55 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,5m,11m,2,4m,,
+" Đường Phạm Cự Lượng, Phường An Hải Đông, Quận Sơn Trà, Đà Nẵng"," 3,05 tỷ ", 80 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,---,---,2,4m,,
+" Đường Phạm Cự Lượng, Phường An Hải Đông, Quận Sơn Trà, Đà Nẵng"," 3,25 tỷ ", 80 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,"4,2m",19m,2,5m,,
+" Đường Phan Thanh, Phường Thạc Gián, Quận Thanh Khê, Đà Nẵng"," 3,35 tỷ ", 52 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,"4,7m",11m,3,4m,,
+" Đường Phạm Văn Nghị, Phường Thạc Gián, Quận Thanh Khê, Đà Nẵng"," 3,37 tỷ ", 52 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,"4,5m","11,5m",3,"3,5m",,
+" Đường Nguyễn Hoàng, Phường Vĩnh Trung, Quận Thanh Khê, Đà Nẵng"," 3,4 tỷ ", 50 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,"4,7m","10,5m",3,"3,5m",,
+" Đường Núi Thành, Phường Hòa Thuận Đông, Quận Hải Châu, Đà Nẵng", 4 tỷ , 73 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,"4,5m",16m,3,4m,,
+" Đường Trưng Nữ Vương, Phường Bình Hiên, Quận Hải Châu, Đà Nẵng", 4 tỷ , 75 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,"4,3m","17,5m",3,4m,,
+" Đường Lê Đình Dương, Phường Phước Ninh, Quận Hải Châu, Đà Nẵng"," 2,57 tỷ ", 47 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,4m,"11,8m",2,"3,5m",,
+" Đường Đỗ Quang, Phường Vĩnh Trung, Quận Thanh Khê, Đà Nẵng"," 2,55 tỷ ", 48 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,4m,12m,2,3m,,
+" Đường Nguyễn Hoàng, Phường Nam Dương, Quận Hải Châu, Đà Nẵng"," 2,65 tỷ ", 50 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,4m,"12,5m",2,"3,5m",,
+" Đường Phạm Văn Nghị, Phường Vĩnh Trung, Quận Thanh Khê, Đà Nẵng"," 3,4 tỷ ", 51 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,"4,6m","11,2m",3,4m,,
+" Đường Nguyễn Hoàng, Phường Bình Thuận, Quận Hải Châu, Đà Nẵng"," 2,55 tỷ ", 46 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,4m,"11,5m",3,"3,5m",,
+" Đường Núi Thành, Phường Hòa Thuận Đông, Quận Hải Châu, Đà Nẵng"," 4,4 tỷ ", 57 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,"4,7m",12m,3,5m,,
+" Đường Nguyễn Hoàng, Phường Bình Thuận, Quận Hải Châu, Đà Nẵng"," 3,9 tỷ ", 56 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,"4,8m","11,5m",3,4m,,
+" Đường Núi Thành, Phường Bình Thuận, Quận Hải Châu, Đà Nẵng"," 4,43 tỷ ", 58 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,"4,5m","12,5m",3,5m,,
+" Đường Nguyễn Tri Phương, Phường Hòa Thuận Đông, Quận Hải Châu, Đà Nẵng"," 3,92 tỷ ", 56 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,"4,7m",12m,4,4m,,
+" Đường Lê Đình Lý, Phường Hòa Thuận Đông, Quận Hải Châu, Đà Nẵng"," 3,97 tỷ ", 56 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,5m,"11,2m",4,4m,,---
+" Đường Phan Thanh, Phường Thạc Gián, Quận Thanh Khê, Đà Nẵng"," 3,4 tỷ ", 52 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,5m,"10,5m",3,"4,5m",,---
+" Đường Thanh Sơn, Phường Thanh Bình, Quận Hải Châu, Đà Nẵng"," 3,05 tỷ ", 56 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,4m,14m,2,"3,5m",,
+" Đường Hoàng Diệu, Phường Bình Thuận, Quận Hải Châu, Đà Nẵng"," 2,6 tỷ ", 52 m2,_,Nhà trong hẻm,---,"4,1m","12,8m",2,"3,2m",,---
+" Đường Đống Đa, Phường Thuận Phước, Quận Hải Châu, Đà Nẵng"," 4,7 tỷ ", 68 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,6m,11m,3,5m,,
+" Đường Phan Châu Trinh, Phường Bình Thuận, Quận Hải Châu, Đà Nẵng"," 3,2 tỷ ", 62 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,5m,12m,2,"3,5m",,---
+" Đường Kỳ Đồng, Phường Xuân Hà, Quận Thanh Khê, Đà Nẵng"," 3,67 tỷ ", 65 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,"4,5m","14,5m",2,5m,,
+" Đường Lê Duẩn, Phường Thạc Gián, Quận Thanh Khê, Đà Nẵng"," 2,75 tỷ ", 58 m2,_,Nhà trong hẻm,---,"4,5m",---,2,"2,5m",---,---
+" Đường Lê Đình Dương, Phường Nam Dương, Quận Hải Châu, Đà Nẵng"," 2,85 tỷ ", 60 m2,_,Nhà trong hẻm,---,4m,"14,5m",3,3m,---,---
+" Đường Đào Duy Kỳ, Phường Nại Hiên Đông, Quận Sơn Trà, Đà Nẵng"," 3,95 tỷ ", 90 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,18m,2,"5,5m",,
+" Đường Giáp Hải, Phường Nại Hiên Đông, Quận Sơn Trà, Đà Nẵng"," 3,9 tỷ ", 90 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,18m,2,"5,5m",,
+" Đường Trần Phú, Phường Hải Châu I, Quận Hải Châu, Đà Nẵng", 83 tỷ , 170 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,7m,24m,23,16m,,
+" Đường Quang Trung, Phường Thạch Thang, Quận Hải Châu, Đà Nẵng"," 10,5 tỷ ", 56 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"4,5m","12,5m",4,11m,,
+" Đường Ông Ích Khiêm, Phường Thạch Thang, Quận Hải Châu, Đà Nẵng", 11 tỷ , 63 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,"12,5m",3,11m,,
+" Đường Hoàng Diệu, Phường Bình Thuận, Quận Hải Châu, Đà Nẵng"," 3,18 tỷ ", 60 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,12m,2,"3,5m",,---
+" Đường Lê Lợi, Phường Thạch Thang, Quận Hải Châu, Đà Nẵng"," 3,6 tỷ ", 67 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"4,5m",15m,2,3m,,---
+" Đường Nguyễn Công Trứ, Phường An Hải Đông, Quận Sơn Trà, Đà Nẵng"," 3,3 tỷ ", 105 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,5m,22m,1,4m,,
+" Đường 2/9, Phường Hòa Thuận Đông, Quận Hải Châu, Đà Nẵng", 3 tỷ , 65 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,4m,16m,2,4m,,
+" Đường Ông Ích Khiêm, Phường Thanh Bình, Quận Hải Châu, Đà Nẵng"," 2,4 tỷ ", 40 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,4m,10m,3,3m,,
+" Đường Nguyễn Phan Vinh, Phường Thọ Quang, Quận Sơn Trà, Đà Nẵng"," 2,195 tỷ ", 66 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,66m,12m,2,"3,5m",,
+" Đường Phan Châu Trinh, Phường Bình Hiên, Quận Hải Châu, Đà Nẵng"," 2,2 tỷ ", 54 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,"4,2m","12,8m",2,3m,,
+" Đường Đinh Núp, Phường An Khê, Quận Thanh Khê, Đà Nẵng"," 5,2 tỷ ", 81 m2,_,Nhà mặt tiền,---,"4,5m",18m,3,"5,5m",,
+" Đường Chi Lăng, Phường Hải Châu I, Quận Hải Châu, Đà Nẵng"," 24,5 tỷ ", 115 m2,_,Nhà mặt tiền,---,5m,23m,6,10m,---,---
+" Đường Lê Đình Lý, Phường Hòa Thuận Đông, Quận Hải Châu, Đà Nẵng", 9 tỷ , 73 m2,_,Nhà mặt tiền,---,"4,5m","16,29m",3,10m,,
+" Đường Bình Thái 3, Phường Hòa Thọ Đông, Quận Cẩm Lệ, Đà Nẵng"," 3,65 tỷ ", 90 m2,_,Nhà mặt tiền,---,5m,17m,1,"5,5m",---,---
+" Đường Phạm Cự Lượng, Phường An Hải Đông, Quận Sơn Trà, Đà Nẵng"," 22,6 tỷ ", 226 m2,_,Nhà mặt tiền,---,"7,66m","21,19m",---,"7,5m",---,---
+" Đường Nguyễn Cư Trinh, Phường Hòa Cường Bắc, Quận Hải Châu, Đà Nẵng"," 7,9 tỷ ", 81 m2,_,Nhà mặt tiền,---,"4,5m",18m,3,"7,5m",---,---
+" Đường Lê Nổ, Phường Hòa Cường Nam, Quận Hải Châu, Đà Nẵng", 7 tỷ , 100 m2,Bắc,Nhà mặt tiền,---,5m,---,---,"7,5m",---,---
+" Đường Hồ Nguyên Trừng, Phường Hòa Cường Nam, Quận Hải Châu, Đà Nẵng", 7 tỷ , 90 m2,Bắc,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"4,5m",---,3,"7,5m",---,---
+" Đường Hải Hồ, Phường Thanh Bình, Quận Hải Châu, Đà Nẵng"," 10,9 tỷ ", 113 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"7,4m",---,3,7m,---,---
+" Đường Trần Tống, Phường Vĩnh Trung, Quận Thanh Khê, Đà Nẵng"," 4,5 tỷ ", 52 m2,Đông,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"4,8m",---,2,"3,5m",---,---
+" Đường Nguyễn Phước Lan, Phường Hòa Xuân, Quận Cẩm Lệ, Đà Nẵng"," 9,8 tỷ ", 100 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,---,7,"7,5m",---,---
+" Đường Trưng Nữ Vương, Phường Bình Thuận, Quận Hải Châu, Đà Nẵng"," 12,5 tỷ ", 83 m2,Đông Nam,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"4,6m",---,3,10m,---,---
+" Đường Thanh Lương 18, Phường Hòa Xuân, Quận Cẩm Lệ, Đà Nẵng"," 4,8 tỷ ", 100 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,---,3,7m,---,---
+" Đường Phan Trọng Tuệ, Phường Hòa Cường Nam, Quận Hải Châu, Đà Nẵng"," 5,8 tỷ ", 70 m2,Nam,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,14m,4,"5,5m",---,---
+" Đường Lê Thanh Nghị, Phường Hòa Cường Bắc, Quận Hải Châu, Đà Nẵng"," 13,5 tỷ ", 87 m2,_,Nhà mặt tiền,---,5m,---,3,"10,m",---,---
+" Đường Lê Quảng Chí, Phường Hòa Xuân, Quận Cẩm Lệ, Đà Nẵng"," 7,7 tỷ ", 100 m2,_,Nhà mặt tiền,---,5m,---,3,10m,---,---
+" Đường Phan Đăng Lưu, Phường Hòa Cường Nam, Quận Hải Châu, Đà Nẵng", 16 tỷ , 97 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"4,6m",---,4,15m,---,---
+" Đường Lê Thanh Nghị, Phường Hòa Cường Bắc, Quận Hải Châu, Đà Nẵng"," 13,5 tỷ ", 87 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,---,3,10m,---,---
+" Đường Phan Đăng Lưu, Phường Hòa Cường Nam, Quận Hải Châu, Đà Nẵng"," 13,3 tỷ ", 130 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,---,3,10m,---,---
+" Đường Hàn Thuyên, Phường Hòa Cường Bắc, Quận Hải Châu, Đà Nẵng"," 7,8 tỷ ", 108 m2,Bắc,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"4,5m",---,3,"7,5m",---,---
+" Đường Thái Phiên, Phường Phước Ninh, Quận Hải Châu, Đà Nẵng"," 11,9 tỷ ", 40 m2,Bắc,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"5,6m",---,3,10m,---,---
+" Đường Nguyễn Khánh Toàn, Phường Hòa Cường Bắc, Quận Hải Châu, Đà Nẵng"," 5,9 tỷ ", 90 m2,_,Nhà mặt tiền,---,"4,5m",---,---,"5,5m",---,---
+" Đường Nguyễn Xuân Nhĩ, Phường Hòa Cường Nam, Quận Hải Châu, Đà Nẵng"," 6,8 tỷ ", 95 m2,_,Nhà mặt tiền,---,5m,---,3,"7,5m",---,---
+" Đường Tiên Sơn 5, Phường Hòa Cường Nam, Quận Hải Châu, Đà Nẵng"," 3,95 tỷ ", 64 m2,_,Nhà mặt tiền,---,4m,---,---,"3,7m",---,---
+" Đường Huỳnh Tấn Phát, Phường Hòa Cường Nam, Quận Hải Châu, Đà Nẵng", 14 tỷ , 102 m2,_,Nhà mặt tiền,---,5m,---,4,10m,---,---
+" Đường Trần Văn Đang, Phường Khuê Trung, Quận Cẩm Lệ, Đà Nẵng"," 4,1 tỷ ", 75 m2,Đông,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,15m,2,"5,5m",---,---
+" Đường Nguyễn Hữu Thọ, Phường Hòa Thuận Tây, Quận Hải Châu, Đà Nẵng", 17 tỷ , 125 m2,_,Nhà mặt tiền,---,5m,---,4,30m,---,---
+" Đường Phạm Phú Tiết, Phường Khuê Trung, Quận Cẩm Lệ, Đà Nẵng"," 7,95 tỷ ", 97 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,---,4,7m,---,---
+" Đường Trương Chí Cương, Phường Hòa Cường Nam, Quận Hải Châu, Đà Nẵng", 3 tỷ , 60 m2,Tây Bắc,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,4m,15m,---,4m,---,---
+" Đường Nguyễn Huy Tưởng, Phường Hòa Minh, Quận Liên Chiểu, Đà Nẵng"," 3,95 tỷ ", 164 m2,Đông Nam,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,7m,---,---,"4,5m",---,---
+" Đường Trần Cao Vân, Phường Tam Thuận, Quận Thanh Khê, Đà Nẵng"," 8,7 tỷ ", 53 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,8m,"6,6m",3,11m,,
+" Đường Ngô Quyền, Phường An Hải Đông, Quận Sơn Trà, Đà Nẵng", 14 tỷ , 160 m2,Đông,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,32m,1,48m,---,
+" Đường Nguyễn Hữu Thọ, Phường Khuê Trung, Quận Cẩm Lệ, Đà Nẵng"," 56,99 tỷ ", 490 m2,Tây Nam,Nhà mặt tiền,---,20m,"24,5m",3,48m,,
+" Đường Dương Khuê, Phường Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng", 12 tỷ , 110 m2,_,Nhà mặt tiền,---,---,---,3,10m,---,---
+" Đường Lê Hữu Khánh, Phường Khuê Mỹ, Quận Ngũ Hành Sơn, Đà Nẵng"," 14,5 tỷ ", 200 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,10m,20m,3,"7,5m",,
+" Đường An Thượng 33, Phường Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng", 21 tỷ , 162 m2,Đông,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,9m,18m,7,"5,5m",,
+" Đường Lê Hữu Trác, Phường An Hải Tây, Quận Sơn Trà, Đà Nẵng"," 9,95 tỷ ", 188 m2,Đông,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,8m,23m,3,6m,---,---
+" Đường Điện Biên Phủ, Phường Chính Gián, Quận Thanh Khê, Đà Nẵng"," 14,5 tỷ ", 74 m2,Nam,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,15m,1,48m,,
+" Đường Đoàn Khuê, Phường Khuê Mỹ, Quận Ngũ Hành Sơn, Đà Nẵng"," 5,93 tỷ ", 95 m2,Đông Bắc,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,19m,3,11m,,
+" Đường Hà Chương, Phường Phước Mỹ, Quận Sơn Trà, Đà Nẵng", 42 tỷ , 190 m2,_,Nhà mặt tiền,---,10m,19m,1,"7,5m",---,---
+" Đường 2/9, Phường Hòa Cường Nam, Quận Hải Châu, Đà Nẵng"," 29,5 tỷ ", 560 m2,_,Nhà mặt tiền,---,8m,40m,1,30m,---,---
+" Đường An Cư 5, Phường Phước Mỹ, Quận Sơn Trà, Đà Nẵng"," 7,8 tỷ ", 85 m2,_,Nhà mặt tiền,---,5m,17m,3,"5,5m",,
+" Đường An Cư 7, Phường Phước Mỹ, Quận Sơn Trà, Đà Nẵng"," 7,5 tỷ ", 80 m2,_,Nhà mặt tiền,---,5m,16m,3,"5,5m",---,---
+" Đường Tân An 2, Phường Hòa Cường Bắc, Quận Hải Châu, Đà Nẵng"," 5,6 tỷ ", 74 m2,_,Nhà mặt tiền,---,"4,5m","16,5m",3,"5,5m",---,---
+" Đường Ỷ Lan Nguyên Phi, Phường Hòa Cường Bắc, Quận Hải Châu, Đà Nẵng"," 7,75 tỷ ", 90 m2,_,Nhà mặt tiền,---,"4,5m",20m,3,"7,5m",---,---
+" Đường Hồ Sĩ Tân, Phường Nại Hiên Đông, Quận Sơn Trà, Đà Nẵng"," 7,3 tỷ ", 153 m2,_,Nhà mặt tiền,---,"5,5m",24m,3,"7,5m",---,---
+" Đường Ông Ích Khiêm, Phường Hải Châu I, Quận Hải Châu, Đà Nẵng", 93 tỷ , 400 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,20m,20m,4,20m,,
+" Đường Mai Thúc Lân, Phường Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng", 20 tỷ , 145 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,7m,---,2,30m,,
+" Đường Hải Hồ, Phường Thanh Bình, Quận Hải Châu, Đà Nẵng", 9 tỷ , 72 m2,_,Nhà mặt tiền,---,"4,2m",17m,4,"5,5m",,
+" Đường 2/9, Phường Hòa Cường Bắc, Quận Hải Châu, Đà Nẵng"," 32,5 tỷ ", 560 m2,_,Nhà mặt tiền,---,15m,23m,1,33m,---,---
+" Đường Đống Đa, Phường Thuận Phước, Quận Hải Châu, Đà Nẵng", 28 tỷ , 99 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,---,---,7,15m,---,---
+" Đường Đỗ Quang, Phường Vĩnh Trung, Quận Thanh Khê, Đà Nẵng"," 7,2 tỷ ", 51 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"11,6m","4,6m",2,7m,---,---
+" Đường Nguyễn Văn Linh, Phường Hòa Thuận Tây, Quận Hải Châu, Đà Nẵng"," 10,8 tỷ ", 90 m2,_,Nhà mặt tiền,---,5m,19m,5,7m,---,---
+" Đường Hoàng Văn Thụ, Phường Hải Châu I, Quận Hải Châu, Đà Nẵng", 65 tỷ , 380 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,18m,21m,1,7m,,
+" Đường Mai Am, Phường Thanh Bình, Quận Hải Châu, Đà Nẵng"," 7,9 tỷ ", 105 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,7m,15m,3,"7,5m",,
+" Đường Phan Huy Ôn, Phường Hòa Cường Bắc, Quận Hải Châu, Đà Nẵng"," 4,95 tỷ ", 70 m2,_,Nhà mặt tiền,---,5m,14m,4,"5,5m",,
+" Đường Phạm Cự Lượng, Phường An Hải Đông, Quận Sơn Trà, Đà Nẵng"," 8,5 tỷ ", 61 m2,_,Nhà mặt tiền,---,"4,7m","12,8m",4,"7,5m",,
+" Đường Nguyễn Sơn Hà, Phường Hòa Cường Bắc, Quận Hải Châu, Đà Nẵng"," 6,6 tỷ ", 85 m2,_,Nhà mặt tiền,---,5m,17m,2,"5,5m",,
+" Đường Phùng Chí Kiên, Phường Hòa Minh, Quận Liên Chiểu, Đà Nẵng"," 5,095 tỷ ", 87 m2,_,Nhà mặt tiền,---,5m,"17,5m",3,"5,5m",---,---
+" Đường Lê Anh Xuân, Phường Hòa Cường Nam, Quận Hải Châu, Đà Nẵng"," 4,5 tỷ ", 68 m2,_,Nhà mặt tiền,---,5m,14m,3,"5,5m",,
+" Đường Phạm Phú Tiết, Phường Khuê Trung, Quận Cẩm Lệ, Đà Nẵng"," 7,95 tỷ ", 97 m2,_,Nhà mặt tiền,---,5m,"19,5m",4,"7,5m",,
+" Đường Tiên Sơn 8, Phường Hòa Cường Nam, Quận Hải Châu, Đà Nẵng"," 10,3 tỷ ", 120 m2,_,Nhà mặt tiền,---,7m,"17,5m",3,"5,5m",,
+" Đường Đỗ Huy Uyển, Phường An Hải Bắc, Quận Sơn Trà, Đà Nẵng"," 8,3 tỷ ", 100 m2,_,Nhà mặt tiền,---,5m,20m,3,"7,5m",,
+" Đường Thân Nhân Trung, Phường Hòa Khê, Quận Thanh Khê, Đà Nẵng"," 5,6 tỷ ", 81 m2,_,Nhà mặt tiền,---,"4,5m",18m,3,"5,5m",,
+" Đường Kỳ Đồng, Phường Xuân Hà, Quận Thanh Khê, Đà Nẵng"," 9,8 tỷ ", 100 m2,_,Nhà mặt tiền,---,5m,20m,3,"7,5m",,
+" Đường Hoàng Hoa Thám, Phường Vĩnh Trung, Quận Thanh Khê, Đà Nẵng", 18 tỷ , 75 m2,_,Nhà mặt tiền,---,5m,15m,3,"7,5m",,
+" Đường Ỷ Lan Nguyên Phi, Phường Hòa Cường Bắc, Quận Hải Châu, Đà Nẵng", 12 tỷ , 100 m2,_,Nhà mặt tiền,---,5m,20m,5,"7,5m",,
+" Đường Nguyễn Hữu Dật, Phường Hòa Cường Bắc, Quận Hải Châu, Đà Nẵng", 13 tỷ , 100 m2,_,Nhà mặt tiền,---,5m,20m,3,10m,,
+" Đường Nguyễn Hữu Dật, Phường Hòa Cường Bắc, Quận Hải Châu, Đà Nẵng", 13 tỷ , 100 m2,_,Nhà mặt tiền,---,5m,20m,3,10m,,
+" Đường Nguyễn Du, Phường Thạch Thang, Quận Hải Châu, Đà Nẵng"," 18,5 tỷ ", 155 m2,_,Nhà mặt tiền,---,"5,2m","24,8m",3,10m,,
+" Đường Nguyễn Đức Trung, Phường Hòa Khê, Quận Thanh Khê, Đà Nẵng", 10 tỷ , 100 m2,_,Nhà mặt tiền,---,5m,20m,5,10m,,
+" Đường An Thượng 6, Phường Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng"," 13,2 tỷ ", 67 m2,_,Nhà mặt tiền,---,"4,5m","15,5m",6,"5,5m",,
+" Đường Trần Thủ Độ, Phường Khuê Trung, Quận Cẩm Lệ, Đà Nẵng"," 8,2 tỷ ", 100 m2,_,Nhà mặt tiền,---,5m,20m,3,"7,5m",,
+" Đường Nguyễn Tất Thành, Phường Tam Thuận, Quận Thanh Khê, Đà Nẵng", 30 tỷ , 250 m2,_,Nhà mặt tiền,---,10m,25m,4,30m,,
+" Đường Thân Cảnh Phúc, Phường Hòa Cường Bắc, Quận Hải Châu, Đà Nẵng", 18 tỷ , 210 m2,_,Nhà mặt tiền,---,10m,21m,3,"7,5m",,
+" Đường 3/2, Phường Thuận Phước, Quận Hải Châu, Đà Nẵng", 16 tỷ , 125 m2,_,Nhà mặt tiền,---,5m,25m,3,30m,,
+" Đường Nguyễn Chí Diễu, Phường An Hải Bắc, Quận Sơn Trà, Đà Nẵng"," 5,8 tỷ ", 100 m2,_,Nhà mặt tiền,---,5m,20m,2,"7,5m",,
+" Đường Phan Đăng Lưu, Phường Hòa Cường Bắc, Quận Hải Châu, Đà Nẵng"," 16,3 tỷ ", 100 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,---,---,3,15m,---,---
+" Đường Thái Thị Bôi, Phường Chính Gián, Quận Thanh Khê, Đà Nẵng"," 5,2 tỷ ", 70 m2,_,Nhà mặt tiền,---,"4,5m",16m,3,"7,5m",,
+" Đường Lê Hữu Trác, Phường An Hải Đông, Quận Sơn Trà, Đà Nẵng", 14 tỷ , 255 m2,_,Nhà trong hẻm,---,11m,23m,1,6m,,
+" Đường Ỷ Lan Nguyên Phi, Phường Hòa Cường Bắc, Quận Hải Châu, Đà Nẵng"," 15,3 tỷ ", 138 m2,_,Nhà trong hẻm,---,"7,2m",17m,6,4m,,
+" Đường Nguyễn Văn Thoại, Phường An Hải Đông, Quận Sơn Trà, Đà Nẵng"," 10,25 tỷ ", 168 m2,_,Nhà trong hẻm,---,7m,24m,2,6m,,
+" Đường Lê Đình Lý, Phường Vĩnh Trung, Quận Thanh Khê, Đà Nẵng"," 6,8 tỷ ", 104 m2,_,Nhà trong hẻm,---,"5,5m","18,5m",2,"7,5m",,
+" Đường Mai Xuân Thưởng, Phường Hòa Khê, Quận Thanh Khê, Đà Nẵng", 5 tỷ , 84 m2,_,Nhà mặt tiền,---,7m,"12,5m",1,"5,5m",,
+" Đường Thanh Hải, Phường Thanh Bình, Quận Hải Châu, Đà Nẵng", 9 tỷ , 102 m2,_,Nhà mặt tiền,---,"7,3m",14m,3,"7,5m",,
+" Đường Thái Phiên, Phường Phước Ninh, Quận Hải Châu, Đà Nẵng"," 8,3 tỷ ", 82 m2,_,Nhà trong hẻm,---,"4,5m","18,4m",3,5m,,
+" Đường Nguyễn Văn Linh, Phường Thạc Gián, Quận Thanh Khê, Đà Nẵng"," 4,09 tỷ ", 55 m2,_,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,5m,11m,1,5m,,---
+" Đường Nguyễn Văn Linh, Phường Vĩnh Trung, Quận Thanh Khê, Đà Nẵng"," 5,8 tỷ ", 63 m2,_,Nhà trong hẻm,---,"4,2m",15m,4,8m,,
+" Đường An Thượng 24, Phường Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng"," 6,5 tỷ ", 106 m2,_,Nhà trong hẻm,---,7m,15m,1,5m,,
+" Đường An Hải 17, Phường An Hải Bắc, Quận Sơn Trà, Đà Nẵng"," 2,65 tỷ ", 52 m2,Nam,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,4m,13m,1,4m,---,
+" 265 Đường Kinh Dương Vương, Phường Hòa Minh, Quận Liên Chiểu, Đà Nẵng"," 5,7 tỷ ", 77 m2,Tây Nam,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"4,5m",17m,3,"5,5m",,
+" Đường Điện Biên Phủ, Phường Thanh Khê Tây, Quận Thanh Khê, Đà Nẵng"," 17,5 tỷ ", 100 m2,Bắc,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,20m,3,60m,,
+" Đường Tống Phước Phổ, Phường Hòa Cường, Quận Hải Châu, Đà Nẵng"," 6,4 tỷ ", 68 m2,Tây,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,"13,6m",3,"5,5m",,
+" Đường Lương Ngọc Quyến, Phường Thanh Bình, Quận Hải Châu, Đà Nẵng"," 12,9 tỷ ", 140 m2,_,Nhà mặt tiền,---,"4,5m",30m,2,"7,5m",,
+" Đường Lê Lợi, Phường Thạch Thang, Quận Hải Châu, Đà Nẵng"," 13,5 tỷ ", 65 m2,_,Nhà mặt tiền,---,"7,1m",10m,3,"7,5m",,
+" Đường Thanh Thủy, Phường Thanh Bình, Quận Hải Châu, Đà Nẵng"," 7,3 tỷ ", 60 m2,_,Nhà mặt tiền,---,5m,12m,3,"7,5m",,
+" Đường Tiên Sơn 10, Phường Hòa Cường Nam, Quận Hải Châu, Đà Nẵng"," 13,5 tỷ ", 180 m2,_,Nhà mặt tiền,---,6m,30m,4,"5,5m",,
+" Đường Ngô Tất Tố, Phường Hòa Cường Bắc, Quận Hải Châu, Đà Nẵng", 8 tỷ , 78 m2,_,Nhà mặt tiền,---,"4,5m","17,5m",3,10m,,
+" Đường Hàn Thuyên, Phường Hòa Cường Bắc, Quận Hải Châu, Đà Nẵng", 11 tỷ , 112 m2,_,Nhà mặt tiền,---,5m,"22,5m",5,"7,5m",,
+" Đường Bế Văn Đàn, Phường Chính Gián, Quận Thanh Khê, Đà Nẵng"," 6,1 tỷ ", 75 m2,_,Nhà mặt tiền,---,5m,15m,3,"5,5m",,
+" Đường Nguyễn Biểu, Phường Hòa Khê, Quận Thanh Khê, Đà Nẵng"," 4,7 tỷ ", 81 m2,_,Nhà mặt tiền,---,"4,5m",18m,2,"5,5m",,
+" Đường Cần Giuộc, Phường Hòa Khê, Quận Thanh Khê, Đà Nẵng"," 7,2 tỷ ", 105 m2,_,Nhà mặt tiền,---,5m,21m,3,"7,5m",,
+" Đường Phan Đăng Lưu, Phường Hòa Cường Bắc, Quận Hải Châu, Đà Nẵng"," 14,75 tỷ ", 100 m2,_,Nhà mặt tiền,---,5m,20m,3,15m,,
+" Đường Nguyễn Như Hạnh, Phường Hòa Minh, Quận Liên Chiểu, Đà Nẵng", 5 tỷ , 102 m2,_,Nhà mặt tiền,---,8m,"13,5m",2,"7,5m",,
+" Đường Huỳnh Ngọc Huệ, Phường An Khê, Quận Thanh Khê, Đà Nẵng"," 8,7 tỷ ", 126 m2,_,Nhà mặt tiền,---,"4,5m",28m,2,10m,,
+" Đường Phan Anh, Phường Khuê Trung, Quận Cẩm Lệ, Đà Nẵng"," 6,2 tỷ ", 86 m2,_,Nhà mặt tiền,---,"4,5m",19m,4,"7,5m",,
+" Đường Chương Dương, Phường Khuê Mỹ, Quận Ngũ Hành Sơn, Đà Nẵng", 15 tỷ , 192 m2,_,Nhà mặt tiền,---,10m,"19,2m",2,15m,,
+" Đường Phan Văn Trị, Phường Khuê Trung, Quận Cẩm Lệ, Đà Nẵng", 15 tỷ , 252 m2,_,Nhà mặt tiền,---,"14,3m",18m,2,15m,,
+" Đường Phạm Đình Hổ, Phường Hòa Minh, Quận Liên Chiểu, Đà Nẵng", 8 tỷ , 140 m2,_,Nhà mặt tiền,---,7m,20m,3,"7,5m",,
+" Đường Bình Thái 3, Phường Hòa Thọ Đông, Quận Cẩm Lệ, Đà Nẵng"," 3,65 tỷ ", 90 m2,_,Nhà mặt tiền,---,5m,17m,1,"5,5m",---,---
+" Đường Nguyễn Cư Trinh, Phường Hòa Cường Bắc, Quận Hải Châu, Đà Nẵng"," 7,9 tỷ ", 81 m2,_,Nhà mặt tiền,---,"4,5m",18m,3,"7,5m",---,---
+" Đường Trần Huấn, Phường Khuê Trung, Quận Cẩm Lệ, Đà Nẵng"," 4,85 tỷ ", 50 m2,_,Nhà mặt tiền,---,5m,10m,3,10m,---,---
+" Đường Trần Huấn, Phường Khuê Trung, Quận Cẩm Lệ, Đà Nẵng"," 7,3 tỷ ", 100 m2,_,Nhà mặt tiền,---,5m,10m,2,10m,---,---
+" Đường Nguyễn Hữu Dật, Phường Hòa Cường Nam, Quận Hải Châu, Đà Nẵng", 10 tỷ , 100 m2,_,Nhà mặt tiền,---,5m,20m,3,10m,---,---
+" Đường Phan Đăng Lưu, Phường Hòa Cường Bắc, Quận Hải Châu, Đà Nẵng"," 13,3 tỷ ", 130 m2,_,Nhà mặt tiền,---,5m,26m,3,10m,---,---
+" Đường Tống Phước Phổ, Phường Hòa Cường Bắc, Quận Hải Châu, Đà Nẵng"," 6,5 tỷ ", 68 m2,_,Nhà mặt tiền,---,5m,"13,5m",3,6m,---,---
+" Đường Lê Lai, Phường Thạch Thang, Quận Hải Châu, Đà Nẵng"," 6,5 tỷ ", 49 m2,_,Nhà mặt tiền,---,"4,25m","11,5m",2,7m,---,---
+" Đường Nguyễn Văn Linh, Phường Hòa Thuận Tây, Quận Hải Châu, Đà Nẵng"," 6,2 tỷ ", 90 m2,_,Nhà mặt tiền,---,5m,18m,3,"7,5m",---,---
+" Đường Cần Giuộc, Phường An Khê, Quận Thanh Khê, Đà Nẵng"," 5,5 tỷ ", 90 m2,_,Nhà mặt tiền,---,5m,16m,2,"7,5m",---,---
+" Đường Kỳ Đồng, Phường Thanh Khê Đông, Quận Thanh Khê, Đà Nẵng"," 9,8 tỷ ", 100 m2,_,Nhà mặt tiền,---,5m,20m,3,"7,5m",---,---
+" Đường Thái Thị Bôi, Phường Chính Gián, Quận Thanh Khê, Đà Nẵng"," 5,4 tỷ ", 45 m2,_,Nhà mặt tiền,---,"3,86m","11,6m",3,"7,5m",---,---
+" Đường Huỳnh Tấn Phát, Phường Hòa Cường Nam, Quận Hải Châu, Đà Nẵng"," 11,5 tỷ ", 102 m2,_,Nhà mặt tiền,---,5m,"20,4m",3,10m,---,---
+" Đường Ngô Thị Liễu, Phường Hòa Cường Bắc, Quận Hải Châu, Đà Nẵng"," 6,5 tỷ ", 83 m2,_,Nhà mặt tiền,---,5m,"16,5m",3,"7,5m",---,---
+" Đường Nguyễn Khánh Toàn, Phường Hòa Cường Bắc, Quận Hải Châu, Đà Nẵng"," 6,5 tỷ ", 90 m2,_,Nhà mặt tiền,---,"4,5m","20,8m",1,"7,5m",---,---
+" Đường Tiểu La, Phường Hòa Cường Bắc, Quận Hải Châu, Đà Nẵng"," 18,5 tỷ ", 100 m2,_,Nhà mặt tiền,---,5m,20m,3,10m,---,---
+" Đường Hàn Thuyên, Phường Hòa Cường Bắc, Quận Hải Châu, Đà Nẵng"," 8,4 tỷ ", 100 m2,_,Nhà mặt tiền,---,5m,20m,3,"7,5m",---,---
+" Đường Lý Tự Trọng, Phường Thạch Thang, Quận Hải Châu, Đà Nẵng", 9 tỷ , 78 m2,_,Nhà mặt tiền,Giấy tờ hợp lệ,3m,16m,2,10m,---,---
+" Đường Ngô Tất Tố, Phường Hòa Cường Nam, Quận Hải Châu, Đà Nẵng"," 8,1 tỷ ", 82 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,20m,3,15m,---,---
+" Đường An Hải 6, Phường An Hải Bắc, Quận Sơn Trà, Đà Nẵng"," 4,7 tỷ ", 80 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,16m,3,8m,,
+" Đường Cù Chính Lan, Phường An Khê, Quận Thanh Khê, Đà Nẵng"," 3,6 tỷ ", 210 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"4,5m",19m,3,4m,,---
+" Đường Hà Huy Tập, Phường An Khê, Quận Thanh Khê, Đà Nẵng"," 3,5 tỷ ", 180 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,18m,4,4m,,---
+" Đường Đặng Tử Kính, Phường Thạch Thang, Quận Hải Châu, Đà Nẵng"," 14,5 tỷ ", 98 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"4,5m",21m,3,7m,---,
+" Đường Mai Am, Phường Thuận Phước, Quận Hải Châu, Đà Nẵng", 8 tỷ , 110 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,7m,16m,4,7m,,
+" Đường Hàn Mạc Tử, Phường Thuận Phước, Quận Hải Châu, Đà Nẵng"," 5,2 tỷ ", 68 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,4m,16m,3,3m,---,
+" Đường Đoàn Quý Phi, Phường Hòa Cường Nam, Quận Hải Châu, Đà Nẵng"," 5,75 tỷ ", 100 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,20m,1,"5,5m",---,
+" Đường Thanh Long, Phường Thuận Phước, Quận Hải Châu, Đà Nẵng"," 12,9 tỷ ", 100 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,6m,18m,3,"7,5m",,
+" Đường Nguyễn Thành Ý, Phường Hòa Cường Nam, Quận Hải Châu, Đà Nẵng"," 5,5 tỷ ", 80 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,4m,20m,3,"7,5m",,
+" Đường Tô Hiến Thành, Phường Phước Mỹ, Quận Sơn Trà, Đà Nẵng"," 7,2 tỷ ", 80 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,4m,20m,2,5m,,
+" Đường Đặng Văn Ngữ, Phường Hòa Thọ Tây, Quận Cẩm Lệ, Đà Nẵng", 10 tỷ , 105 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,20m,3,"7,5m",,
+" Đường Nguyễn Phước Nguyên, Phường An Khê, Quận Thanh Khê, Đà Nẵng"," 2,5 tỷ ", 55 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,11m,2,3m,---,
+" Đường An Hải 10, Phường An Hải Bắc, Quận Sơn Trà, Đà Nẵng"," 3,1 tỷ ", 52 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,4m,13m,1,8m,---,
+" Đường Phạm Cự Lượng, Phường An Hải Đông, Quận Sơn Trà, Đà Nẵng"," 8,7 tỷ ", 120 m2,Đông,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"4,5m","26,6m",2,"7,5m",---,---
+" Đường Đỗ Quang, Phường Vĩnh Trung, Quận Thanh Khê, Đà Nẵng"," 8,9 tỷ ", 54 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,---,---,4,"5,5m",---,---
+Đường Cao Thắng,Lê Đình Lý,Hùng Vương,Lê Lợi,3.2,Nguyễn Chí Thanh,Phan Châu Trinh,Tiểu La,2.9,Quang Trung,Đống Đa,Nguyễn Du,Lý Tự Trọng,Hoàng Diệu,Ông Ích Khiêm,Nguyễn Hoàng,Thái Phiên,Lê Hồng Phong,Hoàng Văn Thụ,Yên Bái,Trưng Nữ Vương,Ngô Gia Tự,Triệu Nữ Vương,Cao Thắng,Bắc Đẩu,Hải Hồ,Pasteur,Lê Đình Dương,Nguyễn Văn Linh,Lê Thanh Nghị,Xô Viết Nghệ Tĩnh,Trần Phú,Bạch Đằng,Nguyễn Tất Thành,Thái Thị Bôi,Lê Độ,Trường Chinh,Hải Phòng,Điện Biên Phủ,Hà Huy Tập,Trần Cao Vân,Nguyễn Tri Phương,Lê Lợi,Hùng Vương,Lê Đình Lý,Duy Tân,Tiểu La,Nguyễn Phước Nguyên,Xô Viết Nghệ Tĩnh,2.9,Nguyễn Lương Bằng,Nguyễn tất Thành,Bàu Tràm,Âu Cơ,Đoàn Phú Thứ,Nam Cao,Lạc Long Quân,Nguyễn Sinh Sắc,Kinh Dương Vương,Nguyên Chánh,Trần Đình Tri,Hoàng Văn Thái,Tố Hữu,Tôn Đức Thắng,Yết Kiêu,Lý Tử Tấn,Hoàng Sa,Lê Đức Thọ,Phan Bá Phiến,Trần Nhân Tông,Trương Định,Chu Huy Mân,Nại Hiên Đông,Dương Lâm,Lê Văn Duyệt,Dương Vân Nga,Lê Chân,Lý Đạo Hành,Ngô Quyền,Lê Văn Thứ,Võ Nguyên Giáp,Hồ Nghinh,Nguyễn Công Trứ,Võ Văn Kiệt,Lê Hữu Trác,Nguyễn Văn Thoại,Trần Hưng Đạo,Lê Văn Duyệt,Võ Nguyên Giáp,Lê Quang Đạo,Châu Thị Vĩnh tế,Phan Tứ,Trần Văn Dư,Hồ Xuân Hương,Bà Huyện Thanh Quan,Võ Như Hưng,Hoài Thanh,An Dương Vương,Phạm Hữu Kính,Lê Văn Hưu,Hồ Huân Nghiệp,Nguyễn Lữ,Đoàn Khuê,Trịnh Lỗi,Nghiêm Xuân yêm,Minh Mạng,Nguyễn Xiến,Trường Sa,Nguyễn Duy Trinh,Mai Đăng Chơn,Võ Chí Công,Phạm Đức Nam,Lê Quát,Trường Chinh,Tôn Đản,Lê Trọng Tấn,Lê Đại Hành,Xô Viết Nghệ Tĩnh,Thăng Long,Phạm Tứ,Phan Khôi,Lê Quang Định,Trần Nam Trung,Võ Chí Công,Hồ Sĩ Dương,Đường Quốc lộ 14B
+'Đường Cao Thắng','Lê Đình Lý','Hùng Vương','Lê Lợi','3.2','Nguyễn Chí Thanh','Phan Châu Trinh','Tiểu La','2.9','Quang Trung','Đống Đa','Nguyễn Du','Lý Tự Trọng','Hoàng Diệu','Ông Ích Khiêm','Nguyễn Hoàng','Thái Phiên','Lê Hồng Phong','Hoàng Văn Thụ','Yên Bái','Trưng Nữ Vương','Ngô Gia Tự','Triệu Nữ Vương','Cao Thắng','Bắc Đẩu','Hải Hồ','Pasteur','Lê Đình Dương','Nguyễn Văn Linh','Lê Thanh Nghị','Xô Viết Nghệ Tĩnh','Trần Phú','Bạch Đằng','Nguyễn Tất Thành','Thái Thị Bôi','Lê Độ','Trường Chinh','Hải Phòng','Điện Biên Phủ','Hà Huy Tập','Trần Cao Vân','Nguyễn Tri Phương','Lê Lợi','Hùng Vương','Lê Đình Lý','Duy Tân','Tiểu La','Nguyễn Phước Nguyên','Xô Viết Nghệ Tĩnh','2.9','Nguyễn Lương Bằng','Nguyễn tất Thành','Bàu Tràm','Âu Cơ','Đoàn Phú Thứ','Nam Cao','Lạc Long Quân','Nguyễn Sinh Sắc','Kinh Dương Vương','Nguyên Chánh','Trần Đình Tri','Hoàng Văn Thái','Tố Hữu','Tôn Đức Thắng','Yết Kiêu','Lý Tử Tấn','Hoàng Sa','Lê Đức Thọ','Phan Bá Phiến','Trần Nhân Tông','Trương Định','Chu Huy Mân','Nại Hiên Đông','Dương Lâm','Lê Văn Duyệt','Dương Vân Nga','Lê Chân','Lý Đạo Hành','Ngô Quyền','Lê Văn Thứ','Võ Nguyên Giáp','Hồ Nghinh','Nguyễn Công Trứ','Võ Văn Kiệt','Lê Hữu Trác','Nguyễn Văn Thoại','Trần Hưng Đạo','Lê Văn Duyệt','Võ Nguyên Giáp','Lê Quang Đạo','Châu Thị Vĩnh tế','Phan Tứ','Trần Văn Dư','Hồ Xuân Hương','Bà Huyện Thanh Quan','Võ Như Hưng','Hoài Thanh','An Dương Vương','Phạm Hữu Kính','Lê Văn Hưu','Hồ Huân Nghiệp','Nguyễn Lữ','Đoàn Khuê','Trịnh Lỗi','Nghiêm Xuân yêm','Minh Mạng','Nguyễn Xiến','Trường Sa','Nguyễn Duy Trinh','Mai Đăng Chơn','Võ Chí Công','Phạm Đức Nam','Lê Quát','Trường Chinh','Tôn Đản','Lê Trọng Tấn','Lê Đại Hành','Xô Viết Nghệ Tĩnh','Thăng Long','Phạm Tứ','Phan Khôi','Lê Quang Định','Trần Nam Trung','Võ Chí Công','Hồ Sĩ Dương','Đường Quốc lộ 14B'
+" Đường Tiên Sơn, Phường Hòa Cường Nam, Quận Hải Châu, Đà Nẵng"," 14,5 tỷ ", 120 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,6m,20m,4,16m,,
+" Đường Trần Đăng Ninh, Phường Hòa Cường Nam, Quận Hải Châu, Đà Nẵng"," 13,45 tỷ ", 120 m2,_,Nhà mặt tiền,---,6m,20m,4,17m,---,---
+" Đường Lê Thạch, Phường Hòa An, Quận Cẩm Lệ, Đà Nẵng"," 6,5 tỷ ", 125 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,---,3,"7,5m",,
+" Đường Trần Đăng Ninh, Phường Hòa Cường Nam, Quận Hải Châu, Đà Nẵng"," 14,1 tỷ ", 120 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,6m,20m,4,17m,---,---
+" Đường Lê Văn Duyệt, Phường Nại Hiên Đông, Quận Sơn Trà, Đà Nẵng"," 10,2 tỷ ", 144 m2,Đông,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,6m,24m,3,24m,,
+" Đường Bùi Dương Lịch, Phường Nại Hiên Đông, Quận Sơn Trà, Đà Nẵng"," 4,45 tỷ ", 72 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,4m,18m,3,"7,5m",---,
+" Đường Phan Huy Thực., Phường Nại Hiên Đông, Quận Sơn Trà, Đà Nẵng"," 4,9 tỷ ", 125 m2,Tây Nam,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,25m,1,"5,5m",---,
+" Đường Nguyễn Thị Hồng, Phường Thọ Quang, Quận Sơn Trà, Đà Nẵng"," 3,8 tỷ ", 68 m2,Tây,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"4,5m",15m,2,"5,5m",---,
+" Đường Chu Huy Mân, Phường Nại Hiên Đông, Quận Sơn Trà, Đà Nẵng"," 4,45 tỷ ", 70 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,14m,3,5m,,
+" Đường Nguyễn Phan Vinh, Phường Thọ Quang, Quận Sơn Trà, Đà Nẵng"," 3,7 tỷ ", 81 m2,Tây Nam,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,5m,16m,3,5m,,
+" Đường Nguyễn Phan Vinh, Phường Thọ Quang, Quận Sơn Trà, Đà Nẵng"," 2,2 tỷ ", 91 m2,Đông Nam,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,5m,14m,2,2m,---,---
+" Đường Nam Thọ, Phường Thọ Quang, Quận Sơn Trà, Đà Nẵng"," 3,9 tỷ ", 80 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,---,---,1,"5,5m",---,
+" Đường Ngô Quyền, Phường Mân Thái, Quận Sơn Trà, Đà Nẵng"," 3,85 tỷ ", 35 m2,Tây,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,5m,---,3,23m,---,
+" Đường Lê Bôi, Phường Mân Thái, Quận Sơn Trà, Đà Nẵng"," 2,8 tỷ ", 31 m2,_,Nhà mặt tiền,Sổ hồng/ Sổ đỏ,"4,5m",---,3,"5,5m",---,
+" Đường Ngô Quyền, Phường Thọ Quang, Quận Sơn Trà, Đà Nẵng"," 2,1 tỷ ", 50 m2,_,Nhà trong hẻm,---,4m,---,---,2m,---,---
+" Đường Đặng Thái Thân, Phường Hòa Hải, Quận Ngũ Hành Sơn, Đà Nẵng"," 2,9 tỷ ", 100 m2,Đông Bắc,Nhà trong hẻm,Sổ hồng/ Sổ đỏ,5m,20m,2,3mm,,
